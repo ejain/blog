@@ -1,17 +1,10 @@
 ---
-id: 34
 title: Scandinavia
-date: 2001-11-01T17:13:46+00:00
-author: Eric Jain
-layout: post
-guid: http://eric.jain.name/2001/11/01/scandinavia/
-permalink: /2001/11/01/scandinavia/
-categories:
+tags:
   - Travel
 ---
-Some pictures and notes from traveling two weeks in Scandinavia in October 2001.
 
-<!--more-->
+Some pictures and notes from traveling two weeks in Scandinavia in October 2001.
 
 <img border="0" src="/2001/11/01/scandinavia/map.gif" />
 
@@ -91,7 +84,7 @@ Bus from Arlanda airport to Uppsala (30 min). Train to G&#228;vle (45 min), then
         
         <tr>
           <td width="200" valign="top">
-            Uppsala&#8217;s Linnaeus Garden.<br />&nbsp;
+            Uppsala's Linnaeus Garden.<br />&nbsp;
           </td>
           
           <td width="200" valign="top">
@@ -264,7 +257,7 @@ Bus from Arlanda airport to Uppsala (30 min). Train to G&#228;vle (45 min), then
                       
                       <tr>
                         <td width="200" valign="top">
-                          Now we&#8217;re definitely in Norway.<br />&nbsp;
+                          Now we're definitely in Norway.<br />&nbsp;
                         </td>
                         
                         <td width="200" valign="top">
@@ -322,7 +315,7 @@ Bus from Arlanda airport to Uppsala (30 min). Train to G&#228;vle (45 min), then
                             </td>
                             
                             <td width="200" valign="top">
-                              On the way to Svolv&#230;r&#8230;<br />&nbsp;
+                              On the way to Svolv&#230;r...<br />&nbsp;
                             </td>
                             
                             <td width="200" valign="top">
@@ -453,7 +446,7 @@ Bus from Arlanda airport to Uppsala (30 min). Train to G&#228;vle (45 min), then
                                     </h3>
                                     
                                     <p>
-                                      The Ferry from &#197 to Bod&#248; doesn&#8217;t leave till in the evening, so there&#8217;s lots of time to go walking&#8230;
+                                      The Ferry from &#197 to Bod&#248; doesn't leave till in the evening, so there's lots of time to go walking...
                                     </p>
                                     
                                     <p align="center">
@@ -628,7 +621,7 @@ Bus from Arlanda airport to Uppsala (30 min). Train to G&#228;vle (45 min), then
                                                     </h3>
                                                     
                                                     <p>
-                                                      &#8220;Hurtigruten&#8221; boat from Trondheim to Bergen (28 h).
+                                                      "Hurtigruten" boat from Trondheim to Bergen (28 h).
                                                     </p>
                                                     
                                                     <p align="center">
@@ -717,7 +710,7 @@ Bus from Arlanda airport to Uppsala (30 min). Train to G&#228;vle (45 min), then
                                                             </h3>
                                                             
                                                             <p>
-                                                              Bergen: The first and only place during this trip where I have to use my umbrella&#8230;
+                                                              Bergen: The first and only place during this trip where I have to use my umbrella...
                                                             </p>
                                                             
                                                             <p align="center">
@@ -756,7 +749,7 @@ Bus from Arlanda airport to Uppsala (30 min). Train to G&#228;vle (45 min), then
                                                               </h3>
                                                               
                                                               <p>
-                                                                Along the &#8220;Norway in a Nutshell&#8221; route: Train from Bergen to Voss (1 h), bus to Gudvangen (1 h) and finally a boat to Fl&#229;m (2 h).
+                                                                Along the "Norway in a Nutshell" route: Train from Bergen to Voss (1 h), bus to Gudvangen (1 h) and finally a boat to Fl&#229;m (2 h).
                                                               </p>
                                                               
                                                               <p align="center">
@@ -866,7 +859,7 @@ Bus from Arlanda airport to Uppsala (30 min). Train to G&#228;vle (45 min), then
                                                                           
                                                                           <tr>
                                                                             <td width="200" valign="top">
-                                                                              The &#8220;Fl&#229;msbana&#8221;.<br />&nbsp;
+                                                                              The "Fl&#229;msbana".<br />&nbsp;
                                                                             </td>
                                                                             
                                                                             <td width="200" valign="top">
@@ -910,7 +903,7 @@ Bus from Arlanda airport to Uppsala (30 min). Train to G&#228;vle (45 min), then
                                                                             </h3>
                                                                             
                                                                             <p>
-                                                                              A day in Oslo&#8230;
+                                                                              A day in Oslo...
                                                                             </p>
                                                                             
                                                                             <p align="center">
@@ -935,7 +928,7 @@ Bus from Arlanda airport to Uppsala (30 min). Train to G&#228;vle (45 min), then
                                                                                   </td>
                                                                                   
                                                                                   <td width="200" valign="top">
-                                                                                    Edvard Munch&#8217;s &#8220;The day after&#8221; at the National Gallery. (Postcard)<br />&nbsp;
+                                                                                    Edvard Munch's "The day after" at the National Gallery. (Postcard)<br />&nbsp;
                                                                                   </td>
                                                                                   
                                                                                   <td width="200" valign="top">
@@ -1089,7 +1082,7 @@ Bus from Arlanda airport to Uppsala (30 min). Train to G&#228;vle (45 min), then
                                                                                               </td>
                                                                                               
                                                                                               <td width="200" valign="top">
-                                                                                                Small caf&#233; in Gamla Stan.<br />&nbsp;
+                                                                                                Small café in Gamla Stan.<br />&nbsp;
                                                                                               </td>
                                                                                               
                                                                                               <tr>
@@ -1224,7 +1217,7 @@ Bus from Arlanda airport to Uppsala (30 min). Train to G&#228;vle (45 min), then
                                                                                                         </td>
                                                                                                         
                                                                                                         <td width="200" valign="top">
-                                                                                                          Another house&#8230;<br />&nbsp;
+                                                                                                          Another house...<br />&nbsp;
                                                                                                         </td>
                                                                                                         
                                                                                                         <tr>
@@ -1243,7 +1236,7 @@ Bus from Arlanda airport to Uppsala (30 min). Train to G&#228;vle (45 min), then
                                                                                                         
                                                                                                         <tr>
                                                                                                           <td width="200" valign="top">
-                                                                                                            &#8230;and a more modern one.<br />&nbsp;
+                                                                                                            ...and a more modern one.<br />&nbsp;
                                                                                                           </td>
                                                                                                           
                                                                                                           <td width="200" valign="top">

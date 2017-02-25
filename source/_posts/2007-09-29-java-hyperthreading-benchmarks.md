@@ -1,21 +1,14 @@
 ---
-id: 53
 title: Some Java Benchmarks
-date: 2007-09-29T12:23:20+00:00
-author: Eric Jain
-layout: post
-guid: http://eric.jain.name/2007/09/29/java-hyperthreading-benchmarks/
-permalink: /2007/09/29/java-hyperthreading-benchmarks/
-categories:
-  - Programming
+tags:
+  - Tech
 ---
+
 During the last two weeks I ran some tests to answer a few questions that had been accumulating:
 
   1. Should I disable [hyper-threading](http://en.wikipedia.org/wiki/Hyper-threading) (ht)?
   2. How much does doubling the available memory improve performance?
   3. Mirror, mirror on the wall, who has the fastest JVM of them all?
-
-<!--more-->
 
 ### Method
 
@@ -41,11 +34,11 @@ Some of the tests were repeated with some of the JVM parameters [described by He
 
 ### Results
 
-Median response time (s) for running 1&#8217;000 queries sequentially:
+Median response time (s) for running 1'000 queries sequentially:
 
 ![](/2007/09/29/java-hyperthreading-benchmarks/search_1.png)
 
-Median response time (s) for running 1&#8217;000 queries from 10 parallel clients each:
+Median response time (s) for running 1'000 queries from 10 parallel clients each:
 
 ![](/2007/09/29/java-hyperthreading-benchmarks/search_10.png)
 
@@ -57,6 +50,6 @@ Total time (h) for loading and indexing (in a single thread) all data (UniProt r
 
 Hyper-threading can slow down single-threaded applications a bit (perhaps depending on whether the bottleneck is garbage collection, which can be done in a separate thread, or IO). But as soon as there are lots of threads there appears to be a clear benefit in keeping hyper-threading enabled.
 
-More memory is better (surprise)&#8230; Doubling the memory in the system from 2 to 4gb (and increasing the heap size from 1 to 2gb) improved performance by about a third for some configurations. Doubling again however may not be worth the expense (diminishing returns).
+More memory is better (surprise)... Doubling the memory in the system from 2 to 4gb (and increasing the heap size from 1 to 2gb) improved performance by about a third for some configurations. Doubling again however may not be worth the expense (diminishing returns).
 
-The latest version of Sun&#8217;s JVM appears to be a bit ahead of the others&#8230; for now!
+The latest version of Sun's JVM appears to be a bit ahead of the others... for now!

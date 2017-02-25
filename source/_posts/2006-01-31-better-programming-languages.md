@@ -1,20 +1,13 @@
 ---
-id: 57
 title: ToonTalk
-date: 2006-01-31T22:41:40+00:00
-author: Eric Jain
-layout: post
-guid: http://eric.jain.name/2006/01/31/better-programming-languages/
-permalink: /2006/01/31/better-programming-languages/
-categories:
+tags:
   - Humor
   - Programming
 ---
-It looks like our initiative to port all of our code to a [more compact and efficient language](http://www.muppetlabs.com/~breadbox/bf/) didn&#8217;t get very far. So what next?
 
-<!--more--> Perhaps we should try a simpler and more &#8220;friendly&#8221; programming language: 
+It looks like our initiative to port all of our code to a [more compact and efficient language](http://www.muppetlabs.com/~breadbox/bf/) didn't get very far. So what next?
 
-[ToonTalk](http://www.toontalk.com/).
+Perhaps we should try a simpler and more "friendly" programming language: [ToonTalk](http://www.toontalk.com/).
 
 Variables are called [boxes](http://www.toontalk.com/English/box.htm), function calls are [flying birds](http://www.toontalk.com/English/bird.htm) and strings are [text pads](http://www.toontalk.com/English/text.htm).
 

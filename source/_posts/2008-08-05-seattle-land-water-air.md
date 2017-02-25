@@ -1,17 +1,10 @@
 ---
-id: 66
 title: Seattle by Land, Water and Air
-date: 2008-08-05T17:11:10+00:00
-author: Eric Jain
-layout: post
-guid: http://eric.jain.name/2008/08/05/seattle-land-water-air/
-permalink: /2008/08/05/seattle-land-water-air/
-categories:
+tags:
   - Travel
 ---
-Having my sister visit me here in Seattle provided a good excuse to do some local sightseeing &#8212; first by land and water with the [Ducks of Seattle](http://www.ridetheducksofseattle.com/), then by air with [Seattle Sea Planes](http://www.seattleseaplanes.com/).
 
-<!--more-->
+Having my sister visit me here in Seattle provided a good excuse to do some local sightseeing--first by land and water with the [Ducks of Seattle](http://www.ridetheducksofseattle.com/), then by air with [Seattle Sea Planes](http://www.seattleseaplanes.com/).
 
 Here are the exact routes taken on these two tours:
 
@@ -27,12 +20,11 @@ Here are the exact routes taken on these two tours:
 <div id="map-plane">
 </div>
 
-[Tracklog](plane.gpx) | [Pictures](http://picasaweb.google.com/eric.jain/SeattleSeaPlaneAugust2008)
-
-
-
-
-  
-
+[Tracklog](plane.gpx) | [Photos](https://goo.gl/photos/XLQnqbExgLZLbkdK8)
 
 The routes were recorded with a Garmin eTrex H, and the maps were created with [Robogeo](http://www.robogeo.com/home/).
+
+<style type="text/css">#map-plane, #map-duck { width: 400px; height: 300px; }</style>
+<script src="//maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAA1ie5eJQW9e6q2ZQ_BA68hRTRNlqWHuvjCh6l9lpJg_hxaZzwYxRdO9Z9zsnPQ1egjGR83hDs3rnrLg"></script></p>
+<script type="text/javascript" src="duck.js"></script>
+<script type="text/javascript" src="plane.js"></script>

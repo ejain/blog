@@ -42,8 +42,12 @@ highlight:
 default_category: uncategorized
 category_map:
 tag_map:
-  Travel: travel
+  Humor: humor
+  Life Science: life science
   Quantified Self: quantified self
+  Review: review
+  Tech: tech
+  Travel: travel
 
 # Date / Time format
 date_format: YYYY-MM-DD

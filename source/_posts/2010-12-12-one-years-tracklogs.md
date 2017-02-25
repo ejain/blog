@@ -1,8 +1,7 @@
 ---
 title: One Year's Tracklogs
 tags:
-  - programming
-  - recreation
+  - Quantified Self
 ---
 
 Here's a map that shows every tracklog I recorded this year, driving and hiking around Washington State (mostly).

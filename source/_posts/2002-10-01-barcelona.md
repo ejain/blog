@@ -1,17 +1,10 @@
 ---
-id: 35
 title: Barcelona
-date: 2002-10-01T17:37:14+00:00
-author: Eric Jain
-layout: post
-guid: http://eric.jain.name/2002/10/01/barcelona/
-permalink: /2002/10/01/barcelona/
-categories:
+tags:
   - Travel
 ---
-Some pictures from a short stay in Barcelona, September 2002.
 
-<!--more-->
+Some pictures from a short stay in Barcelona, September 2002.
 
 <p align="center">
   <table class="gallery" cellspacing="10">
@@ -473,7 +466,7 @@ Some pictures from a short stay in Barcelona, September 2002.
                                       
                                       <tr>
                                         <td width="200" valign="top">
-                                          Albergue Mare de D&#233;u de Montserrat<br />&nbsp;
+                                          Albergue Mare de Déu de Montserrat<br />&nbsp;
                                         </td>
                                         
                                         <td width="200" valign="top">
@@ -654,7 +647,7 @@ Some pictures from a short stay in Barcelona, September 2002.
                                                     
                                                     <tr>
                                                       <td width="200" valign="top">
-                                                        Museo Nacional d&#8217;Art de Catalunya<br />&nbsp;
+                                                        Museo Nacional d'Art de Catalunya<br />&nbsp;
                                                       </td>
                                                       
                                                       <td width="200" valign="top">
