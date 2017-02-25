@@ -1,0 +1,24 @@
+extends partial/base
+
+include partial/post-meta
+
+block header
+    header.header-section
+        .intro-header.no-img
+            .container
+                .row
+                    .col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1
+                        .post-heading
+                            h1= page.title
+                            if page.subtitle
+                                h2.post-subheading= page.subtitle
+                            +post_meta(page.date, page.tags)
+
+block content
+    .container
+        .row
+            .col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1
+                article(role="main", class="blog-post")
+                    != page.content
+
+                include partial/comment

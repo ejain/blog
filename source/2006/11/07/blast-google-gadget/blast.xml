@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+<ModulePrefs 
+	title="ExPASy BLAST"
+	title_url="http://expasy.org/tools/blast/"
+	description="Blasts a sequence against the UniProt protein sequence database."
+	screenshot="http://eric.jain.name/2006/11/07/blast-google-gadget/screenshot.png"
+	thumbnail="http://eric.jain.name/2006/11/07/blast-google-gadget/thumbnail.png"
+	author="Eric Jain" 
+	author_email="eric.jain@gmail.com"
+	author_link="http://eric.jain.name/"
+/>
+<UserPref name="taxon" display_name="Taxonomic group" default_value="" datatype="enum" >
+	<EnumValue value="" />
+	<EnumValue value="Bacteria" />
+	<EnumValue value="Archaea" />
+	<EnumValue value="Viruses" />
+	<EnumValue value="Eukaryota" />
+	<EnumValue value="Viridiplantae" />
+	<EnumValue value="Fungi" />
+	<EnumValue value="Metazoa" />
+	<EnumValue value="Arthropoda" />
+	<EnumValue value="Vertebrata" />
+	<EnumValue value="Mammalia" />
+	<EnumValue value="Rodentia" />
+	<EnumValue value="Primates" />
+</UserPref> 
+<UserPref name="curated" display_name="Reviewed only?" datatype="bool"/>
+<Content type="html"><![CDATA[
+<p>
+	<form method="GET" action="http://www.expasy.org/cgi-bin/blast.pl" target="_top" name="form">
+		<input type="hidden" name="protdb_section" value="__UP_taxon__" />
+		<input type="hidden" name="curated" value="__UP_curated__" />
+		<input type="hidden" name="dbtype" value="UniProtKB" />
+		<textarea name="sequence" style="width: 100%" rows="5"></textarea>
+		<br />
+		<input type="submit" value="Run" style="margin-top: 0.5em">
+	</form>
+</p>
+]]>
+</Content>
+</Module>

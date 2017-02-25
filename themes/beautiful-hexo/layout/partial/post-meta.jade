@@ -1,0 +1,7 @@
+mixin post_meta(date, tags)
+    p.post-meta #{full_date(date, "MMMM D, YYYY")}
+        if tags
+            - tags.each(function(tag) {
+                = ' · '
+                a.tag.post-meta(href=url_for(tag.path))= tag.name
+            - })

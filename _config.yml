@@ -1,0 +1,99 @@
+# Site
+title: Eric Jain's Blog
+subtitle:
+description:
+author: Eric Jain
+language: en
+timezone: America/Los_Angeles
+
+# URL
+url: https://ejain.github.io
+root: /blog
+permalink: :year/:month/:day/:title/
+permalink_defaults:
+
+# Directory
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: ''
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render:
+
+# Writing
+new_post_name: :year-:month-:day-:title.md
+default_layout: post
+titlecase: false
+external_link: false
+filename_case: 0
+render_drafts: false
+post_asset_folder: false
+relative_link: false
+future: true
+highlight:
+  enable: false
+  line_number: false
+  auto_detect: false
+  tab_replace:
+
+# Category & Tag
+default_category: uncategorized
+category_map:
+tag_map:
+  Travel: travel
+  Quantified Self: quantified self
+
+# Date / Time format
+date_format: YYYY-MM-DD
+time_format: HH:mm:ss
+
+# Pagination
+per_page: 10
+pagination_dir: page
+
+# Extensions
+theme: beautiful-hexo
+
+# Archive
+archive_generator:
+  per_page: 0
+  yearly: false
+  monthly: false
+  daily: false
+
+# Footer
+footer:
+  rss:
+    link: '/atom.xml'
+    title: RSS
+    icon: fa-rss
+    enable: true
+  mail:
+    link: 'mailto:eric.jain@gmail.com'
+    title: Email me
+    icon: fa-envelope
+    enable: true
+  linkedin:
+    link: https://www.linkedin.com/in/ejain
+    title: LinkedIn
+    icon: fa-linkedin
+    enable: true
+  googleplus:
+    link: https://plus.google.com/+EricJain
+    title: Google+
+    icon: fa-google-plus
+    enable: true
+  github:
+    link: 'https://github.com/ejain'
+    title: GitHub
+    icon: fa-github
+    enable: true
+
+# Deployment
+deploy:
+  type: git
+  repo: https://github.com/ejain/blog.git
+  branch: gh-pages
+  message: site updated
