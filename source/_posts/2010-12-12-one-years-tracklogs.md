@@ -6,7 +6,7 @@ tags:
 
 Here's a map that shows every tracklog I recorded this year, driving and hiking around Washington State (mostly).
 
-[![Eric's Tracklogs 2010](http://farm6.static.flickr.com/5121/5256169282_e8d8d29480_z.jpg)](http://www.google.com/fusiontables/DataSource?snapid=115713)
+[![Eric's Tracklogs 2010](//farm6.static.flickr.com/5121/5256169282_e8d8d29480_z.jpg)](https://www.google.com/fusiontables/DataSource?snapid=115713)
 
 The red tracks were recorded while driving (or, in one instance, while on a ferry). The yellow tracks were recorded while hiking (or in small boats). I only started recording driving tracklogs end of April, hence the few disconnected hiking tracks on the map.
 

@@ -35,7 +35,7 @@ while (rows.hasNext()) {
 }
 ```
 
-This works fine -- except that there doesn't seem to be a way to keep the precision of numbers, i.e. if you don't want to convert "4" to "4.0"! Fortunately POI isn't the only game in town. I ended up using [JExcel API](http://jexcelapi.sourceforge.net/) which has a much simpler API (and behaves the way I want it to):
+This works fine--except that there doesn't seem to be a way to keep the precision of numbers, i.e. if you don't want to convert "4" to "4.0"! Fortunately POI isn't the only game in town. I ended up using [JExcel API](http://jexcelapi.sourceforge.net/) which has a much simpler API (and behaves the way I want it to):
 
 ```
 Workbook workbook = Workbook.getWorkbook(in);

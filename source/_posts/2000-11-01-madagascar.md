@@ -15,58 +15,14 @@ While Antananarivo doesn't have any major tourist attractions it is an interesti
 
 The Tsimbazaza zoo and botanical garden outside the city is a quiet and pleasant place to get a break after seeing the city.
 
-<div class="row">
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="film/m/4-01.jpg"><img src="film/s/4-01.jpg" /></a>
-      <div class="caption">
-        The Zoma market area.
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="film/m/4-04.jpg"><img src="film/s/4-04.jpg" /></a>
-      <div class="caption">
-        Typical traffic situation.
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="film/m/4-06.jpg"><img src="film/s/4-06.jpg" /></a>
-      <div class="caption">
-        Better traffic situation.
-      </div>
-    </div>
-  </div>
-</div>
-<div class="row">
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="film/m/1-03.jpg"><img src="film/s/1-03.jpg" /></a>
-      <div class="caption">
-        Inside the Tsimbazaza garden.
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="film/m/1-02.jpg"><img src="film/s/1-02.jpg" /></a>
-      <div class="caption">
-        The Rova, or queen's castle, or what's left of it.
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="film/m/4-10.jpg"><img src="film/s/4-10.jpg" /></a>
-      <div class="caption">
-        One of the few street lights in the city.
-      </div>
-    </div>
-  </div>
-</div>
+{% gallery %}
+film/s/4-01.jpg | film/m/4-01.jpg | The Zoma market area.
+film/s/4-04.jpg | film/m/4-04.jpg | Typical traffic situation.
+film/s/4-06.jpg | film/m/4-06.jpg | Better traffic situation.
+film/s/1-03.jpg | film/m/1-03.jpg | Inside the Tsimbazaza garden.
+film/s/1-02.jpg | film/m/1-02.jpg | The Rova, or queen's castle, or what's left of it.
+film/s/4-10.jpg | film/m/4-10.jpg | One of the few street lights in the city.
+{% endgallery %}
       
 ### Day 2
 
@@ -74,17 +30,10 @@ Taxi-brousse to Antsirabe. Taxi-brousse are private cars and minibuses operating
 
 Antsirabe used to be a classy colonial retreat, though nowadays all I notice are the somewhat to many pousse-pousse, small rickshaws. Lots of tourists, nearly all of them from Madagascar.
 
-<div class="row">
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="film/m/1-07.jpg"><img src="film/s/1-07.jpg" /></a>
-      <div class="caption">
-        A pousse-pousse, from a safe distance.
-      </div>
-    </div>
-  </div>
-</div>
-        
+{% gallery %}
+film/s/1-07.jpg | film/m/1-07.jpg | A pousse-pousse, from a safe distance.
+{% endgallery %}
+
 ### Day 3
         
 Breakfast at Helena's Salon de Thé which offers interesting interpretations of concepts such as croissant and pain au chocolat.
@@ -95,131 +44,27 @@ Taxi-brousse to Fianarantsoa, beautiful trip. Arrival in the late afternoon. Hô
 
 Shaky two hour trip to Ranomafana National Park, back to Fianarantsoa in the afternoon.
 
-<div class="row">
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="film/m/1-40.jpg"><img src="film/s/1-40.jpg" /></a>
-      <div class="caption">
-        The road to Ranomafana.
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="film/m/1-08.jpg"><img src="film/s/1-08.jpg" /></a>
-      <div class="caption">
-        Waterfall near the park entrance.
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="film/m/1-39.jpg"><img src="film/s/1-39.jpg" /></a>
-      <div class="caption">
-        The river flowing through the park.
-      </div>
-    </div>
-  </div>
-</div>
-<div class="row">
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="film/m/1-12.jpg"><img src="film/s/1-12.jpg" /></a>
-      <div class="caption">
-        Path inside the park.
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="film/m/1-26.jpg"><img src="film/s/1-26.jpg" /></a>
-      <div class="caption">
-        A family of small lemurs cuddled together.
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="film/m/1-37.jpg"><img src="film/s/1-37.jpg" /></a>
-      <div class="caption">
-        Two bigger lemurs.
-      </div>
-    </div>
-  </div>
-</div>
-<div class="row">
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="film/m/1-19.jpg"><img src="film/s/1-19.jpg" /></a>
-      <div class="caption">
-        Twisted trees.
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="film/m/1-09.jpg"><img src="film/s/1-09.jpg" /></a>
-      <div class="caption">
-        Yet another path.
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="film/m/1-28.jpg"><img src="film/s/1-28.jpg" /></a>
-      <div class="caption">
-        View over the park.
-      </div>
-    </div>
-  </div>
-</div>
-<div class="row">
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="film/m/1-24.jpg"><img src="film/s/1-24.jpg" /></a>
-      <div class="caption">
-        Fern tree.
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="film/m/1-31.jpg"><img src="film/s/1-31.jpg" /></a>
-      <div class="caption">
-        Green stuff...
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="film/m/1-32.jpg"><img src="film/s/1-32.jpg" /></a>
-      <div class="caption">
-        ...everywhere.
-      </div>
-    </div>
-  </div>
-</div>
-				
+{% gallery %}
+film/s/1-40.jpg | film/m/1-40.jpg | The road to Ranomafana.
+film/s/1-08.jpg | film/m/1-08.jpg | Waterfall near the park entrance.
+film/s/1-39.jpg | film/m/1-39.jpg | The river flowing through the park.
+film/s/1-12.jpg | film/m/1-12.jpg | Path inside the park.
+film/s/1-26.jpg | film/m/1-26.jpg | A family of small lemurs cuddled together.
+film/s/1-37.jpg | film/m/1-37.jpg | Two bigger lemurs.
+film/s/1-19.jpg | film/m/1-19.jpg | Twisted trees.
+film/s/1-09.jpg | film/m/1-09.jpg | Yet another path.
+film/s/1-28.jpg | film/m/1-28.jpg | View over the park.
+film/s/1-24.jpg | film/m/1-24.jpg | Fern tree.
+film/s/1-31.jpg | film/m/1-31.jpg | Green stuff...
+film/s/1-32.jpg | film/m/1-32.jpg | ...everywhere.
+{% endgallery %}
+
 ### Day 5
 
-<div class="row">
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="film/m/2-02.jpg"><img src="film/s/2-02.jpg" /></a>
-      <div class="caption">
-        View on the city from the west.
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="film/m/2-03.jpg"><img src="film/s/2-03.jpg" /></a>
-      <div class="caption">
-        Some houses on the slope to the west of the city.
-      </div>
-    </div>
-  </div>
-</div>
+{% gallery %}
+film/s/2-02.jpg | film/m/2-02.jpg | View on the city from the west.
+film/s/2-03.jpg | film/m/2-03.jpg | Some houses on the slope to the west of the city.
+{% endgallery %}
 
 ### Day 6
 
@@ -231,27 +76,10 @@ Beautiful but rough trip. We arrive in Manakara close to midnight.
 
 Nice beach, though the ocean is a bit rough and the sharks unfriendly.
                     
-<table class="gallery" cellspacing="10">
-	<tr>
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/2-07.jpg"><img border="0" src="film/s/2-07.jpg" /></a>
-		</td>
-		
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/2-06.jpg"><img border="0" src="film/s/2-06.jpg" /></a>
-		</td>
-	</tr>
-	
-	<tr>
-		<td width="200" valign="top">
-			View from the charming but decaying Hôtel de Manakara.<br />&nbsp;
-		</td>
-		
-		<td width="200" valign="top">
-			Path next to the beach.<br />&nbsp;
-		</td>
-	</tr>
-</table>
+{% gallery %}
+film/s/2-07.jpg | film/m/2-07.jpg | View from the charming but decaying Hôtel de Manakara.
+film/s/2-06.jpg | film/m/2-06.jpg | Path next to the beach.
+{% endgallery %}
 
 ### Day 8
 
@@ -259,120 +87,29 @@ Short flight with a great view on the Pangalanes, a semi-artificial system of ca
 
 At midnight a once-in-seven-years one-month-long circumcision ritual of a local tribe is opened. No special visual effects, but an interesting atmosphere nevertheless.
                       
-<table class="gallery" cellspacing="10">
-	<tr>
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/2-25.jpg"><img border="0" src="film/s/2-25.jpg" /></a>
-		</td>
-		
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/2-14.jpg"><img border="0" src="film/s/2-14.jpg" /></a>
-		</td>
-		
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/2-15.jpg"><img border="0" src="film/s/2-15.jpg" /></a>
-		</td>
-	</tr>
+{% gallery %}
+film/s/2-25.jpg | film/m/2-25.jpg | Air Mad.
+film/s/2-14.jpg | film/m/2-14.jpg | One of the villages along the way.
+film/s/2-15.jpg | film/m/2-15.jpg |
+film/s/2-19.jpg | film/m/2-19.jpg |
+film/s/2-21.jpg | film/m/2-21.jpg |
+film/s/2-26.jpg | film/m/2-26.jpg | Bungalows at the Hôtel Jardin de la Mer.
+{% endgallery %}
 
-	<tr>
-		<td width="200" valign="top">
-			Air Mad.<br />&nbsp;
-		</td>
-		
-		<td width="200" valign="top">
-			One of the villages along the way.<br />&nbsp;
-		</td>
-		
-		<td width="200" valign="top">
-		</td>
-		
-		<tr>
-			<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-				<a href="film/m/2-19.jpg"><img border="0" src="film/s/2-19.jpg" /></a>
-			</td>
-			
-			<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-				<a href="film/m/2-21.jpg"><img border="0" src="film/s/2-21.jpg" /></a>
-			</td>
-			
-			<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-				<a href="film/m/2-26.jpg"><img border="0" src="film/s/2-26.jpg" /></a>
-			</td>
-		</tr>
-		
-		<tr>
-			<td width="200" valign="top">
-			</td>
-			
-			<td width="200" valign="top">
-			</td>
-			
-			<td width="200" valign="top">
-				Bungalows at the Hôtel Jardin de la Mer.<br />&nbsp;
-			</td>
-		</tr>
-</table> 
-		
-### Day 9
+### Day 9--10
 
 The patron of the restaurant La Route des Epiciers is able to organize a pirogue, a type of wooden boat widely used in this area, for a day for some French people and myself. We paddle 12 kilometers to the south, where the canal widens into a small lake. Picnic at the beach between the lake and the ocean, then back home.
                             
 Next morning I try to find a motor-pirogue to Nosy Varika. I soon realize that few people here speak French. Finally I do find someone who intends to leave this evening. Though later on he decides that his boat is still too empty, so we won't leave until tomorrow morning.
                             
-<table class="gallery" cellspacing="10">
-	<tr>
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/2-29.jpg"><img border="0" src="film/s/2-29.jpg" /></a>
-		</td>
-		
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/2-31.jpg"><img border="0" src="film/s/2-31.jpg" /></a>
-		</td>
-		
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/2-35.jpg"><img border="0" src="film/s/2-35.jpg" /></a>
-		</td>
-	</tr>
-	
-	<tr>
-		<td width="200" valign="top">
-			One of the narrower parts of the canal.<br />&nbsp;
-		</td>
-		
-		<td width="200" valign="top">
-		</td>
-		
-		<td width="200" valign="top">
-			A medium sized pirogue.<br />&nbsp;
-		</td>
-		
-		<tr>
-			<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-				<a href="film/m/2-36.jpg"><img border="0" src="film/s/2-36.jpg" /></a>
-			</td>
-			
-			<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-				<a href="film/m/2-28.jpg"><img border="0" src="film/s/2-28.jpg" /></a>
-			</td>
-			
-			<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-				<a href="film/m/2-27.jpg"><img border="0" src="film/s/2-27.jpg" /></a>
-			</td>
-		</tr>
-		
-		<tr>
-			<td width="200" valign="top">
-				People doing laundry and fishing.<br />&nbsp;
-			</td>
-			
-			<td width="200" valign="top">
-			</td>
-			
-			<td width="200" valign="top">
-				Sunset in Mananjary.<br />&nbsp;
-			</td>
-		</tr>
-</table> 
+{% gallery %}
+film/s/2-29.jpg | film/m/2-29.jpg | One of the narrower parts of the canal.
+film/s/2-31.jpg | film/m/2-31.jpg |
+film/s/2-35.jpg | film/m/2-35.jpg | A medium sized pirogue.
+film/s/2-36.jpg | film/m/2-36.jpg | People doing laundry and fishing.
+film/s/2-28.jpg | film/m/2-28.jpg |
+film/s/2-27.jpg | film/m/2-27.jpg | Sunset in Mananjary.
+{% endgallery %}
 
 ### Day 11
 
@@ -380,179 +117,46 @@ Twelve hour journey abourd a two by ten meter motor-powered pirogue, along with 
 
 In Nosy Varika I'm pointed to the nearest (and only) hotel, La Petite Oasis, which has a few simple bungalows.
 
-<table class="gallery" cellspacing="10">
-	<tr>
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/2-39.jpg"><img border="0" src="film/s/2-39.jpg" /></a>
-		</td>
-		
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/3-01.jpg"><img border="0" src="film/s/3-01.jpg" /></a>
-		</td>
-	</tr>
-	
-	<tr>
-		<td width="200" valign="top">
-			One of the lakes on the way.<br />&nbsp;
-		</td>
-		
-		<td width="200" valign="top">
-			Sunset along the canal.<br />&nbsp;
-		</td>
-	</tr>
-</table>
+{% gallery %}
+film/s/2-39.jpg | film/m/2-39.jpg | One of the lakes on the way.
+film/s/3-01.jpg | film/m/3-01.jpg | Sunset along the canal.
+{% endgallery %}
 
 ### Day 12
 
 Finding transport from Nosy Varika onward turns out to be difficult. I decide to continue by foot, after resting a day.
                                     
-<table class="gallery" cellspacing="10">
-	<tr>
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/3-03.jpg"><img border="0" src="film/s/3-03.jpg" /></a>
-		</td>
-		
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/3-02.jpg"><img border="0" src="film/s/3-02.jpg" /></a>
-		</td>
-		
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/3-04.jpg"><img border="0" src="film/s/3-04.jpg" /></a>
-		</td>
-	</tr>
-	
-	<tr>
-		<td width="200" valign="top">
-			The main road to Nosy Varika.<br />&nbsp;
-		</td>
-		
-		<td width="200" valign="top">
-			The only jeep I can find.<br />&nbsp;
-		</td>
-		
-		<td width="200" valign="top">
-			The beach a kilometer south of the village.<br />&nbsp;
-		</td>
-	</tr>
-</table>
+{% gallery %}
+film/s/3-03.jpg | film/m/3-03.jpg | The main road to Nosy Varika.
+film/s/3-02.jpg | film/m/3-02.jpg | The only jeep I can find.
+film/s/3-04.jpg | film/m/3-04.jpg | The beach a kilometer south of the village.
+{% endgallery %}
 
 ### Day 13
 
 Eight hour, forty kilometer hike to Masomelka with a guide I hired for the day. Get a ride with a delegation of the World Food Program agency which happened to visit the village that day all the way to Mahanoro by boat, jeep and ferry.
 
-<table class="gallery" cellspacing="10">
-	<tr>
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/3-07.jpg"><img border="0" src="film/s/3-07.jpg" /></a>
-		</td>
-		
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/3-08.jpg"><img border="0" src="film/s/3-08.jpg" /></a>
-		</td>
-		
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/3-09.jpg"><img border="0" src="film/s/3-09.jpg" /></a>
-		</td>
-	</tr>
-	
-	<tr>
-		<td width="200" valign="top">
-			Leaving Nosy Varika.<br />&nbsp;
-		</td>
-		
-		<td width="200" valign="top">
-		</td>
-		
-		<td width="200" valign="top">
-		</td>
-	</tr>
-		
-	<tr>
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/3-10.jpg"><img border="0" src="film/s/3-10.jpg" /></a>
-		</td>
-		
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/3-11.jpg"><img border="0" src="film/s/3-11.jpg" /></a>
-		</td>
-		
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/3-13.jpg"><img border="0" src="film/s/3-13.jpg" /></a>
-		</td>
-	</tr>
-		
-	<tr>
-		<td width="200" valign="top">
-		</td>
-		
-		<td width="200" valign="top">
-			One of the dryier parts along the way.<br />&nbsp;
-		</td>
-		
-		<td width="200" valign="top">
-		</td>
-	</tr>
-			
-	<tr>
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/3-14.jpg"><img border="0" src="film/s/3-14.jpg" /></a>
-		</td>
-		
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/3-15.jpg"><img border="0" src="film/s/3-15.jpg" /></a>
-		</td>
-		
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/3-17.jpg"><img border="0" src="film/s/3-17.jpg" /></a>
-		</td>
-	</tr>
-	
-	<tr>
-		<td width="200" valign="top">
-		</td>
-		
-		<td width="200" valign="top">
-			A single zebu.<br />&nbsp;
-		</td>
-		
-		<td width="200" valign="top">
-		</td>
-	</tr>
-</table> 
+{% gallery %}
+film/s/3-07.jpg | film/m/3-07.jpg | Leaving Nosy Varika.
+film/s/3-08.jpg | film/m/3-08.jpg |
+film/s/3-09.jpg | film/m/3-09.jpg |
+film/s/3-10.jpg | film/m/3-10.jpg |
+film/s/3-11.jpg | film/m/3-11.jpg | One of the dryier parts along the way.
+film/s/3-13.jpg | film/m/3-13.jpg |
+film/s/3-14.jpg | film/m/3-14.jpg |
+film/s/3-15.jpg | film/m/3-15.jpg | A single zebu.
+film/s/3-17.jpg | film/m/3-17.jpg |
+{% endgallery %}
 
 ### Day 14
 
 The only taxi-brousse to Toamasina is broken, so I get on a pick-up truck to the next bigger village to the north, Vatomandry. There we barely manage to catch up with the last taxi-brousse to Toamasina. Five more hours. Hôtel Generation.
 
-<table class="gallery" cellspacing="10">
-	<tr>
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/3-18.jpg"><img border="0" src="film/s/3-18.jpg" /></a>
-		</td>
-		
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/3-21.jpg"><img border="0" src="film/s/3-21.jpg" /></a>
-		</td>
-		
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/3-22.jpg"><img border="0" src="film/s/3-22.jpg" /></a>
-		</td>
-	</tr>
-	
-	<tr>
-		<td width="200" valign="top">
-			The beach in Mahanoro.<br />&nbsp;
-		</td>
-		
-		<td width="200" valign="top">
-			A village along the way.<br />&nbsp;
-		</td>
-		
-		<td width="200" valign="top">
-			The street near Mahanoro.<br />&nbsp;
-		</td>
-	</tr>
-</table>
+{% gallery %}
+film/s/3-18.jpg | film/m/3-18.jpg | The beach in Mahanoro.
+film/s/3-21.jpg | film/m/3-21.jpg | A village along the way.
+film/s/3-22.jpg | film/m/3-22.jpg | The street near Mahanoro.
+{% endgallery %}
 
 ### Day 15
 
@@ -562,27 +166,10 @@ The Musée Regional de l'Université de Toamasina has some traditional tools and
 
 The zoo/botanical garden near Ivoloina just outside the city is small but really nice. Lots of lemurs, both free and in cages.
 
-<table class="gallery" cellspacing="10">
-	<tr>
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/3-23.jpg"><img border="0" src="film/s/3-23.jpg" /></a>
-		</td>
-		
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/3-26.jpg"><img border="0" src="film/s/3-26.jpg" /></a>
-		</td>
-	</tr>
-	
-	<tr>
-		<td width="200" valign="top">
-			Free lemur.<br />&nbsp;
-		</td>
-		
-		<td width="200" valign="top">
-			Caged lemurs.<br />&nbsp;
-		</td>
-	</tr>
-</table>
+{% gallery %}
+film/s/3-23.jpg | film/m/3-23.jpg | Free lemur.
+film/s/3-26.jpg | film/m/3-26.jpg | Caged lemurs.
+{% endgallery %}
 
 ### Day 16
 
@@ -598,95 +185,40 @@ Next day I have a closer look at Nosy Nato. The island is so small you can walk 
 
 On my last day on Nosy Boraha I go diving, competently organized through Il Balemottero in Ambodifotatra.
                                                   
-<table class="gallery" cellspacing="10">
-	<tr>
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/3-29.jpg"><img border="0" src="film/s/3-29.jpg" /></a>
-		</td>
-		
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/3-30.jpg"><img border="0" src="film/s/3-30.jpg" /></a>
-		</td>
-		
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/3-31.jpg"><img border="0" src="film/s/3-31.jpg" /></a>
-		</td>
-	</tr>
-	
-	<tr>
-		<td width="200" valign="top">
-		</td>
-		
-		<td width="200" valign="top">
-		</td>
-		
-		<td width="200" valign="top">
-		</td>
-		
-		<tr>
-			<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-				<a href="film/m/3-32.jpg"><img border="0" src="film/s/3-32.jpg" /></a>
-			</td>
-			
-			<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-				<a href="film/m/3-34.jpg"><img border="0" src="film/s/3-34.jpg" /></a>
-			</td>
-			
-			<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-				<a href="film/m/3-35.jpg"><img border="0" src="film/s/3-35.jpg" /></a>
-			</td>
-		</tr>
-		
-		<tr>
-			<td width="200" valign="top">
-			</td>
-			
-			<td width="200" valign="top">
-			</td>
-			
-			<td width="200" valign="top">
-			</td>
-			
-			<tr>
-				<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-					<a href="film/m/3-37.jpg"><img border="0" src="film/s/3-37.jpg" /></a>
-				</td>
-				
-				<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-					<a href="film/m/3-33.jpg"><img border="0" src="film/s/3-33.jpg" /></a>
-				</td>
-				
-				<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-					<a href="film/m/3-38.jpg"><img border="0" src="film/s/3-38.jpg" /></a>
-				</td>
-			</tr>
-			
-			<tr>
-				<td width="200" valign="top">
-				</td>
-				
-				<td width="200" valign="top">
-				</td>
-				
-				<td width="200" valign="top">
-				</td>
-			</tr>
-		</table> 
+{% gallery %}
+film/s/3-29.jpg | film/m/3-29.jpg |
+film/s/3-30.jpg | film/m/3-30.jpg |
+film/s/3-31.jpg | film/m/3-31.jpg |
+film/s/3-32.jpg | film/m/3-32.jpg |
+film/s/3-34.jpg | film/m/3-34.jpg |
+film/s/3-35.jpg | film/m/3-35.jpg |
+film/s/3-37.jpg | film/m/3-37.jpg |
+film/s/3-33.jpg | film/m/3-33.jpg |
+film/s/3-38.jpg | film/m/3-38.jpg |
+{% endgallery %}
 
 ### Day 20
 
 Flight back to Antananarivo.
 
-<table class="gallery" cellspacing="10">
-	<tr>
-		<td width="200" height="200" align="center" bgcolor="#EEEEEE">
-			<a href="film/m/3-40.jpg"><img border="0" src="film/s/3-40.jpg" /></a>
-		</td>
-	</tr>
-	
-	<tr>
-		<td width="200" valign="top">
-			Dry area near Antananarivo.<br />&nbsp;
-		</td>
-	</tr>
-</table>
+{% gallery %}
+film/s/3-40.jpg | film/m/3-40.jpg | Dry area near Antananarivo.
+{% endgallery %}
+
+### Day 21
+
+The hotel Saka Manga organizes one day jeep tours around Antananarivo. Visit to the village of Ambohidratrimo on one of the hills surrounding the Antananarivo. There are several old tombs here which are still being used for various ceremonies. For lunch we stop at a small crocodile farm near Ivato. Guess what's for lunch. They also have a nice zoo with all kinds of reptiles.
+
+In the evening I get back to the airport, my flight back home leaves around midnight.
+
+{% gallery %}
+film/s/4-11.jpg | film/m/4-11.jpg | Ambohidratrimo.
+film/s/4-22.jpg | film/m/4-22.jpg | Women doing laundry.
+film/s/4-23.jpg | film/m/4-23.jpg |
+film/s/4-13.jpg | film/m/4-13.jpg | A chameleon.
+film/s/4-15.jpg | film/m/4-15.jpg | Crocodiles.
+film/s/4-16.jpg | film/m/4-16.jpg | Leguans.
+film/s/4-26.jpg | film/m/4-26.jpg |
+film/s/4-25.jpg | film/m/4-25.jpg | Fields outside Anatananarivo.
+film/s/4-29.jpg | film/m/4-29.jpg | Road to one of the villages surrounding the city.
+{% endgallery %}

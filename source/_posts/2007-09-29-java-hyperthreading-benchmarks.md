@@ -6,9 +6,9 @@ tags:
 
 During the last two weeks I ran some tests to answer a few questions that had been accumulating:
 
-  1. Should I disable [hyper-threading](http://en.wikipedia.org/wiki/Hyper-threading) (ht)?
-  2. How much does doubling the available memory improve performance?
-  3. Mirror, mirror on the wall, who has the fastest JVM of them all?
+1. Should I disable [hyper-threading](http://en.wikipedia.org/wiki/Hyper-threading) (ht)?
+2. How much does doubling the available memory improve performance?
+3. Mirror, mirror on the wall, who has the fastest JVM of them all?
 
 ### Method
 
@@ -17,16 +17,9 @@ The machine in question has a single 2.8GHz Intel Xeon processor with 2GB RAM an
 The application is a web application with a large (several gigabytes) [Lucene](http://lucene.apache.org/java/) index and [Berkeley DB](http://www.oracle.com/technology/products/berkeley-db/je/) for storing data. The main interest was the performance of the data import procedure, though I also had a brief look at the search and retrieval performance.
 
 The following (Java 6) VMs were tested:
-
-  * [BEA JRockit](http://dev2dev.bea.com/jrockit/)
-  
-    <small>build R27.3.1-1-85830-1.6.0_01-20070716-1248-linux-ia32</small>
-  * [Sun Java HotSpot Server VM](http://java.sun.com/)
-  
-    <small>build 1.6.0_02-b05</small>
-  * [IBM J9 VM](http://www.ibm.com/developerworks/java/jdk/)
-  
-    <small>build 2.4, J2RE 1.6.0 IBM J9 2.4 Linux x86-32 jvmxi3260-20070817_13537</small>
+* [BEA JRockit](http://dev2dev.bea.com/jrockit/) build R27.3.1-1-85830-1.6.0_01-20070716-1248-linux-ia32
+* [Sun Java HotSpot Server VM](http://java.sun.com/) build 1.6.0_02-b05
+* [IBM J9 VM](http://www.ibm.com/developerworks/java/jdk/) build 2.4, J2RE 1.6.0 IBM J9 2.4 Linux x86-32 jvmxi3260-20070817_13537</small>
 
 Note that even though the machine has a 64-bit processor, I used the 32-bit versions of the JVMs as these are faster than (or the same speed as) the corresponding 64-bit versions (depending on whether the JVM is smart enough to always use 32-bit pointers whenever the heap size is small enough).
 
@@ -36,15 +29,15 @@ Some of the tests were repeated with some of the JVM parameters [described by He
 
 Median response time (s) for running 1'000 queries sequentially:
 
-![](/2007/09/29/java-hyperthreading-benchmarks/search_1.png)
+![](search_1.png)
 
 Median response time (s) for running 1'000 queries from 10 parallel clients each:
 
-![](/2007/09/29/java-hyperthreading-benchmarks/search_10.png)
+![](search_10.png)
 
 Total time (h) for loading and indexing (in a single thread) all data (UniProt release 12.2):
 
-![](/2007/09/29/java-hyperthreading-benchmarks/load.png)
+![](load.png)
 
 ### Discussion
 

@@ -1,0 +1,24 @@
+<div class="gallery">
+
+{% for image in images %}
+
+  {% if loop.index0 % 3 == 0 %}
+    <div class="row">
+  {% endif %}
+
+  <div class="col-sm-4">
+    <div class="thumbnail">
+      <a href="{{image.href}}"><img src="{{image.src}}"/></a>
+        <div class="caption">
+          {{image.caption}}
+        </div>
+    </div>
+  </div>
+
+  {% if loop.index % 3 == 0 or loop.last %}
+    </div>
+  {% endif %}
+
+{% endfor %}
+
+</div>

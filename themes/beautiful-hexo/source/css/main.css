@@ -457,12 +457,21 @@ table tr td :last-child {
 }
 
 
-/* --- Custom --- */
+/* --- Image Gallery --- */
 
-.row br {
+.gallery {
+  margin: 30px 0;
+}
+
+.gallery .row br {
   display: none;
 }
 
-.thumbnail img {
+.gallery .thumbnail {
+  border: none;
+  padding-top: 13px;
+}
+
+.gallery .thumbnail img {
   padding-top: 13px;
 }

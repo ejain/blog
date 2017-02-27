@@ -6,16 +6,9 @@ tags:
 
 While hiking, I often carry along a [small GPS device](http://www.garmin.com/products/etrexH/) to record my tracks. This is not just useful in case I get lost and need to backtrack, but also allows me to [geotag](http://www.robogeo.com/) my pictures before [uploading](https://plus.google.com/collection/ctuBZ) them. Plus it can be fun to review a hike in Google Earth. What about sharing tracklogs? This can be valuable when hiking in areas with outdated maps or maps hat don't have all trails. So I had a look at some of the existing websites for sharing GPS tracklogs--here's what I found.
 
-<div class="row">
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="20091101.gpx"><img src="//lh5.ggpht.com/_GeX70u05z6k/Su5n9DeylLI/AAAAAAAAgB4/z4L-IrVJsIM/s320/20091101-tracklog.jpg" /></a>
-      <div class="caption">
-        Tracklog in Google Earth
-      </div>
-    </div>
-  </div>
-</div>
+{% gallery %}
+//lh5.ggpht.com/_GeX70u05z6k/Su5n9DeylLI/AAAAAAAAgB4/z4L-IrVJsIM/s320/20091101-tracklog.jpg | 20091101.gpx | Tracklog in Google Earth
+{% endgallery %}
 
 ### [TrailRegistry](http://trailregistry.com/)
 
