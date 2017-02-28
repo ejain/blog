@@ -49,7 +49,9 @@ tag_map:
   Programming: programming
   Quantified Self: quantified self
   Review: review
+  Semantic Web: semantic web
   Travel: travel
+  Usability: usability
 
 # Date / Time format
 date_format: YYYY-MM-DD
