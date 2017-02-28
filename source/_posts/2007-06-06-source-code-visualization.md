@@ -1,7 +1,7 @@
 ---
 title: Source Code Visualization
 tags:
-  - Tech
+  - Programming
 ---
 
 My colleagues regularly ask me if I couldn't provide them with some graphic view of my code, looking at source code is so tedious etc. I've looked at various UML tools in the past, but never managed to get any truly useful visualization out of any of them. But maybe the problem with UML is that it's so limited to two dimensions? Enter [Relief](https://web.archive.org/web/20120507193800/http://www.workingfrog.org/), a tool that visualizes code in three dimensions!

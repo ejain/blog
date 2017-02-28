@@ -1,7 +1,7 @@
 ---
 title: N-Triple Converter Comparison
 tags:
-  - Tech
+  - Programming
   - Semantic Web
 ---
 

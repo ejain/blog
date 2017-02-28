@@ -1,6 +1,7 @@
 ---
 title: Call for Better Information Retrieval Systems
 tags:
+  - Life Science
   - Semantic Web
   - Usability
 ---

@@ -2,7 +2,7 @@
 title: Metalink for UniProt RDF
 tags:
   - Life Science
-  - Tech
+  - Programming
   - Semantic Web
 ---
 

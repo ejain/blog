@@ -1,7 +1,7 @@
 ---
 title: No Fluff Just Stuff
 tags:
-  - Tech
+  - Programming
 ---
 
 Spent this weekend at the [Spring 2008 Pacific Northwest Software Symposium](https://nofluffjuststuff.com/conference/seattle/2008/04/home). Here are my notes (trimmed down to whatever I felt was new & noteworthy to me) and some general comments about the event.

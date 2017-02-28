@@ -18,4 +18,4 @@ Now, we can [fight back](swissperfect.user.js)! Watch the [demo](demo.html).
 
 ### Requirements
 
-[Firefox](http://www.mozilla.org/products/firefox/) web browser with the [Greasemonkey](http://downloads.mozdev.org/greasemonkey/greasemonkey_0.3.3.xpi) extension.
+[Firefox](http://www.mozilla.org/products/firefox/) web browser with the [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) extension.

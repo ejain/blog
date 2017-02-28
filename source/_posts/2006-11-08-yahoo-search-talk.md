@@ -4,10 +4,7 @@ tags:
   - Usability
 ---
 
-Here are some interesting points from a [talk](http://video.google.com/videoplay?docid=-1882341271080460143) given by Daniel E. Rose (Yahoo!).
-
-<embed style="width:400px; height:326px;" id="VideoPlayback" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=-1882341271080460143&#038;hl=en" flashvars="">
-</embed>
+Here are some interesting points from a talk given by Daniel E. Rose (Yahoo!):
 
 Searching is more often than not an iterative process.
 

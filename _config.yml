@@ -46,9 +46,9 @@ category_map:
 tag_map:
   Humor: humor
   Life Science: life science
+  Programming: programming
   Quantified Self: quantified self
   Review: review
-  Tech: tech
   Travel: travel
 
 # Date / Time format

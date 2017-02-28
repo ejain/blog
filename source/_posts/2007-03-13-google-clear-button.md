@@ -1,7 +1,7 @@
 ---
 title: Google Clear Button
 tags:
-  - Tech
+  - Programming
   - Usability
 ---
 

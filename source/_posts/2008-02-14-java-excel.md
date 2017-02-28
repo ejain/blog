@@ -1,7 +1,7 @@
 ---
 title: Using Java to Read Excel Files
 categories:
-  - Tech
+  - Programming
 ---
 
 I recently needed to add support for extracting data from Excel files (which are still ubiquitous in labs) to a Java application.

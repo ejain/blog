@@ -2,7 +2,7 @@
 title: API Prayer
 tags:
   - Humor
-  - Tech
+  - Programming
 ---
 
 > Our Father in heaven,

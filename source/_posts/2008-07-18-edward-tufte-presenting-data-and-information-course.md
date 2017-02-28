@@ -1,7 +1,7 @@
 ---
 title: Edward Tufte's Presenting Data and Information Course
 tags:
-  - Tech
+  - Programming
 ---
 
 Here are some take-away notes from the course on [presenting data and information](http://www.edwardtufte.com/tufte/courses) that Edward Tufte gave in Seattle on July 17.

@@ -1,7 +1,7 @@
 ---
 title: Some Java Benchmarks
 tags:
-  - Tech
+  - Programming
 ---
 
 During the last two weeks I ran some tests to answer a few questions that had been accumulating:
