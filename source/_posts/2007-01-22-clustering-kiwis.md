@@ -8,10 +8,10 @@ Being able to distinguish different meanings of a term may turn out to be the ne
 
 "Kiwi" is a problematic term, as it can be used for:
 
-  * a bird
-  * a fruit
-  * people from New Zealand
-  * a name for various products or businesses
+* a bird
+* a fruit
+* people from New Zealand
+* a name for various products or businesses
 
 Moreover, the different uses of the term "Kiwi" are often closely related. For example, the Wikipedia article on "Kiwi (people)" contains the word "bird" ("The name derives ultimately from the flightless bird native [...]"). But this document shouldn't appear (or score high) when we are looking for information about Kiwi birds.
 
@@ -37,16 +37,14 @@ No comment...
 
 > **Related searches:** Kiwi Fruit, Kiwi Bird, Kiwi Plants, Kiwi Casino, Killer Kiwi, Kiwi Bingo, Kiwi Photo Gallery 
 
-Also -- for reasons beyond my comprehension -- there are no less than three ads for buying "thong bikinis"...
+Also--for reasons beyond my comprehension -- there are no less than three ads for buying "thong bikinis"...
 
 ### Ask
 
 [Ask](http://www.ask.com/web?q=kiwi) lists matching Wikipedia articles at the top (in a dropdown list). This isn't terribly convenient, but in this case it does give a good idea of the different uses of the term. When you select an article the search is redone to match the selected article. Also, there are these suggestions:
 
 > **Narrow Your Search:** Eat a Kiwi, Kiwi Shoe Polish, Kiwi Fruit Facts, Kiwi Recipes, Kiwi Origin, Kiwi Bird Live, Kiwi Fruit Come
-  
 > **Expand Your Search:** Kiwi Bird, Strawberries, New Zealand, Oranges, Pineapple, Grapes
-  
 > **Related Names:** Peaches, Rhea 
 
 ### Clusty
@@ -54,23 +52,14 @@ Also -- for reasons beyond my comprehension -- there are no less than three ads 
 [Clusty](http://clusty.com/search?query=kiwi) is a "meta" search engine, i.e. it collects its results from other search engines, and reorganizes them a bit. This limits the possibilities as they must rely on the first n hits returned by the other search engines, but let's see what they do:
 
 > New Zealand (82)
-  
 > Fruit (11)
-  
 > Game (8)
-  
 > Blog (9)
-  
 > Club (8)
-  
 > Syslog Daemon (5)
-  
 > Designs (7)
-  
 > Cool Kiwi (6)
-  
 > Holiday (4)
-  
 > Specializing (4) 
 
 The indication of the number of matches is certainly useful. But why is "Kiwi" under "New Zealand"?
@@ -80,29 +69,17 @@ The indication of the number of matches is certainly useful. But why is "Kiwi" u
 [WebClust](http://www.webclust.com/cgi-bin/webclust.pl?query=kiwi) is another "meta" search engine that tries to organize the output of other search engines better.
 
 > Shop (19)
-  
 > Kiwi Fruit (19)
-  
 > Amp (16)
-  
 > Kiwi Bird (12)
-  
 > Design (10)
-  
 > Shipped,Price (10)
-  
 > Kiwi Alpha (7)
-  
 > Kiwi Music (5)
-  
 > Pineapple Kiwi (5)
-  
 > Version,Available (3)
-  
 > Body,Bath (3)
-  
 > Thousands (3)
-  
 > Other (88) 
 
 Restricting to "Kiwi Bird" does get rid of some matches, but still includes "Kiwi Shoe Polish Reg. Size"...
@@ -112,24 +89,19 @@ Restricting to "Kiwi Bird" does get rid of some matches, but still includes "Kiw
 [Mooter](http://www.mooter.com/) doesn't return a list of results, but a graph that must be clicked on first:
 
 > fruit
-  
 > men
-  
 > book
-  
 > kiwi
-  
 > find
-  
 > shop
-  
 > accessories 
 
 Hmm...
 
 ### Conclusions
 
-  1. Current automatic clustering methods seem to be unable to produce suggestions that make much sense, for the most part.
-  2. None of the search engines seems to be able to understand what a document is talking about, but instead rely on the occurrence of specific terms.
-  3. The best you can expect from current search engines is a suggestion to rephrase a query e.g. as "kiwi bird" -- something most people with a bit of experience will do on their own.
-  
+Current automatic clustering methods seem to be unable to produce suggestions that make much sense, for the most part.
+
+None of the search engines seems to be able to understand what a document is talking about, but instead rely on the occurrence of specific terms.
+
+The best you can expect from current search engines is a suggestion to rephrase a query e.g. as "kiwi bird"--something most people with a bit of experience will do on their own.

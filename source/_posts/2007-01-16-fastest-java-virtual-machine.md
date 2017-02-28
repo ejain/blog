@@ -10,10 +10,9 @@ The test consisted of running a set of a hundred requests several times. The fir
 
 The following virtual machines were tested:
 
-<pre><a href="http://java.sun.com/javase/6/">Sun Java HotSpot(TM) Server VM</a> (build 1.6.0-b105, mixed mode)
-<a href="http://dev2dev.bea.com/jrockit/">BEA JRockit(R)</a> (build R27.1.0-109-73164-1.5.0_08-20061129-1418-linux-ia32, compiled mode)
-<a href="https://www14.software.ibm.com/iwm/web/cc/earlyprograms/ibm/java6/">IBM J9 VM</a> (build 2.4, J2RE 1.6.0 IBM J9 2.4 Linux x86-32 jvmxi3260-20061218_10446 (JIT enabled)
-</pre>
+* [Sun Java HotSpot(TM) Server VM](http://java.sun.com/javase/6/) (build 1.6.0-b105, mixed mode)
+* [BEA JRockit(R)](http://dev2dev.bea.com/jrockit/) (build R27.1.0-109-73164-1.5.0_08-20061129-1418-linux-ia32, compiled mode)
+* [IBM J9 VM](https://www14.software.ibm.com/iwm/web/cc/earlyprograms/ibm/java6/) (build 2.4, J2RE 1.6.0 IBM J9 2.4 Linux x86-32 jvmxi3260-20061218_10446 (JIT enabled)
 
 The first observation is that all of the current virtual machines are significantly (up to 50%) faster than any of the previous generation.
 
@@ -23,6 +22,7 @@ The second observation is that I could no longer find any significant difference
 
 All virtual machines were trivial to setup, I only had some trouble getting the web application to deploy (in Jetty) with the IBM VM (still in beta), fixed by copying Xerces to `lib/ext/`:
 
-<pre>WEB-INF/lib/standard.jar!/META-INF/fmt-1_0.tld line:1 col:5 :
+```
+WEB-INF/lib/standard.jar!/META-INF/fmt-1_0.tld line:1 col:5 :
   org.xml.sax.SAXParseException: White space is required between the processing instruction target and data.
-</pre>
+```
