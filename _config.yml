@@ -7,8 +7,8 @@ language: en
 timezone: America/Los_Angeles
 
 # URL
-url: https://ejain.github.io
-root: /blog
+url: http://eric.jain.name
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
