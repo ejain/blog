@@ -99,6 +99,8 @@ footer:
     icon: fa-github
     enable: true
 
+google_analytics: UA-112726-2
+
 # Deployment
 deploy:
   type: git
