@@ -8,12 +8,12 @@ My colleagues regularly ask me if I couldn't provide them with some graphic view
 
 Here's a 3D view of the source code for [beta.uniprot.org](http://beta.uniprot.org/):
 
-![](source-code-visualization/1.png)
+![](1.png)
 
 I do wonder what all those lines and boxes mean, but it certainly is pretty!
 
 And here we zoom in on one [frequently used class](http://dev.isb-sib.ch/projects/expasy4j/api/org/expasy/uniprot/models/Entry.html):
 
-![](source-code-visualization/2.png)
+![](2.png)
 
 Any questions? OK, maybe I'll have to keep looking for the perfect visualization tool :-)
