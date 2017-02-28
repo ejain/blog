@@ -14,7 +14,7 @@ For years people have been [misspelling Swiss-Prot](http://google.com/search?q=s
 * Swissprot
 * swisprot
 
-Now, we can [fight back](swissperfect.user.js)! Watch the [demo](demo.htm).
+Now, we can [fight back](swissperfect.user.js)! Watch the [demo](demo.html).
 
 ### Requirements
 

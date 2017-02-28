@@ -8,17 +8,15 @@ Having my sister visit me here in Seattle provided a good excuse to do some loca
 
 Here are the exact routes taken on these two tours:
 
-**Ride the Ducks of Seattle**
+### Ride the Ducks of Seattle
 
-<div id="map-duck">
-</div>
+<div id="map-duck"></div>
 
 [Tracklog](duck.gpx)
 
-**Seattle Sea Planes**
+### Seattle Sea Planes
 
-<div id="map-plane">
-</div>
+<div id="map-plane"></div>
 
 [Tracklog](plane.gpx) | [Photos](https://goo.gl/photos/XLQnqbExgLZLbkdK8)
 

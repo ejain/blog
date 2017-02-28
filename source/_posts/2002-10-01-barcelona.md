@@ -7,82 +7,82 @@ tags:
 Some pictures from a short stay in Barcelona, September 2002.
 
 {% gallery %}
-film/s/08600039.jpg | film/m/08600039.jpg | Park Güell
-film/s/08600038.jpg | film/m/08600038.jpg |
-film/s/08600035.jpg | film/m/08600035.jpg |
-film/s/08600036.jpg | film/m/08600036.jpg |
-film/s/08600034.jpg | film/m/08600034.jpg |
-film/s/08600033.jpg | film/m/08600033.jpg | Lizard
-film/s/08600032.jpg | film/m/08600032.jpg |
-film/s/08600031.jpg | film/m/08600031.jpg |
-film/s/08600040.jpg | film/m/08600040.jpg |
-film/s/08600029.jpg | film/m/08600029.jpg | Hospital de la Sta. Creu
-film/s/08600028.jpg | film/m/08600028.jpg | Sagrada Familia, old
-film/s/08600027.jpg | film/m/08600027.jpg | Sagrada Familia, new
-film/s/08600025.jpg | film/m/08600025.jpg | Teatre Nacional de Catalunya
-film/s/08600022.jpg | film/m/08600022.jpg | Auditori de Barcelona, close up
-film/s/08600023.jpg | film/m/08600023.jpg |
-film/s/08600019.jpg | film/m/08600019.jpg | Parc estació del Nord
-film/s/08600018.jpg | film/m/08600018.jpg |
-film/s/08600017.jpg | film/m/08600017.jpg | Tourist bus
-film/s/08600016.jpg | film/m/08600016.jpg | Spare time
-film/s/08600015.jpg | film/m/08600015.jpg | Arc de Triomf
-film/s/08600014.jpg | film/m/08600014.jpg | Parc de la Ciutadella
-film/s/08600013.jpg | film/m/08600013.jpg | Museu de Zoologia
-film/s/08600011.jpg | film/m/08600011.jpg |
-film/s/08600010.jpg | film/m/08600010.jpg | Sta. Maria del Mar
-film/s/08600009.jpg | film/m/08600009.jpg | Barri Gòtic
-film/s/08600008.jpg | film/m/08600008.jpg | Museu Picasso
-film/s/08600007.jpg | film/m/08600007.jpg | Catedral
-film/s/08600005.jpg | film/m/08600005.jpg | Street musicians
-film/s/08600003.jpg | film/m/08600003.jpg | Tourists, looking for open shop
-film/s/08600002.jpg | film/m/08600002.jpg | Xocolateria
-film/s/08600001.jpg | film/m/08600001.jpg |
-film/s/08620040.jpg | film/m/08620040.jpg |
-film/s/08620036.jpg | film/m/08620036.jpg | Interesting shop
-film/s/08620029.jpg | film/m/08620029.jpg | Mirador de Colón
-film/s/08620028.jpg | film/m/08620028.jpg |
-film/s/08620027.jpg | film/m/08620027.jpg | Cable car over the port
-film/s/08620022.jpg | film/m/08620022.jpg | Mall de la Fusta
-film/s/08620020.jpg | film/m/08620020.jpg | French battleship, hiding in the shade of the WTC
-film/s/08620018.jpg | film/m/08620018.jpg |
-film/s/08620016.jpg | film/m/08620016.jpg | Mall de la Barceloneta, history museum
-film/s/08620015.jpg | film/m/08620015.jpg |
-film/s/08620014.jpg | film/m/08620014.jpg | Beach, from above
-film/s/08620012.jpg | film/m/08620012.jpg | Port Vell
-film/s/08620011.jpg | film/m/08620011.jpg | Relais Drassanes
-film/s/08620010.jpg | film/m/08620010.jpg |
-film/s/08620009.jpg | film/m/08620009.jpg |
-film/s/08620008.jpg | film/m/08620008.jpg | Incomplete
-film/s/08620007.jpg | film/m/08620007.jpg | Olympics leftover
-film/s/08620006.jpg | film/m/08620006.jpg | Torre de Calatrava
-film/s/08620004.jpg | film/m/08620004.jpg | Castell de Montjuïc
-film/s/08620003.jpg | film/m/08620003.jpg | Harbor
-film/s/08620001.jpg | film/m/08620001.jpg | Albergue Mare de Déu de Montserrat
-film/s/08610040.jpg | film/m/08610040.jpg | Mercat de la Boqueria
-film/s/08610039.jpg | film/m/08610039.jpg | Building at the Plaça de Catalunya
-film/s/08610038.jpg | film/m/08610038.jpg |
-film/s/08610037.jpg | film/m/08610037.jpg | Casa Batló
-film/s/08610036.jpg | film/m/08610036.jpg |
-film/s/08610034.jpg | film/m/08610034.jpg | La Pedrera
-film/s/08610033.jpg | film/m/08610033.jpg | On top
-film/s/08610032.jpg | film/m/08610032.jpg | Inside
-film/s/08610031.jpg | film/m/08610031.jpg |
-film/s/08610028.jpg | film/m/08610028.jpg |
-film/s/08610027.jpg | film/m/08610027.jpg |
-film/s/08610020.jpg | film/m/08610020.jpg | Port Olímpic
-film/s/08610018.jpg | film/m/08610018.jpg |
-film/s/08610022.jpg | film/m/08610022.jpg |
-film/s/08610017.jpg | film/m/08610017.jpg | Parc de Recerca Biomèdica
-film/s/08610014.jpg | film/m/08610014.jpg | Beach
-film/s/08610023.jpg | film/m/08610023.jpg | Passage in the metro
-film/s/08610013.jpg | film/m/08610013.jpg | Post office
-film/s/08610011.jpg | film/m/08610011.jpg | Fundacío Joan Miró
-film/s/08610009.jpg | film/m/08610009.jpg |
-film/s/08610008.jpg | film/m/08610008.jpg | Museo Nacional d'Art de Catalunya
-film/s/08610006.jpg | film/m/08610006.jpg |
-film/s/08610005.jpg | film/m/08610005.jpg |
-film/s/08610004.jpg | film/m/08610004.jpg | ¿Parc Joan Miró?
-film/s/08610003.jpg | film/m/08610003.jpg |
-film/s/08610001.jpg | film/m/08610001.jpg | Universitat
+thumbnails/08600039.jpg | images/08600039.jpg | Park Güell
+thumbnails/08600038.jpg | images/08600038.jpg |
+thumbnails/08600035.jpg | images/08600035.jpg |
+thumbnails/08600036.jpg | images/08600036.jpg |
+thumbnails/08600034.jpg | images/08600034.jpg |
+thumbnails/08600033.jpg | images/08600033.jpg | Lizard
+thumbnails/08600032.jpg | images/08600032.jpg |
+thumbnails/08600031.jpg | images/08600031.jpg |
+thumbnails/08600040.jpg | images/08600040.jpg |
+thumbnails/08600029.jpg | images/08600029.jpg | Hospital de la Sta. Creu
+thumbnails/08600028.jpg | images/08600028.jpg | Sagrada Familia, old
+thumbnails/08600027.jpg | images/08600027.jpg | Sagrada Familia, new
+thumbnails/08600025.jpg | images/08600025.jpg | Teatre Nacional de Catalunya
+thumbnails/08600022.jpg | images/08600022.jpg | Auditori de Barcelona, close up
+thumbnails/08600023.jpg | images/08600023.jpg |
+thumbnails/08600019.jpg | images/08600019.jpg | Parc estació del Nord
+thumbnails/08600018.jpg | images/08600018.jpg |
+thumbnails/08600017.jpg | images/08600017.jpg | Tourist bus
+thumbnails/08600016.jpg | images/08600016.jpg | Spare time
+thumbnails/08600015.jpg | images/08600015.jpg | Arc de Triomf
+thumbnails/08600014.jpg | images/08600014.jpg | Parc de la Ciutadella
+thumbnails/08600013.jpg | images/08600013.jpg | Museu de Zoologia
+thumbnails/08600011.jpg | images/08600011.jpg |
+thumbnails/08600010.jpg | images/08600010.jpg | Sta. Maria del Mar
+thumbnails/08600009.jpg | images/08600009.jpg | Barri Gòtic
+thumbnails/08600008.jpg | images/08600008.jpg | Museu Picasso
+thumbnails/08600007.jpg | images/08600007.jpg | Catedral
+thumbnails/08600005.jpg | images/08600005.jpg | Street musicians
+thumbnails/08600003.jpg | images/08600003.jpg | Tourists, looking for open shop
+thumbnails/08600002.jpg | images/08600002.jpg | Xocolateria
+thumbnails/08600001.jpg | images/08600001.jpg |
+thumbnails/08620040.jpg | images/08620040.jpg |
+thumbnails/08620036.jpg | images/08620036.jpg | Interesting shop
+thumbnails/08620029.jpg | images/08620029.jpg | Mirador de Colón
+thumbnails/08620028.jpg | images/08620028.jpg |
+thumbnails/08620027.jpg | images/08620027.jpg | Cable car over the port
+thumbnails/08620022.jpg | images/08620022.jpg | Mall de la Fusta
+thumbnails/08620020.jpg | images/08620020.jpg | French battleship, hiding in the shade of the WTC
+thumbnails/08620018.jpg | images/08620018.jpg |
+thumbnails/08620016.jpg | images/08620016.jpg | Mall de la Barceloneta, history museum
+thumbnails/08620015.jpg | images/08620015.jpg |
+thumbnails/08620014.jpg | images/08620014.jpg | Beach, from above
+thumbnails/08620012.jpg | images/08620012.jpg | Port Vell
+thumbnails/08620011.jpg | images/08620011.jpg | Relais Drassanes
+thumbnails/08620010.jpg | images/08620010.jpg |
+thumbnails/08620009.jpg | images/08620009.jpg |
+thumbnails/08620008.jpg | images/08620008.jpg | Incomplete
+thumbnails/08620007.jpg | images/08620007.jpg | Olympics leftover
+thumbnails/08620006.jpg | images/08620006.jpg | Torre de Calatrava
+thumbnails/08620004.jpg | images/08620004.jpg | Castell de Montjuïc
+thumbnails/08620003.jpg | images/08620003.jpg | Harbor
+thumbnails/08620001.jpg | images/08620001.jpg | Albergue Mare de Déu de Montserrat
+thumbnails/08610040.jpg | images/08610040.jpg | Mercat de la Boqueria
+thumbnails/08610039.jpg | images/08610039.jpg | Building at the Plaça de Catalunya
+thumbnails/08610038.jpg | images/08610038.jpg |
+thumbnails/08610037.jpg | images/08610037.jpg | Casa Batló
+thumbnails/08610036.jpg | images/08610036.jpg |
+thumbnails/08610034.jpg | images/08610034.jpg | La Pedrera
+thumbnails/08610033.jpg | images/08610033.jpg | On top
+thumbnails/08610032.jpg | images/08610032.jpg | Inside
+thumbnails/08610031.jpg | images/08610031.jpg |
+thumbnails/08610028.jpg | images/08610028.jpg |
+thumbnails/08610027.jpg | images/08610027.jpg |
+thumbnails/08610020.jpg | images/08610020.jpg | Port Olímpic
+thumbnails/08610018.jpg | images/08610018.jpg |
+thumbnails/08610022.jpg | images/08610022.jpg |
+thumbnails/08610017.jpg | images/08610017.jpg | Parc de Recerca Biomèdica
+thumbnails/08610014.jpg | images/08610014.jpg | Beach
+thumbnails/08610023.jpg | images/08610023.jpg | Passage in the metro
+thumbnails/08610013.jpg | images/08610013.jpg | Post office
+thumbnails/08610011.jpg | images/08610011.jpg | Fundacío Joan Miró
+thumbnails/08610009.jpg | images/08610009.jpg |
+thumbnails/08610008.jpg | images/08610008.jpg | Museo Nacional d'Art de Catalunya
+thumbnails/08610006.jpg | images/08610006.jpg |
+thumbnails/08610005.jpg | images/08610005.jpg |
+thumbnails/08610004.jpg | images/08610004.jpg | ¿Parc Joan Miró?
+thumbnails/08610003.jpg | images/08610003.jpg |
+thumbnails/08610001.jpg | images/08610001.jpg | Universitat
 {% endgallery %}
