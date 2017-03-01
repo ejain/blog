@@ -29,7 +29,7 @@ new_post_name: :year-:month-:day-:title.md
 default_layout: post
 titlecase: false
 external_link: false
-filename_case: 0
+filename_case: 1
 render_drafts: false
 post_asset_folder: true
 relative_link: false
@@ -44,14 +44,6 @@ highlight:
 default_category: uncategorized
 category_map:
 tag_map:
-  Humor: humor
-  Life Science: life science
-  Programming: programming
-  Quantified Self: quantified self
-  Review: review
-  Semantic Web: semantic web
-  Travel: travel
-  Usability: usability
 
 # Date / Time format
 date_format: YYYY-MM-DD
