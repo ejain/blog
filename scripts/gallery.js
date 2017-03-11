@@ -7,7 +7,6 @@
       var values = row.split(/\s*\|\s*/);
 	    return { src : values[0], href : values[1], caption : values[2] };
     });
-    //console.log("images", images);
     return nunjucks.render("layout/gallery.html", { images : images });
   }, true);
 
