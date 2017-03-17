@@ -11,7 +11,7 @@ This is all the gear I keep in the car. Other than a couple of short trips aroun
 1. [Tire Socks](http://autosock.us/). Never used, but they count as [approved traction devices](http://www.wsp.wa.gov/traveler/traction.htm) here when cars are required to carry chains.
 2. Emergency Triangle
 3. [Snow Shovel](http://snowclaw.com/)
-4. First Aid Kit (various bandaids and pads, [QuikClot](http://www.quikclot.com/), standard medication, sunscreen, Nivea, flashlight, mirror, lighter, duct tape, paracord, water purification tablets). This also goes along on hikes.
+4. [First Aid Kit](/2017/03/17/first-aid-kit/). This also goes along on hikes.
 5. [USB Cable, 5ft](http://www.techmatte.com/CBL-ATC5B)
 6. [USB Car Charger](https://www.monoprice.com/product?c_id=116&cp_id=10826&cs_id=1082603&p_id=13810&seq=1&format=2)
 7. [Phone Mount](https://www.kenu.com/products/airframe)
