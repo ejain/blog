@@ -66,4 +66,4 @@ Finally, **stress**, especially after meals, and when combined with inactivity, 
 What next
 ---------
 
-I intend to do another round of blood sugar tracking in a year or so--or earlier, if my daily routine changes significantly. I'll also be sharing more detailed results at the next [Quantified Self Seattle Meetup](https://www.meetup.com/Quantified-Self-Seattle/) in January.
+I intend to do another round of blood sugar tracking in a year or so--or earlier, if my daily routine changes significantly. I'll also be sharing more detailed results at the next [Quantified Self Seattle Meetup](https://www.meetup.com/Quantified-Self-Seattle/events/256929018/).
