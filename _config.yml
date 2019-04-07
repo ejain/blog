@@ -80,11 +80,6 @@ footer:
     title: LinkedIn
     icon: fa-linkedin
     enable: true
-  googleplus:
-    link: https://plus.google.com/+EricJain
-    title: Google+
-    icon: fa-google-plus
-    enable: true
   github:
     link: 'https://github.com/ejain'
     title: GitHub
