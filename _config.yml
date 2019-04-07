@@ -7,7 +7,7 @@ language: en
 timezone: America/Los_Angeles
 
 # URL
-url: http://eric.jain.name
+url: https://eric.jain.name
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
