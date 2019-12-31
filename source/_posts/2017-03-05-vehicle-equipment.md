@@ -33,10 +33,11 @@ This is all the gear I keep in the car. Other than a couple of short trips aroun
 23. [Fix-a-Flat](https://www.fixaflat.com/us/product-details.php?id=14)
 24. [Road Flares](http://www.orionsignals.com/product-groups/handheld-flares/product/20.html) (not shown)
 25. [ShadeSox](https://www.amazon.com/dp/B00YI3IGA6/ref=cm_sw_su_dp) (not shown). Used as a bug net when sleeping in the car with the rear windows open.
-26. [Utility Trays](https://www.containerstore.com/s/grey-utility-trays/d?productId=10035847)
-27. [Automatic](https://www.automatic.com/) OBD Adapter (not shown). Records [tracklogs](/2015/01/01/outdoor-trips/), gas mileage, cost per trip, and other useful data.
+26. [Tow Strap](https://www.amazon.com/JCHL-Recovery-Towing-Safety-Polyester/dp/B07NWGD3QS) (not shown)
+27. [Utility Trays](https://www.containerstore.com/s/grey-utility-trays/d?productId=10035847)
+28. [Automatic](https://www.automatic.com/) OBD Adapter (not shown). Records [tracklogs](/2015/01/01/outdoor-trips/), gas mileage, cost per trip, and other useful data.
 
 {% gallery %}
 thumbnails/tire.jpg | images/tire.jpg | Items 1-3 go under here...
-thumbnails/trunk.jpg | images/trunk.jpg | ...and 17-25 fit inside the trays.
+thumbnails/trunk.jpg | images/trunk.jpg | ...and 17-26 fit inside the trays.
 {% endgallery %}
