@@ -28,7 +28,8 @@ skip_render:
 new_post_name: :year-:month-:day-:title.md
 default_layout: post
 titlecase: false
-external_link: false
+external_link:
+  enable: false
 filename_case: 1
 render_drafts: false
 post_asset_folder: true
@@ -55,6 +56,11 @@ pagination_dir: page
 
 # Extensions
 theme: beautiful-hexo
+
+# Markdown Renderer
+marked:
+  prependRoot: true
+  postAsset: true
 
 # Archive
 archive_generator:

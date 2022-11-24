@@ -3,7 +3,7 @@ footer
         .row
             .col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1
                 ul.list-inline.text-center.footer-links
-                    each item in theme.footer
+                    each item in config.footer
                         if item.enable
                             li
                                 a(href=item.link, title=item.title)
