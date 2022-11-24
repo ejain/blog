@@ -2,598 +2,879 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://eric.jain.name/2006/01/27/call-for-better-information-retrieval-systems/</loc>
+    
+    <lastmod>2022-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2022/07/21/sous-vide-desserts/</loc>
+    
+    <lastmod>2022-07-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://eric.jain.name/2019/07/17/sous-vide-cooking/</loc>
     
-    <lastmod>2020-11-29T02:02:48.045Z</lastmod>
+    <lastmod>2020-11-29</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2017/03/05/vehicle-equipment/</loc>
     
-    <lastmod>2020-11-29T02:00:24.363Z</lastmod>
+    <lastmod>2020-11-29</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2019/12/31/tracklogs/</loc>
     
-    <lastmod>2020-01-02T20:41:05.184Z</lastmod>
+    <lastmod>2020-01-02</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2005/07/01/namibia/</loc>
     
-    <lastmod>2019-08-19T18:54:31.040Z</lastmod>
+    <lastmod>2019-08-19</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2018/12/30/tracking-blood-pressure/</loc>
     
-    <lastmod>2019-03-27T16:46:06.434Z</lastmod>
+    <lastmod>2019-03-27</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2017/01/06/smoothies/</loc>
     
-    <lastmod>2019-03-23T17:27:30.594Z</lastmod>
+    <lastmod>2019-03-23</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2018/11/25/tracking-blood-sugar/</loc>
     
-    <lastmod>2019-01-10T07:01:16.441Z</lastmod>
+    <lastmod>2019-01-10</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2018/11/22/chocolate-popcorn/</loc>
     
-    <lastmod>2018-11-22T19:03:29.466Z</lastmod>
+    <lastmod>2018-11-22</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2018/10/25/fake-trails/</loc>
     
-    <lastmod>2018-10-26T04:03:50.628Z</lastmod>
+    <lastmod>2018-10-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2018/09/24/panna-cotta/</loc>
     
-    <lastmod>2018-09-25T04:14:08.535Z</lastmod>
+    <lastmod>2018-09-25</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2017/10/29/programmer-excuses/</loc>
     
-    <lastmod>2017-10-29T21:33:20.981Z</lastmod>
+    <lastmod>2017-10-29</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2010/12/12/one-years-tracklogs/</loc>
     
-    <lastmod>2017-09-24T02:11:00.481Z</lastmod>
+    <lastmod>2017-09-24</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2017/08/31/cascades-pika-watch/</loc>
     
-    <lastmod>2017-09-01T01:09:01.494Z</lastmod>
+    <lastmod>2017-09-01</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2017/03/17/first-aid-kit/</loc>
     
-    <lastmod>2017-03-17T06:22:58.132Z</lastmod>
+    <lastmod>2017-03-17</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2017/01/06/protein-shakes/</loc>
     
-    <lastmod>2017-03-17T05:43:15.983Z</lastmod>
+    <lastmod>2017-03-17</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2017/02/24/hexo/</loc>
     
-    <lastmod>2017-03-12T06:44:28.740Z</lastmod>
+    <lastmod>2017-03-12</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2000/11/01/madagascar/</loc>
     
-    <lastmod>2017-03-11T19:56:54.774Z</lastmod>
+    <lastmod>2017-03-11</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2016/09/17/subaru-crosstrek/</loc>
     
-    <lastmod>2017-03-06T02:40:36.238Z</lastmod>
+    <lastmod>2017-03-06</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2007/01/16/fastest-java-virtual-machine/</loc>
     
-    <lastmod>2017-02-28T09:53:49.367Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2007/07/30/ismb-2007/</loc>
     
-    <lastmod>2017-02-28T09:50:22.115Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2007/01/22/clustering-kiwis/</loc>
     
-    <lastmod>2017-02-28T09:45:59.383Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2007/06/06/source-code-visualization/</loc>
     
-    <lastmod>2017-02-28T09:32:17.433Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2014/01/29/euroseattle-startup-weekend/</loc>
     
-    <lastmod>2017-02-28T08:18:03.015Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2013/10/11/api-prayer/</loc>
     
-    <lastmod>2017-02-28T08:18:03.002Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2013/07/05/lenovo-thinkpad-t431s/</loc>
     
-    <lastmod>2017-02-28T08:18:02.991Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2011/11/17/osgi-and-eclipse-rcp-talk/</loc>
     
-    <lastmod>2017-02-28T08:18:02.976Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2010/01/22/hosting-applets-in-google-docs/</loc>
     
-    <lastmod>2017-02-28T08:18:02.962Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2008/10/23/gtac-2008/</loc>
     
-    <lastmod>2017-02-28T08:18:02.947Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2008/07/18/edward-tufte-presenting-data-and-information-course/</loc>
     
-    <lastmod>2017-02-28T08:18:02.927Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2008/06/19/manning-books-in-safari-books/</loc>
     
-    <lastmod>2017-02-28T08:18:02.914Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2008/04/20/no-fluff-just-stuff/</loc>
     
-    <lastmod>2017-02-28T08:18:02.902Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2008/02/14/java-excel/</loc>
     
-    <lastmod>2017-02-28T08:18:02.885Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2008/02/12/blist/</loc>
     
-    <lastmod>2017-02-28T08:18:02.871Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2007/09/29/java-hyperthreading-benchmarks/</loc>
     
-    <lastmod>2017-02-28T08:18:02.852Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2007/09/07/no-gpl/</loc>
     
-    <lastmod>2017-02-28T08:18:02.838Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2007/06/26/hiring/</loc>
     
-    <lastmod>2017-02-28T08:18:02.824Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2007/06/01/embrace-talk/</loc>
     
-    <lastmod>2017-02-28T08:18:02.795Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2007/03/13/google-clear-button/</loc>
     
-    <lastmod>2017-02-28T08:18:02.783Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2007/03/12/n-triple-converter-comparison/</loc>
     
-    <lastmod>2017-02-28T08:18:02.771Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2007/03/07/metalink-for-uniprot-rdf/</loc>
     
-    <lastmod>2017-02-28T08:17:21.828Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2006/01/27/call-for-better-information-retrieval-systems/</loc>
-    
-    <lastmod>2017-02-28T08:13:41.683Z</lastmod>
-    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/04/01/rdfroom/</loc>
     
-    <lastmod>2017-02-28T08:10:12.287Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/04/14/autostitch/</loc>
     
-    <lastmod>2017-02-28T08:07:52.296Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/05/18/dog-better-than-cat/</loc>
     
-    <lastmod>2017-02-28T08:05:29.555Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/11/08/yahoo-search-talk/</loc>
     
-    <lastmod>2017-02-28T08:02:45.371Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/12/21/the-annotator/</loc>
     
-    <lastmod>2017-02-28T08:00:13.255Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2005/06/19/swiss-perfect/</loc>
     
-    <lastmod>2017-02-28T07:55:06.862Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2008/08/05/seattle-land-water-air/</loc>
     
-    <lastmod>2017-02-28T07:39:22.225Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2002/10/01/barcelona/</loc>
     
-    <lastmod>2017-02-28T07:13:03.506Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2001/11/01/scandinavia/</loc>
     
-    <lastmod>2017-02-28T07:11:47.770Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2001/03/01/india/</loc>
     
-    <lastmod>2017-02-28T07:10:38.031Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2010/04/16/kauai/</loc>
     
-    <lastmod>2017-02-28T06:39:27.411Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/09/01/brazil/</loc>
     
-    <lastmod>2017-02-28T06:38:07.623Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2007/11/30/rwanda/</loc>
     
-    <lastmod>2017-02-28T06:37:27.584Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2007/06/10/marmots/</loc>
     
-    <lastmod>2017-02-28T06:35:53.885Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2004/05/01/china/</loc>
     
-    <lastmod>2017-02-28T06:17:19.454Z</lastmod>
+    <lastmod>2017-02-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2007/12/04/amos-bairoch-action-figure/</loc>
     
-    <lastmod>2017-02-27T08:15:20.461Z</lastmod>
+    <lastmod>2017-02-27</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2009/11/12/sharing-tracklogs/</loc>
     
-    <lastmod>2017-02-27T08:12:51.508Z</lastmod>
+    <lastmod>2017-02-27</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2016/01/01/flights/</loc>
     
-    <lastmod>2017-02-27T01:30:40.937Z</lastmod>
+    <lastmod>2017-02-27</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/01/14/object-store-benchmark/</loc>
     
-    <lastmod>2017-02-26T08:04:26.570Z</lastmod>
+    <lastmod>2017-02-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2005/03/01/brainz/</loc>
     
-    <lastmod>2017-02-26T07:45:43.469Z</lastmod>
+    <lastmod>2017-02-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2005/04/01/accessible-format-for-uniprot/</loc>
     
-    <lastmod>2017-02-26T07:43:30.490Z</lastmod>
+    <lastmod>2017-02-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/01/31/better-programming-languages/</loc>
     
-    <lastmod>2017-02-26T07:39:42.208Z</lastmod>
+    <lastmod>2017-02-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/01/02/biozon/</loc>
     
-    <lastmod>2017-02-26T07:08:15.499Z</lastmod>
+    <lastmod>2017-02-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/01/02/information-dashboard-design/</loc>
     
-    <lastmod>2017-02-26T07:07:49.171Z</lastmod>
+    <lastmod>2017-02-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/01/07/vivisimo/</loc>
     
-    <lastmod>2017-02-26T07:07:17.003Z</lastmod>
+    <lastmod>2017-02-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/01/23/emotional-design/</loc>
     
-    <lastmod>2017-02-26T07:06:27.182Z</lastmod>
+    <lastmod>2017-02-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/01/23/fast-judgement/</loc>
     
-    <lastmod>2017-02-26T07:06:09.183Z</lastmod>
+    <lastmod>2017-02-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/01/23/information-visualization/</loc>
     
-    <lastmod>2017-02-26T07:05:53.082Z</lastmod>
+    <lastmod>2017-02-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/01/23/producing-open-source-software/</loc>
     
-    <lastmod>2017-02-26T07:05:35.437Z</lastmod>
+    <lastmod>2017-02-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/02/06/data-and-reality/</loc>
     
-    <lastmod>2017-02-26T07:04:48.039Z</lastmod>
+    <lastmod>2017-02-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/02/07/uniprot-creative-commons/</loc>
     
-    <lastmod>2017-02-26T07:04:30.758Z</lastmod>
+    <lastmod>2017-02-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/02/08/how-to-encourage-contributions/</loc>
     
-    <lastmod>2017-02-26T07:04:11.372Z</lastmod>
+    <lastmod>2017-02-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/02/15/biologists-and-computer-scientists/</loc>
     
-    <lastmod>2017-02-26T07:03:53.841Z</lastmod>
+    <lastmod>2017-02-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/02/20/choosing-information-resources/</loc>
     
-    <lastmod>2017-02-26T07:03:37.800Z</lastmod>
+    <lastmod>2017-02-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/05/17/enzyme-google-subscribed-links/</loc>
     
-    <lastmod>2017-02-26T07:02:42.525Z</lastmod>
+    <lastmod>2017-02-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/10/24/google-life-sciences-search-engine/</loc>
     
-    <lastmod>2017-02-26T07:01:07.700Z</lastmod>
+    <lastmod>2017-02-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/11/07/blast-google-gadget/</loc>
     
-    <lastmod>2017-02-26T07:00:47.359Z</lastmod>
+    <lastmod>2017-02-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2006/11/07/uniprot-logo/</loc>
     
-    <lastmod>2017-02-26T07:00:15.971Z</lastmod>
+    <lastmod>2017-02-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2007/04/01/new-uniprot-theme/</loc>
     
-    <lastmod>2017-02-26T06:56:35.018Z</lastmod>
+    <lastmod>2017-02-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2007/06/07/compare-ontology-versions/</loc>
     
-    <lastmod>2017-02-26T06:54:12.128Z</lastmod>
+    <lastmod>2017-02-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2007/08/10/swiss-prot-20-talks-on-google-video/</loc>
     
-    <lastmod>2017-02-26T06:50:45.719Z</lastmod>
+    <lastmod>2017-02-26</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2012/03/24/california-roadtrip/</loc>
     
-    <lastmod>2017-02-25T06:52:50.659Z</lastmod>
+    <lastmod>2017-02-25</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2015/01/01/outdoor-trips/</loc>
     
-    <lastmod>2017-02-25T06:21:35.186Z</lastmod>
+    <lastmod>2017-02-25</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://eric.jain.name/2014/05/24/tableau-quantified-self/</loc>
     
-    <lastmod>2017-02-25T06:20:19.808Z</lastmod>
+    <lastmod>2017-02-25</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://eric.jain.name/</loc>
+    <lastmod>2022-11-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://eric.jain.name/tags/travel/</loc>
+    <lastmod>2022-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/tags/quantified-self/</loc>
+    <lastmod>2022-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/tags/humor/</loc>
+    <lastmod>2022-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/tags/life-science/</loc>
+    <lastmod>2022-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/tags/programming/</loc>
+    <lastmod>2022-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/tags/review/</loc>
+    <lastmod>2022-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/tags/usability/</loc>
+    <lastmod>2022-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/tags/semantic-web/</loc>
+    <lastmod>2022-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/tags/gear/</loc>
+    <lastmod>2022-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/tags/recipe/</loc>
+    <lastmod>2022-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://eric.jain.name/categories/humor/</loc>
+    <lastmod>2022-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/categories/humor/programming/</loc>
+    <lastmod>2022-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/categories/programming/</loc>
+    <lastmod>2022-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
 </urlset>

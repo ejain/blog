@@ -3,10 +3,10 @@
   <title>Eric Jain&#39;s Blog</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="https://eric.jain.name/atom.xml" rel="self"/>
   
   <link href="https://eric.jain.name/"/>
-  <updated>2020-01-02T20:41:05.184Z</updated>
+  <updated>2022-07-26T05:36:40.353Z</updated>
   <id>https://eric.jain.name/</id>
   
   <author>
@@ -14,7 +14,29 @@
     
   </author>
   
-  <generator uri="http://hexo.io/">Hexo</generator>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Sous Vide Desserts</title>
+    <link href="https://eric.jain.name/2022/07/21/sous-vide-desserts/"/>
+    <id>https://eric.jain.name/2022/07/21/sous-vide-desserts/</id>
+    <published>2022-07-21T07:00:00.000Z</published>
+    <updated>2022-07-26T05:36:40.353Z</updated>
+    
+    <content type="html"><![CDATA[<p>Sous vide cooking isn’t just <a href="/2019/07/17/sous-vide-cooking/">for main courses</a>, but can also be used to prepare desslighterts. Here are my favorites.</p><h2 id="Cheese-Cake"><a href="#Cheese-Cake" class="headerlink" title="Cheese Cake"></a>Cheese Cake</h2><p>Based on <a href="https://www.cooksillustrated.com/recipes/13699-sous-vide-lemon-cheesecake-cups">a recipe from Cook’s Illustrated</a>.</p><h4 id="Topping"><a href="#Topping" class="headerlink" title="Topping"></a>Topping</h4><ul><li>3 graham crackers</li><li>1 tbsp butter</li><li>1½ tsp sugar</li><li>¼ tsp ground cinnamon</li><li>pinch of salt</li></ul><p>Crumble crackers in the processor. Melt butter, stir in sugar, cinnamon, salt, and crumbs. Continue stirring for a minute or so, then let cool down.</p><h4 id="Filling"><a href="#Filling" class="headerlink" title="Filling"></a>Filling</h4><ul><li>4 tbsp sugar</li><li>1½ tsp grated lemon zest</li><li>12 oz cream cheese</li><li>2 eggs</li><li>¼ cup whipping cream</li><li>2 tbsp lemon juice</li><li>1 tsp vanilla extract</li><li>⅛ tsp salt</li></ul><p>Process sugar and lemon zest, add cream cheese and process. Add eggs, cream, lemon juice, vanilla, and salt, and process. Transfer to containers, and cook for 60-75 minutes at 80°C. Let cool down and refrigerate a couple of hours. Add the crumbs before serving.</p><h2 id="Rice-Pudding"><a href="#Rice-Pudding" class="headerlink" title="Rice Pudding"></a>Rice Pudding</h2><p><img src="/2022/07/21/sous-vide-desserts/rice-pudding.jpg"></p><ul><li>½ cup sweet rice</li><li>2 cups milk</li><li>1 can coconut milk</li><li>4 tbsp sugar</li><li>2 tsp vanilla extract</li><li>¼ tsp ground cardamom</li><li>¼ tsp fresh ginger</li><li>¼ tsp salt</li></ul><p>Spread the rice across several containers. Mix the remaing ingredients, and fill the containers. Cook for 70 minutes at 92°C. Let cool down and refrigerate for a couple of hours.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Sous vide cooking isn’t just &lt;a href=&quot;/2019/07/17/sous-vide-cooking/&quot;&gt;for main courses&lt;/a&gt;, but can also be used to prepare desslighterts</summary>
+      
+    
+    
+    
+    
+    <category term="Recipe" scheme="https://eric.jain.name/tags/recipe/"/>
+    
+  </entry>
   
   <entry>
     <title>10 Years of Tracklogs</title>
@@ -23,20 +45,19 @@
     <published>2019-12-31T08:00:00.000Z</published>
     <updated>2020-01-02T20:41:05.184Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="2010-2019.png" alt="2010-2019"></p><p>This map shows every tracklog I recorded while driving and hiking around the Pacific Northwest over the past ten years. The blue tracks were recorded while driving, and the orange tracks while hiking, paddling, or skiing.</p><h2 id="How"><a href="#How" class="headerlink" title="How?"></a>How?</h2><p>Currently, I use a <a href="https://buy.garmin.com/en-US/US/p/63349">Garmin Oregon 450</a> to record most of the outdoor activities, and <a href="https://automatic.com/">Automatic</a> for driving. Using a phone for tracking is still too much of a trade-off between draining the battery and accuracy for me, especially for longer activities.</p><p>Automatic exports spreadsheets, from which <a href="https://gist.github.com/ejain/14f36c114144b8001e5bfd725ee8681d">GPX files can be extracted</a>. Together with the GPX files copied off the Garmin device, these files can be <a href="https://gist.github.com/ejain/c775d156e79cac872226f68d6cf16d53">converted to GeoJSON</a>, which can be imported into and visualized in <a href="https://public.tableau.com/">Tableau Public</a>.</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2019/12/31/tracklogs/2010-2019.png" alt="2010-2019"></p><p>This map shows every tracklog I recorded while driving and hiking around the Pacific Northwest over the past ten years. The blue tracks were recorded while driving, and the orange tracks while hiking, paddling, or skiing.</p><h2 id="How"><a href="#How" class="headerlink" title="How?"></a>How?</h2><p>Currently, I use a <a href="https://buy.garmin.com/en-US/US/p/63349">Garmin Oregon 450</a> to record most of the outdoor activities, and <a href="https://automatic.com/">Automatic</a> for driving. Using a phone for tracking is still too much of a trade-off between draining the battery and accuracy for me, especially for longer activities.</p><p>Automatic exports spreadsheets, from which <a href="https://gist.github.com/ejain/14f36c114144b8001e5bfd725ee8681d">GPX files can be extracted</a>. Together with the GPX files copied off the Garmin device, these files can be <a href="https://gist.github.com/ejain/c775d156e79cac872226f68d6cf16d53">converted to GeoJSON</a>, which can be imported into and visualized in <a href="https://public.tableau.com/">Tableau Public</a>.</p>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;2010-2019.png&quot; alt=&quot;2010-2019&quot;&gt;&lt;/p&gt;
-&lt;p&gt;This map shows every tracklog I recorded while driving and hiking around the Pacific Nor
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2019/12/31/tracklogs/2010-2019.png&quot; alt=&quot;2010-2019&quot;&gt;&lt;/p&gt;
+&lt;p&gt;This map shows every tracklog I recorded while driving and hiking </summary>
       
     
-    </summary>
     
     
-      <category term="Quantified Self" scheme="https://eric.jain.name/tags/quantified-self/"/>
+    
+    <category term="Quantified Self" scheme="https://eric.jain.name/tags/quantified-self/"/>
     
   </entry>
   
@@ -47,19 +68,18 @@
     <published>2019-07-17T07:00:00.000Z</published>
     <updated>2020-11-29T02:02:48.045Z</updated>
     
-    <content type="html"><![CDATA[<p>Started using an <a href="https://anovaculinary.com/nano/">Anova Nano</a> sous-vide cooker earlier this year. The device is small enough to fit inside some of our pots, but we ended up getting a Rubbermaid 5qt container for convenience. Food goes inside Ziploc freezer bags. Meat can look ugly after cooking, and has to be seared briefly. Can cook frozen food without unthawing it first, just need to add an hour or so to the cooking time. Cooking could be controlled from an app, but setting the temperature on the device directly seems quicker and simpler.</p><p>Settled on the following temperatures, to get (subjectively) perfect results every time:</p><ul><li><strong>New York Steak.</strong> 1h+ @ 54°C.</li><li><strong>Filet Mignon.</strong> 1h+ @ 58°C.</li><li><strong>Pork Tenderloin.</strong> 1h+ @ 60°C.</li><li><strong>Chicken Breast.</strong> 2h+ @ 62°C.</li><li><strong>Duck Breast.</strong> 1h+ @ 62°C, and sear for 5min on the skin-side.</li><li><strong>Salmon.</strong> 30min @ 49°C (wild, low-fat), 52°C (farmed, high-fat). Must brine prior to cooking, and must remove once cooked. Gets very flaky, which makes searing difficult. Probably only worthwhile for thick pieces.</li><li><strong>Tuna.</strong> 45min @ 46°C. Pat dry and sear 30s on each side. </li></ul><p>Some things don’t seem to be worth the trouble:</p><ul><li><strong>Carrots.</strong> 1h+ @ 84°C. Not noticeably better than steamed.</li><li><strong>Sausages.</strong> 45min @ 66°C. Not noticeably better than broiled.</li><li><strong>Eggs.</strong> Can’t get the whites to solidify before the yolk, at any temperature.</li></ul><p>More experimentation TBD…</p><p><img src="anova-nano.jfif" alt=""></p>]]></content>
+    <content type="html"><![CDATA[<p>Started using an <a href="https://anovaculinary.com/nano/">Anova Nano</a> sous-vide cooker earlier this year. The device is small enough to fit inside some of our pots, but we ended up getting a Rubbermaid 5qt container for convenience. Food goes inside Ziploc freezer bags. Meat can look ugly after cooking, and has to be seared briefly. Can cook frozen food without unthawing it first, just need to add an hour or so to the cooking time. Cooking could be controlled from an app, but setting the temperature on the device directly seems quicker and simpler.</p><p>Settled on the following temperatures, to get (subjectively) perfect results every time:</p><ul><li><strong>New York Steak.</strong> 1h+ @ 54°C.</li><li><strong>Filet Mignon.</strong> 1h+ @ 58°C.</li><li><strong>Pork Tenderloin.</strong> 1h+ @ 60°C.</li><li><strong>Chicken Breast.</strong> 2h+ @ 62°C.</li><li><strong>Duck Breast.</strong> 1h+ @ 62°C, and sear for 5min on the skin-side.</li><li><strong>Salmon.</strong> 30min @ 49°C (wild, low-fat), 52°C (farmed, high-fat). Must brine prior to cooking, and must remove once cooked. Gets very flaky, which makes searing difficult. Probably only worthwhile for thick pieces.</li><li><strong>Tuna.</strong> 45min @ 46°C. Pat dry and sear 30s on each side.</li></ul><p>Some things don’t seem to be worth the trouble:</p><ul><li><strong>Carrots.</strong> 1h+ @ 84°C. Not noticeably better than steamed.</li><li><strong>Sausages.</strong> 45min @ 66°C. Not noticeably better than broiled.</li><li><strong>Eggs.</strong> Can’t get the whites to solidify before the yolk, at any temperature.</li></ul><p>More experimentation TBD…</p><p><img src="/2019/07/17/sous-vide-cooking/anova-nano.jfif"></p>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;Started using an &lt;a href=&quot;https://anovaculinary.com/nano/&quot;&gt;Anova Nano&lt;/a&gt; sous-vide cooker earlier this year. The device is small enough 
+    <summary type="html">&lt;p&gt;Started using an &lt;a href=&quot;https://anovaculinary.com/nano/&quot;&gt;Anova Nano&lt;/a&gt; sous-vide cooker earlier this year. The device is small enough </summary>
       
     
-    </summary>
     
     
-      <category term="Recipe" scheme="https://eric.jain.name/tags/recipe/"/>
+    
+    <category term="Recipe" scheme="https://eric.jain.name/tags/recipe/"/>
     
   </entry>
   
@@ -70,19 +90,18 @@
     <published>2018-12-30T08:00:00.000Z</published>
     <updated>2019-03-27T16:46:06.434Z</updated>
     
-    <content type="html"><![CDATA[<p>Blood pressure readings taken at my annual checkups (or prior to blood draws) have varied between perfectly good to borderline pre-hypertension over the past few years. This is likely just a case of <a href="https://en.wikipedia.org/wiki/White_coat_hypertension">white coat hypertension</a>, but there is also <a href="https://www.nature.com/articles/hr200763">masked hypertension</a>, where a person’s blood pressure is even higher outside of the doctor’s office… So I wanted to get an idea of what my blood pressure range is under normal conditions, how much it varies from day to day, and <a href="https://www.adctoday.com/blog/why-my-blood-pressure-reading-so-high-10-factors-affect-bp-readings">what factors</a> affect my blood pressure readings.</p><h2 id="What-I-did"><a href="#What-I-did" class="headerlink" title="What I did"></a>What I did</h2><p><img src="device.jpg" alt="Greater Goods blood pressure monitor"></p><p>To take my own blood pressure readings, I bought a <a href="https://greatergoods.com/products/0604">Greater Goods blood pressure monitor</a> for $40. This device was rated good on accuracy, and supports exporting data in a spreadsheet via <a href="https://play.google.com/store/apps/details?id=com.dmdbrands.balancehealth">an app</a>.</p><p>Every morning for just over two months, after getting up and going through my usual morning routine (but before having breakfast), I took three consecutive blood pressure readings, about one minute apart.</p><p>On a few days I took additional readings to investigate factors that are know to influence blood pressure, and that might help explain the occasional, higher readings at the doctor’s office.</p><p>To verify the accuracy of the blood pressure monitor, I brought the monitor to my next physical exam, where I took a single reading right after the physician’s assistant had taken a reading with their more expensive device. The values matched almost exactly.</p><p>During the two months, there was no significant change in resting heart rate or blood pressure, body weight or composition, or activity levels.</p><h2 id="What-I-learned"><a href="#What-I-learned" class="headerlink" title="What I learned"></a>What I learned</h2><p><img src="daily.png" alt=""></p><p>The “perfectly good” blood pressure readings were likely a better reflection of my typical blood pressure than the “borderline pre-hypertension” readings.</p><p>Doing three consecutive readings is probably overkill: If the first two readings are within a few points of each other (as they almost always were), the third reading could be skipped.</p><p>Short (&lt;10 minute) <strong>exercise sessions</strong> increase blood pressure, but blood pressure is back to normal after relaxing for another 10 minutes.</p><p>Neither going to the gym nor hiking had an effect on the following day’s blood pressure, but there was a small, negative correlation between <strong>calories burned during the previous 7 days</strong> and my blood pressure.</p><p>Small changes in posture like holding the arm at a wrong angle affect my blood pressure readings, as does going from being dehydrated to being <strong>overhydrated</strong>, having a <strong>full bladder</strong>, or being in a <strong>cold room</strong>. These factors can each account for discrepancies of up to 10mmHg or more.</p><p>Blood pressure readings were slightly higher when I got up <strong>earlier in the morning</strong>. I didn’t take many readings throughout the day, but blood pressure appeared to be slightly elevated in the late afternoon and again in the evening, <a href="https://hellenicjcardiol.org/archive/full_text/2012/6/2012_6_432.pdf">as expected</a>.</p><p>I tried to <strong>increase salt intake</strong> for a week, but didn’t see any effect. Had planned to add a tablespoon of salt each day, but ended up adding no more than a teaspoon. This doesn’t mean that reducing my salt intake wouldn’t lower my blood pressure, or that my blood pressure wouldn’t rise if I continued on a high-salt diet for more than a week.</p><p><a href="https://www.ncbi.nlm.nih.gov/books/NBK482408/">Pulse pressure</a> has been proposed as an alternative measure of cardiovascular health. This measure correlated with systolic but not diastolic pressure. Neither systolic nor diastolic pressure were correlated with the heart rate (at rest).</p><h2 id="What-next"><a href="#What-next" class="headerlink" title="What next"></a>What next</h2><p>I don’t intend to continue taking daily blood pressure readings, but will continue to do so once a week or so, including before blood draws or other medical appointments.</p><p>I’ll share more detailed results at a <a href="https://www.meetup.com/Quantified-Self-Seattle/events/259753371/">Quantified Self Seattle Meetup</a>.</p><p>You can find the Jupyter Notebook used to process the data <a href="https://github.com/ejain/blog/blob/master/source/_posts/2018-12-30-tracking-blood-pressure/blood-pressure.ipynb">here</a>.</p>]]></content>
+    <content type="html"><![CDATA[<p>Blood pressure readings taken at my annual checkups (or prior to blood draws) have varied between perfectly good to borderline pre-hypertension over the past few years. This is likely just a case of <a href="https://en.wikipedia.org/wiki/White_coat_hypertension">white coat hypertension</a>, but there is also <a href="https://www.nature.com/articles/hr200763">masked hypertension</a>, where a person’s blood pressure is even higher outside of the doctor’s office… So I wanted to get an idea of what my blood pressure range is under normal conditions, how much it varies from day to day, and <a href="https://www.adctoday.com/blog/why-my-blood-pressure-reading-so-high-10-factors-affect-bp-readings">what factors</a> affect my blood pressure readings.</p><h2 id="What-I-did"><a href="#What-I-did" class="headerlink" title="What I did"></a>What I did</h2><p><img src="/2018/12/30/tracking-blood-pressure/device.jpg" alt="Greater Goods blood pressure monitor"></p><p>To take my own blood pressure readings, I bought a <a href="https://greatergoods.com/products/0604">Greater Goods blood pressure monitor</a> for $40. This device was rated good on accuracy, and supports exporting data in a spreadsheet via <a href="https://play.google.com/store/apps/details?id=com.dmdbrands.balancehealth">an app</a>.</p><p>Every morning for just over two months, after getting up and going through my usual morning routine (but before having breakfast), I took three consecutive blood pressure readings, about one minute apart.</p><p>On a few days I took additional readings to investigate factors that are know to influence blood pressure, and that might help explain the occasional, higher readings at the doctor’s office.</p><p>To verify the accuracy of the blood pressure monitor, I brought the monitor to my next physical exam, where I took a single reading right after the physician’s assistant had taken a reading with their more expensive device. The values matched almost exactly.</p><p>During the two months, there was no significant change in resting heart rate or blood pressure, body weight or composition, or activity levels.</p><h2 id="What-I-learned"><a href="#What-I-learned" class="headerlink" title="What I learned"></a>What I learned</h2><p><img src="/2018/12/30/tracking-blood-pressure/daily.png"></p><p>The “perfectly good” blood pressure readings were likely a better reflection of my typical blood pressure than the “borderline pre-hypertension” readings.</p><p>Doing three consecutive readings is probably overkill: If the first two readings are within a few points of each other (as they almost always were), the third reading could be skipped.</p><p>Short (&lt;10 minute) <strong>exercise sessions</strong> increase blood pressure, but blood pressure is back to normal after relaxing for another 10 minutes.</p><p>Neither going to the gym nor hiking had an effect on the following day’s blood pressure, but there was a small, negative correlation between <strong>calories burned during the previous 7 days</strong> and my blood pressure.</p><p>Small changes in posture like holding the arm at a wrong angle affect my blood pressure readings, as does going from being dehydrated to being <strong>overhydrated</strong>, having a <strong>full bladder</strong>, or being in a <strong>cold room</strong>. These factors can each account for discrepancies of up to 10mmHg or more.</p><p>Blood pressure readings were slightly higher when I got up <strong>earlier in the morning</strong>. I didn’t take many readings throughout the day, but blood pressure appeared to be slightly elevated in the late afternoon and again in the evening, <a href="https://hellenicjcardiol.org/archive/full_text/2012/6/2012_6_432.pdf">as expected</a>.</p><p>I tried to <strong>increase salt intake</strong> for a week, but didn’t see any effect. Had planned to add a tablespoon of salt each day, but ended up adding no more than a teaspoon. This doesn’t mean that reducing my salt intake wouldn’t lower my blood pressure, or that my blood pressure wouldn’t rise if I continued on a high-salt diet for more than a week.</p><p><a href="https://www.ncbi.nlm.nih.gov/books/NBK482408/">Pulse pressure</a> has been proposed as an alternative measure of cardiovascular health. This measure correlated with systolic but not diastolic pressure. Neither systolic nor diastolic pressure were correlated with the heart rate (at rest).</p><h2 id="What-next"><a href="#What-next" class="headerlink" title="What next"></a>What next</h2><p>I don’t intend to continue taking daily blood pressure readings, but will continue to do so once a week or so, including before blood draws or other medical appointments.</p><p>I’ll share more detailed results at a <a href="https://www.meetup.com/Quantified-Self-Seattle/events/259753371/">Quantified Self Seattle Meetup</a>.</p><p>You can find the Jupyter Notebook used to process the data <a href="https://github.com/ejain/blog/blob/master/source/_posts/2018-12-30-tracking-blood-pressure/blood-pressure.ipynb">here</a>.</p>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;Blood pressure readings taken at my annual checkups (or prior to blood draws) have varied between perfectly good to borderline pre-hypert
+    <summary type="html">&lt;p&gt;Blood pressure readings taken at my annual checkups (or prior to blood draws) have varied between perfectly good to borderline pre-hypert</summary>
       
     
-    </summary>
     
     
-      <category term="Quantified Self" scheme="https://eric.jain.name/tags/quantified-self/"/>
+    
+    <category term="Quantified Self" scheme="https://eric.jain.name/tags/quantified-self/"/>
     
   </entry>
   
@@ -93,19 +112,18 @@
     <published>2018-11-25T08:00:00.000Z</published>
     <updated>2019-01-10T07:01:16.441Z</updated>
     
-    <content type="html"><![CDATA[<p>Fasting glucose and A1C tests done over the past few years show me at low risk for diabetes. But these tests don’t necessarily capture how much blood sugar “spikes” after meals–something that may be <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2005143">a better predictor of disease risk</a>. Such blood sugar spikes can be minimized with a suitable diet, but what that diet should consist of <a href="http://thepersonalizeddiet.com/">differs from person to person</a>. Fortunately, measuring your blood sugar levels is now relatively affordable and hassle-free with the latest generation of continuous glucose monitoring devices.</p><h2 id="What-I-did"><a href="#What-I-did" class="headerlink" title="What I did"></a>What I did</h2><p>At my last physical exam, I asked for a prescription for a <a href="https://www.freestylelibre.us/">FreeStyle Libre</a>. The setup consists of a reader device, and disposable sensors that last two weeks each. The reader device can also process <a href="https://abbottstore.com/freestyle-precision-neo-blood-glucose-test-strips-25-count-7157775.html">blood test strips</a>, so I got a few of those as well (along with some <a href="https://www.accu-chek.com/lancing/fastclix-lancing-device">lancets</a>) in order to double-check the accuracy of the sensors.</p><p><img src="hardware.jpg" alt="FreeStyle Libre"></p><p>The sensors attach to the back of the upper arm using a spring-loaded, stamp-like device. I used my right arm, as my left arm was already in use for two other experiments… There’s a ~5mm long needle at the bottom of each sensor that ends up just under your skin.</p><p>For four weeks I tried to follow a normal life, eating and doing the things I normally do, with a few small variations, and while keeping an eye open for problematic blood sugar levels (i.e. outside of the 70-140mg/dL range).</p><p>I scanned the sensor with the reader before breakfast, lunch and dinner every day, as well as just before going to bed and right after getting up (as the sensor starts overwriting data after just 8 hours). Also in between sometimes, out of curiosity…</p><p>The official <a href="https://www.freestylelibre.us/support/overview.html">desktop</a> and <a href="https://www.libreview.com/">web</a> apps generate nice reports for physicians, and can export your data as a spreadsheet, but transfering data from the reader with <a href="https://tidepool.org/">Tidepool</a> was less flaky, plus their mobile app let me describe meals better (i.e. not just mark meal times), and they’re very quick to resolve any issues you run into.</p><p><img src="tidepool.png" alt="Tidepool app"></p><p>Tidepool does a good job visualizing the data, but I wanted to have each day ligned up, with hourly step counts from my old Fitbit One to indicate activity levels and sleep times. So I <a href="https://support.tidepool.org/article/37-export-your-account-data">exported my data from Tidepool</a> and created this chart with <a href="https://altair-viz.github.io/">Altair</a> in a Jupyter Notebook:</p><p><img src="timeline.png" alt="timeline chart"></p><p>To compare glycemic responses across meals, I extracted and overlaid data in charts like this one comparing several breakfasts:</p><p><img src="breakfast.png" alt="breakfast chart"></p><p>I also kept a record of my days using the <a href="https://www.google.com/maps/timeline">Google Maps Timeline</a>, including photos of <del>all</del> most of my meals, in case I needed to check what I was doing at any given time, or where I ate that pizza…</p><p>During the four weeks, there was no significant change in body weight or composition, resting heart rate or blood pressure, sleep duration, or activity levels.</p><h2 id="What-I-learned"><a href="#What-I-learned" class="headerlink" title="What I learned"></a>What I learned</h2><p>The sensors <strong>worked as advertised</strong>, and didn’t cause any pain or skin issues, or come off prematurely. The local swimming pool was closed for the duration of the experiment, so the only exposure to water were brief showers once a day or so. If I were spending more time in the water, or exposing my upper arms to the sun, I’d consider covering the sensor with something like SIMPATCH tape.</p><p>The data appears to be <strong>reasonably accurate</strong>: The values shown when scanning the sensor were often way off, but the measurements that are logged with a lag every 15 minutes or so seem plausible, and match the few finger prick tests I did, at least when blood sugar levels were stable. Had planned to do a more finger prick tests, but getting enough blood turned out to be difficult (without wider lancets, which most pharmacies don’t stock).</p><p>During moderate <strong>exercise</strong> like walking, blood sugar levels remained stable almost regardless of what I ate. During prolonged (&gt;2h), intense exercise without food there were some ups and downs; this could be the liver dumping glucose back into the blood, or an artifact caused by changing hydration levels. Brief periods of intense exercise didn’t affect blood sugar levels much, but greatly reduced the glycemic response for up to an hour after exercising. There was no correlation between the amount of exercise on a day and the average blood sugar levels during the following day. Standing rather than sitting didn’t have an obvious effect on blood sugar levels.</p><p>Didn’t do any real <strong>fasting</strong>, but noticed that blood sugar remained stable when I hadn’t eaten for a while, even after skipping a meal. What I had always assumed to be a feeling of low blood sugar was in fact just me being hungry.</p><p><strong>Breakfast</strong> was the least problematic meal of the day. I was surprised to see a stronger glycemic response from plain oatmeal than from a smoothie bowl with granola, or even french toast smothered in apple sauce or maple syrup. Neither drinking green tea with breakfast nor substituting full- with low-fat dairy or non-dairy made a noticable difference. Adding whey protein to the smoothie made my blood sugar levels stay elevated longer.</p><p><strong>Lunch</strong> was mostly unproblematic, perhaps because I usually eat out and am on foot. But if I overate, blood sugar levels could remain elevated almost until dinner. Overeating at <strong>dinner</strong> was even more problematic, especially when eating late, with blood sugar levels sometimes remaining elevated into the early morning. White rice and regular pasta may be problematic, while potatoes and bread of any kind were fine. Substituting regular pasta with chickpea pasta improved things, but only slightly.</p><p>Chocolate, nuts, ice cream, and fruits appear to be unproblematic <strong>snacks</strong>. Cookies and cakes were fine, too, when consumed in moderation. The one snack that did produce a huge spike was a piece of mochi, a kind of rice-cake filled with bean paste.</p><p><strong>Milkshakes</strong> posed no problem after intense, half hour workouts in the evening. But if I drank a milkshake in the evening without prior exercise, I’d end up going to bed with elevated blood sugar levels. Drinking the milkshake while still at the gym, or half an hour later when back home made no obvious difference.</p><p><strong>Herbal teas</strong> (chamomile, fennel) didn’t have any immediate, obvious effect on blood sugar levels.</p><p>Lack of <strong>sleep</strong> made my glycemic responses less effective, especially in the morning. Since I wasn’t keeping track of sleep quality, just duration, I can’t say if high or low blood sugar levels affected my sleep in some subtle way.</p><p>Finally, <strong>stress</strong>, especially after meals, and when combined with inactivity, was a (fortunately rare) cause of prolonged, elevated blood sugar levels.</p><h2 id="What-next"><a href="#What-next" class="headerlink" title="What next"></a>What next</h2><p>I intend to do another round of blood sugar tracking in a year or so–or earlier, if my daily routine changes significantly. I’ll also be sharing more detailed results at the next <a href="https://www.meetup.com/Quantified-Self-Seattle/events/256929018/">Quantified Self Seattle Meetup</a>.</p><p>You can find the Jupyter Notebook used to process the data <a href="https://github.com/ejain/blog/blob/master/source/_posts/2018-11-25-tracking-blood-sugar/blood-sugar.ipynb">here</a>.</p>]]></content>
+    <content type="html"><![CDATA[<p>Fasting glucose and A1C tests done over the past few years show me at low risk for diabetes. But these tests don’t necessarily capture how much blood sugar “spikes” after meals–something that may be <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2005143">a better predictor of disease risk</a>. Such blood sugar spikes can be minimized with a suitable diet, but what that diet should consist of <a href="http://thepersonalizeddiet.com/">differs from person to person</a>. Fortunately, measuring your blood sugar levels is now relatively affordable and hassle-free with the latest generation of continuous glucose monitoring devices.</p><h2 id="What-I-did"><a href="#What-I-did" class="headerlink" title="What I did"></a>What I did</h2><p>At my last physical exam, I asked for a prescription for a <a href="https://www.freestylelibre.us/">FreeStyle Libre</a>. The setup consists of a reader device, and disposable sensors that last two weeks each. The reader device can also process <a href="https://abbottstore.com/freestyle-precision-neo-blood-glucose-test-strips-25-count-7157775.html">blood test strips</a>, so I got a few of those as well (along with some <a href="https://www.accu-chek.com/lancing/fastclix-lancing-device">lancets</a>) in order to double-check the accuracy of the sensors.</p><p><img src="/2018/11/25/tracking-blood-sugar/hardware.jpg" alt="FreeStyle Libre"></p><p>The sensors attach to the back of the upper arm using a spring-loaded, stamp-like device. I used my right arm, as my left arm was already in use for two other experiments… There’s a ~5mm long needle at the bottom of each sensor that ends up just under your skin.</p><p>For four weeks I tried to follow a normal life, eating and doing the things I normally do, with a few small variations, and while keeping an eye open for problematic blood sugar levels (i.e. outside of the 70-140mg&#x2F;dL range).</p><p>I scanned the sensor with the reader before breakfast, lunch and dinner every day, as well as just before going to bed and right after getting up (as the sensor starts overwriting data after just 8 hours). Also in between sometimes, out of curiosity…</p><p>The official <a href="https://www.freestylelibre.us/support/overview.html">desktop</a> and <a href="https://www.libreview.com/">web</a> apps generate nice reports for physicians, and can export your data as a spreadsheet, but transfering data from the reader with <a href="https://tidepool.org/">Tidepool</a> was less flaky, plus their mobile app let me describe meals better (i.e. not just mark meal times), and they’re very quick to resolve any issues you run into.</p><p><img src="/2018/11/25/tracking-blood-sugar/tidepool.png" alt="Tidepool app"></p><p>Tidepool does a good job visualizing the data, but I wanted to have each day ligned up, with hourly step counts from my old Fitbit One to indicate activity levels and sleep times. So I <a href="https://support.tidepool.org/article/37-export-your-account-data">exported my data from Tidepool</a> and created this chart with <a href="https://altair-viz.github.io/">Altair</a> in a Jupyter Notebook:</p><p><img src="/2018/11/25/tracking-blood-sugar/timeline.png" alt="timeline chart"></p><p>To compare glycemic responses across meals, I extracted and overlaid data in charts like this one comparing several breakfasts:</p><p><img src="/2018/11/25/tracking-blood-sugar/breakfast.png" alt="breakfast chart"></p><p>I also kept a record of my days using the <a href="https://www.google.com/maps/timeline">Google Maps Timeline</a>, including photos of <del>all</del> most of my meals, in case I needed to check what I was doing at any given time, or where I ate that pizza…</p><p>During the four weeks, there was no significant change in body weight or composition, resting heart rate or blood pressure, sleep duration, or activity levels.</p><h2 id="What-I-learned"><a href="#What-I-learned" class="headerlink" title="What I learned"></a>What I learned</h2><p>The sensors <strong>worked as advertised</strong>, and didn’t cause any pain or skin issues, or come off prematurely. The local swimming pool was closed for the duration of the experiment, so the only exposure to water were brief showers once a day or so. If I were spending more time in the water, or exposing my upper arms to the sun, I’d consider covering the sensor with something like SIMPATCH tape.</p><p>The data appears to be <strong>reasonably accurate</strong>: The values shown when scanning the sensor were often way off, but the measurements that are logged with a lag every 15 minutes or so seem plausible, and match the few finger prick tests I did, at least when blood sugar levels were stable. Had planned to do a more finger prick tests, but getting enough blood turned out to be difficult (without wider lancets, which most pharmacies don’t stock).</p><p>During moderate <strong>exercise</strong> like walking, blood sugar levels remained stable almost regardless of what I ate. During prolonged (&gt;2h), intense exercise without food there were some ups and downs; this could be the liver dumping glucose back into the blood, or an artifact caused by changing hydration levels. Brief periods of intense exercise didn’t affect blood sugar levels much, but greatly reduced the glycemic response for up to an hour after exercising. There was no correlation between the amount of exercise on a day and the average blood sugar levels during the following day. Standing rather than sitting didn’t have an obvious effect on blood sugar levels.</p><p>Didn’t do any real <strong>fasting</strong>, but noticed that blood sugar remained stable when I hadn’t eaten for a while, even after skipping a meal. What I had always assumed to be a feeling of low blood sugar was in fact just me being hungry.</p><p><strong>Breakfast</strong> was the least problematic meal of the day. I was surprised to see a stronger glycemic response from plain oatmeal than from a smoothie bowl with granola, or even french toast smothered in apple sauce or maple syrup. Neither drinking green tea with breakfast nor substituting full- with low-fat dairy or non-dairy made a noticable difference. Adding whey protein to the smoothie made my blood sugar levels stay elevated longer.</p><p><strong>Lunch</strong> was mostly unproblematic, perhaps because I usually eat out and am on foot. But if I overate, blood sugar levels could remain elevated almost until dinner. Overeating at <strong>dinner</strong> was even more problematic, especially when eating late, with blood sugar levels sometimes remaining elevated into the early morning. White rice and regular pasta may be problematic, while potatoes and bread of any kind were fine. Substituting regular pasta with chickpea pasta improved things, but only slightly.</p><p>Chocolate, nuts, ice cream, and fruits appear to be unproblematic <strong>snacks</strong>. Cookies and cakes were fine, too, when consumed in moderation. The one snack that did produce a huge spike was a piece of mochi, a kind of rice-cake filled with bean paste.</p><p><strong>Milkshakes</strong> posed no problem after intense, half hour workouts in the evening. But if I drank a milkshake in the evening without prior exercise, I’d end up going to bed with elevated blood sugar levels. Drinking the milkshake while still at the gym, or half an hour later when back home made no obvious difference.</p><p><strong>Herbal teas</strong> (chamomile, fennel) didn’t have any immediate, obvious effect on blood sugar levels.</p><p>Lack of <strong>sleep</strong> made my glycemic responses less effective, especially in the morning. Since I wasn’t keeping track of sleep quality, just duration, I can’t say if high or low blood sugar levels affected my sleep in some subtle way.</p><p>Finally, <strong>stress</strong>, especially after meals, and when combined with inactivity, was a (fortunately rare) cause of prolonged, elevated blood sugar levels.</p><h2 id="What-next"><a href="#What-next" class="headerlink" title="What next"></a>What next</h2><p>I intend to do another round of blood sugar tracking in a year or so–or earlier, if my daily routine changes significantly. I’ll also be sharing more detailed results at the next <a href="https://www.meetup.com/Quantified-Self-Seattle/events/256929018/">Quantified Self Seattle Meetup</a>.</p><p>You can find the Jupyter Notebook used to process the data <a href="https://github.com/ejain/blog/blob/master/source/_posts/2018-11-25-tracking-blood-sugar/blood-sugar.ipynb">here</a>.</p>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;Fasting glucose and A1C tests done over the past few years show me at low risk for diabetes. But these tests don’t necessarily capture ho
+    <summary type="html">&lt;p&gt;Fasting glucose and A1C tests done over the past few years show me at low risk for diabetes. But these tests don’t necessarily capture ho</summary>
       
     
-    </summary>
     
     
-      <category term="Quantified Self" scheme="https://eric.jain.name/tags/quantified-self/"/>
+    
+    <category term="Quantified Self" scheme="https://eric.jain.name/tags/quantified-self/"/>
     
   </entry>
   
@@ -116,22 +134,21 @@
     <published>2018-11-22T08:00:00.000Z</published>
     <updated>2018-11-22T19:03:29.466Z</updated>
     
-    <content type="html"><![CDATA[<p>A somewhat healthy, but addictive snack.</p><p><img src="chocolate-popcorn.jpg" alt=""></p><ul><li>¼ cup <a href="https://www.bobsredmill.com/yellow-popcorn.html">popcorn</a></li><li>1 cup <a href="https://www.ghirardelli.com/dark-chocolate-60-cacao-baking-chips-%2810-oz%29-61274">chocolate chips</a></li><li>¼ cup maple syrup</li><li>¼ cup honey</li><li>1 tsp vanilla</li></ul><p>Pop the pocorn in the microwave.</p><p>Melt the chocolate chips with the maple syrup, honey and vanilla, and pour over the popcorn on a baking sheet.</p><p>Bake for 30 minutes at 300F, stirring every 10 minutes.</p><p>Let cool for another 30 minutes, again stirring every 10 minutes.</p>]]></content>
+    <content type="html"><![CDATA[<p>A somewhat healthy, but addictive snack.</p><p><img src="/2018/11/22/chocolate-popcorn/chocolate-popcorn.jpg"></p><ul><li>¼ cup <a href="https://www.bobsredmill.com/yellow-popcorn.html">popcorn</a></li><li>1 cup <a href="https://www.ghirardelli.com/dark-chocolate-60-cacao-baking-chips-%2810-oz%29-61274">chocolate chips</a></li><li>¼ cup maple syrup</li><li>¼ cup honey</li><li>1 tsp vanilla</li></ul><p>Pop the pocorn in the microwave.</p><p>Melt the chocolate chips with the maple syrup, honey and vanilla, and pour over the popcorn on a baking sheet.</p><p>Bake for 30 minutes at 300F, stirring every 10 minutes.</p><p>Let cool for another 30 minutes, again stirring every 10 minutes.</p>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;A somewhat healthy, but addictive snack.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;chocolate-popcorn.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;A somewhat healthy, but addictive snack.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2018/11/22/chocolate-popcorn/chocolate-popcorn.jpg&quot;&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;¼ cup &lt;a href=&quot;https://www.bobsredm
+&lt;li&gt;¼ cup &lt;a hre</summary>
       
     
-    </summary>
     
     
-      <category term="Recipe" scheme="https://eric.jain.name/tags/recipe/"/>
+    
+    <category term="Recipe" scheme="https://eric.jain.name/tags/recipe/"/>
     
   </entry>
   
@@ -142,19 +159,18 @@
     <published>2018-10-25T07:00:00.000Z</published>
     <updated>2018-10-26T04:03:50.628Z</updated>
     
-    <content type="html"><![CDATA[<p>One in five pictures I take while hiking are pictures of the trails themselves. Previously, I experimented with <a href="https://github.com/ejain/n-of-1-ml/blob/master/transfer_learning.ipynb">using machine learning to automatically tag those pictures</a>. After reading about how machine learning can be used not just for image classification, but also for <a href="https://arxiv.org/abs/1511.06434">generating images</a>, I was curious to see what would happen if I tried this approach on my pictures.</p><p>Here are a few randomly selected pictures of trails, out of the more than 5,000 pictures of trails I have taken over the past 10 years:</p><p><img src="real_samples.png" alt="actual trails"></p><p>After a bit of number crunching with a <em>Deep Convolutional Generative Adversarial Network</em> (where part of the network is trained to fake images, while the other part is simultaneously being trained to detect fake images), here are a few randomly generated trail pictures: </p><p><img src="fake_samples_epoch_275.png" alt="fake trails"></p><p>There is some blurriness and some distortions, but overall the results are pretty convincing! There are forest trails, trails through alpine meadows, rocky trails, and even a few snow-covered trails. But none of these trails exist in the real world.</p><h2 id="Notes"><a href="#Notes" class="headerlink" title="Notes"></a>Notes</h2><ul><li><p>I ended up using <a href="https://pytorch.org/">PyTorch</a>, which happened to have <a href="https://github.com/pytorch/examples/tree/master/dcgan">suitable sample code</a>. <a href="https://keras.io/">Keras</a> (my go-to framework) turned out to be a bit too high-level to handle this kind of problem efficiently, and <a href="https://www.tensorflow.org/">Tensorflow</a>, being more low-level, would have required more code.</p></li><li><p>Unfortunately, scaling up beyond 64x64 thumbnails to 128x128 or larger turns out to not be a simple matter of throwing more computing resources at the problem.</p></li><li><p>The network was trained for 275 epochs (iterations through the entire data set). This animation shows how the generated images improved over time: </p><iframe width="560" height="315" src="https://www.youtube.com/embed/EtQbLnecW0g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></li><li><p>The training was done on a fast machine with a GPU (obtained from <a href="https://aws.amazon.com/sagemaker/">Amazon SageMaker</a> for a total cost of about $2); running the same code on my laptop would have taken days, rather than just under an hour.</p></li><li><p>Found <a href="https://github.com/soumith/ganhacks">this list of tips</a> that might further improve the results.</p></li></ul>]]></content>
+    <content type="html"><![CDATA[<p>One in five pictures I take while hiking are pictures of the trails themselves. Previously, I experimented with <a href="https://github.com/ejain/n-of-1-ml/blob/master/transfer_learning.ipynb">using machine learning to automatically tag those pictures</a>. After reading about how machine learning can be used not just for image classification, but also for <a href="https://arxiv.org/abs/1511.06434">generating images</a>, I was curious to see what would happen if I tried this approach on my pictures.</p><p>Here are a few randomly selected pictures of trails, out of the more than 5,000 pictures of trails I have taken over the past 10 years:</p><p><img src="/2018/10/25/fake-trails/real_samples.png" alt="actual trails"></p><p>After a bit of number crunching with a <em>Deep Convolutional Generative Adversarial Network</em> (where part of the network is trained to fake images, while the other part is simultaneously being trained to detect fake images), here are a few randomly generated trail pictures: </p><p><img src="/2018/10/25/fake-trails/fake_samples_epoch_275.png" alt="fake trails"></p><p>There is some blurriness and some distortions, but overall the results are pretty convincing! There are forest trails, trails through alpine meadows, rocky trails, and even a few snow-covered trails. But none of these trails exist in the real world.</p><h2 id="Notes"><a href="#Notes" class="headerlink" title="Notes"></a>Notes</h2><ul><li><p>I ended up using <a href="https://pytorch.org/">PyTorch</a>, which happened to have <a href="https://github.com/pytorch/examples/tree/master/dcgan">suitable sample code</a>. <a href="https://keras.io/">Keras</a> (my go-to framework) turned out to be a bit too high-level to handle this kind of problem efficiently, and <a href="https://www.tensorflow.org/">Tensorflow</a>, being more low-level, would have required more code.</p></li><li><p>Unfortunately, scaling up beyond 64x64 thumbnails to 128x128 or larger turns out to not be a simple matter of throwing more computing resources at the problem.</p></li><li><p>The network was trained for 275 epochs (iterations through the entire data set). This animation shows how the generated images improved over time: </p><iframe width="560" height="315" src="https://www.youtube.com/embed/EtQbLnecW0g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></li><li><p>The training was done on a fast machine with a GPU (obtained from <a href="https://aws.amazon.com/sagemaker/">Amazon SageMaker</a> for a total cost of about $2); running the same code on my laptop would have taken days, rather than just under an hour.</p></li><li><p>Found <a href="https://github.com/soumith/ganhacks">this list of tips</a> that might further improve the results.</p></li></ul>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;One in five pictures I take while hiking are pictures of the trails themselves. Previously, I experimented with &lt;a href=&quot;https://github.c
+    <summary type="html">&lt;p&gt;One in five pictures I take while hiking are pictures of the trails themselves. Previously, I experimented with &lt;a href=&quot;https://github.c</summary>
       
     
-    </summary>
     
     
-      <category term="Programming" scheme="https://eric.jain.name/tags/programming/"/>
+    
+    <category term="Programming" scheme="https://eric.jain.name/tags/programming/"/>
     
   </entry>
   
@@ -165,22 +181,20 @@
     <published>2018-09-24T07:00:00.000Z</published>
     <updated>2018-09-25T04:14:08.535Z</updated>
     
-    <content type="html"><![CDATA[<p>A fancy-looking desert that is quick and simple to prepare… Serves 4.</p><p><img src="panna-cotta.jpg" alt=""></p><ul><li>1 cup whole milk</li><li>1 cup heavy whipping cream</li><li>2 tbsp sugar </li><li>2 tsp agar agar powder</li><li>1 tsp vanilla</li></ul><p>Combine ingredients in a saucepan and bring to a simmer. Let cool for a few minutes before pouring into forms. Refrigerate.</p><p>For the raspberry coulis topping:</p><ul><li>1 cup frozen raspberries</li><li>¼ cup sugar</li></ul><p>Disolve the sugar in 1 tbsp of hot water. Combine with raspberries and blend briefly (long enough to crush the raspberries, but not long enough to pulverize the seeds). Strain through a narrow sieve. Layer on top of the panna cotta before serving.</p>]]></content>
+    <content type="html"><![CDATA[<p>A fancy-looking desert that is quick and simple to prepare… Serves 4.</p><p><img src="/2018/09/24/panna-cotta/panna-cotta.jpg"></p><ul><li>1 cup whole milk</li><li>1 cup heavy whipping cream</li><li>2 tbsp sugar </li><li>2 tsp agar agar powder</li><li>1 tsp vanilla</li></ul><p>Combine ingredients in a saucepan and bring to a simmer. Let cool for a few minutes before pouring into forms. Refrigerate.</p><p>For the raspberry coulis topping:</p><ul><li>1 cup frozen raspberries</li><li>¼ cup sugar</li></ul><p>Disolve the sugar in 1 tbsp of hot water. Combine with raspberries and blend briefly (long enough to crush the raspberries, but not long enough to pulverize the seeds). Strain through a narrow sieve. Layer on top of the panna cotta before serving.</p>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;A fancy-looking desert that is quick and simple to prepare… Serves 4.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;panna-cotta.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;1 cup whole 
+    <summary type="html">&lt;p&gt;A fancy-looking desert that is quick and simple to prepare… Serves 4.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2018/09/24/panna-cotta/panna-cotta.jpg&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;</summary>
       
     
-    </summary>
     
     
-      <category term="Recipe" scheme="https://eric.jain.name/tags/recipe/"/>
+    
+    <category term="Recipe" scheme="https://eric.jain.name/tags/recipe/"/>
     
   </entry>
   
@@ -191,23 +205,21 @@
     <published>2017-10-29T07:00:00.000Z</published>
     <updated>2017-10-29T21:33:20.981Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="comic.png" alt="compiling, testing, training"></p><p>(based on <a href="https://xkcd.com/303/">xkcd.com/303/</a>)</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2017/10/29/programmer-excuses/comic.png" alt="compiling, testing, training"></p><p>(based on <a href="https://xkcd.com/303/">xkcd.com&#x2F;303&#x2F;</a>)</p>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;comic.png&quot; alt=&quot;compiling, testing, training&quot;&gt;&lt;/p&gt;
-&lt;p&gt;(based on &lt;a href=&quot;https://xkcd.com/303/&quot;&gt;xkcd.com/303/&lt;/a&gt;)&lt;/p&gt;
-
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2017/10/29/programmer-excuses/comic.png&quot; alt=&quot;compiling, testing, training&quot;&gt;&lt;/p&gt;
+&lt;p&gt;(based on &lt;a href=&quot;https://xkcd.com/303/&quot;&gt;</summary>
       
     
-    </summary>
     
     
-      <category term="Humor" scheme="https://eric.jain.name/tags/humor/"/>
     
-      <category term="Programming" scheme="https://eric.jain.name/tags/programming/"/>
+    <category term="Humor" scheme="https://eric.jain.name/tags/humor/"/>
+    
+    <category term="Programming" scheme="https://eric.jain.name/tags/programming/"/>
     
   </entry>
   
@@ -220,14 +232,13 @@
     
     <content type="html"><![CDATA[<p><img src="https://lh3.googleusercontent.com/4XyTyp9VJA4WAJbNn493W1XV3SFMqzUVvEymWOWnaM9lxmtJOJ7-Jr6xDcKNMeUpyzV-xM7TRBUYsv0g8yfryLIzEOGzQAiB711meqDkH5ZXSpaxjn60W63SxG7R9_219YDNKlzTDA=w1022-h767-no" alt="Pika near Cascade Pass"></p><p>This summer we participated in a “citizen science” project that has us report any signs of <a href="https://en.wikipedia.org/wiki/American_pika">Pikas</a> we came across while hiking.</p><p>To get started, we attended a training session at <a href="https://www.pdza.org/">Point Defiance Zoo</a> earlier this year, to ensure we wouldn’t confuse pikas with squirrels or other small mammals, and to learn how to identify pikas from their calls or scat.</p><p>The observations were reported through <a href="https://play.google.com/store/apps/details?id=com.nrel.citsci">an Android app</a>. Each report includes not just the place and time of the observation, but also the number of animals, whether we saw or only heard them etc. The app was a bit tedious (and buggy), wish they had chosen <a href="https://play.google.com/store/apps/details?id=org.inaturalist.android">iNaturalist</a> instead.</p><p>The observation data is publicly available at <a href="http://www.citsci.org/cwis438/Browse/Project/Project_Info.php?ProjectID=339">CitSci.org</a>. So far we contributed 5 observations, hoping to get a few more before winter!</p><p>There’s also a fun <a href="https://www.facebook.com/groups/CascadesPikaWatch/">Facebook group</a> where people share pictures.</p>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/4XyTyp9VJA4WAJbNn493W1XV3SFMqzUVvEymWOWnaM9lxmtJOJ7-Jr6xDcKNMeUpyzV-xM7TRBUYsv0g8yfryLIzEOGzQ
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/4XyTyp9VJA4WAJbNn493W1XV3SFMqzUVvEymWOWnaM9lxmtJOJ7-Jr6xDcKNMeUpyzV-xM7TRBUYsv0g8yfryLIzEOGzQ</summary>
       
     
-    </summary>
+    
     
     
   </entry>
@@ -239,20 +250,19 @@
     <published>2017-03-17T07:00:00.000Z</published>
     <updated>2017-03-17T06:22:58.132Z</updated>
     
-    <content type="html"><![CDATA[<p>Here are the contents of the first aid kit I <a href="/2017/03/05/vehicle-equipment/">keep in the car</a>, and take along on hikes.</p><p><img src="contents.jpg" alt=""></p><ol><li><a href="http://kk.org/cooltools/fenix-l1dce-fla/">Flashlight</a></li><li>Oral Rehydration Salts</li><li><a href="https://grabberwarmers.com/warmer-products/">Hand Warmer</a></li><li><a href="http://www.adventuremedicalkits.com/quikclot-advanced-clotting-sponge-50g-2.html">QuikClot Sponge</a></li><li>Paracord</li><li>Signal Mirror</li><li><a href="https://www.katadyn.com/us/us/403-8014996-micropur-mp1-20-usa-only">Water Purification Tablets</a></li><li>Insect Bite Wipes</li><li>Antibiotic Ointment</li><li>Medications (Aspirin, Diamode, Ibuprofen, Diphenhydramine)</li><li>Sun Screen</li><li>Duct Tape</li><li>Gauze</li><li>Medical Tape</li><li>Nivea Cream</li><li>Fire Lighter</li><li>Towel</li><li>Gauze Pads</li><li>Blister Pads</li><li>Band-Aids</li></ol>]]></content>
+    <content type="html"><![CDATA[<p>Here are the contents of the first aid kit I <a href="/2017/03/05/vehicle-equipment/">keep in the car</a>, and take along on hikes.</p><p><img src="/2017/03/17/first-aid-kit/contents.jpg"></p><ol><li><a href="http://kk.org/cooltools/fenix-l1dce-fla/">Flashlight</a></li><li>Oral Rehydration Salts</li><li><a href="https://grabberwarmers.com/warmer-products/">Hand Warmer</a></li><li><a href="http://www.adventuremedicalkits.com/quikclot-advanced-clotting-sponge-50g-2.html">QuikClot Sponge</a></li><li>Paracord</li><li>Signal Mirror</li><li><a href="https://www.katadyn.com/us/us/403-8014996-micropur-mp1-20-usa-only">Water Purification Tablets</a></li><li>Insect Bite Wipes</li><li>Antibiotic Ointment</li><li>Medications (Aspirin, Diamode, Ibuprofen, Diphenhydramine)</li><li>Sun Screen</li><li>Duct Tape</li><li>Gauze</li><li>Medical Tape</li><li>Nivea Cream</li><li>Fire Lighter</li><li>Towel</li><li>Gauze Pads</li><li>Blister Pads</li><li>Band-Aids</li></ol>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;Here are the contents of the first aid kit I &lt;a href=&quot;/2017/03/05/vehicle-equipment/&quot;&gt;keep in the car&lt;/a&gt;, and take along on hikes.&lt;/p&gt;
-&lt;
+    <summary type="html">&lt;p&gt;Here are the contents of the first aid kit I &lt;a href=&quot;/2017/03/05/vehicle-equipment/&quot;&gt;keep in the car&lt;/a&gt;, and take along on hikes.&lt;/p&gt;
+&lt;</summary>
       
     
-    </summary>
     
     
-      <category term="Gear" scheme="https://eric.jain.name/tags/gear/"/>
+    
+    <category term="Gear" scheme="https://eric.jain.name/tags/gear/"/>
     
   </entry>
   
@@ -263,19 +273,18 @@
     <published>2017-03-05T08:00:00.000Z</published>
     <updated>2020-11-29T02:00:24.363Z</updated>
     
-    <content type="html"><![CDATA[<p>This is all the gear I keep in the car. Other than a couple of short trips around town during the week, most of the driving is to and from trailheads.</p><p><img src="images/gear.jpg" alt=""></p><ol><li><a href="https://autosock.us/">Tire Socks</a>. Never used, but they count as <a href="https://www.wsp.wa.gov/traveler/images/traction/alt_traction_device.pdf">approved traction devices</a> here when cars are required to carry chains.</li><li>Emergency Triangle</li><li><a href="https://snowclaw.com/">Snow Shovel</a></li><li><a href="/2017/03/17/first-aid-kit/">First Aid Kit</a>. This also goes along on hikes.</li><li><a href="https://www.techmatte.com/CBL-ATC5B">USB Cable, 5ft</a></li><li><a href="https://www.monoprice.com/product?c_id=116&amp;cp_id=10826&amp;cs_id=1082603&amp;p_id=13810&amp;seq=1&amp;format=2">USB Car Charger</a></li><li><a href="https://www.kenu.com/products/airframe">Phone Mount</a></li><li>Water, 1L</li><li>Recreation Passes (<a href="https://www.nps.gov/planyourvisit/passes.htm">Interagency Pass</a>, <a href="https://www.discoverpass.wa.gov/">Discover Pass</a>, <a href="https://parks.state.wa.us/303/Sno-Parks">Sno-Park Permit</a>)</li><li>Map</li><li>Disposable Sunglasses</li><li>Paper</li><li><a href="https://www.amazon.com/TEKTON-5941-Digital-Tire-Gauge/dp/B0037V0EW8">Tire Gauge</a></li><li><a href="https://5hourenergy.com/">Energy Drink</a></li><li>Hand Sanitizer</li><li>Microfiber Towel</li><li>Rain Poncho</li><li>Safety Vest</li><li>Blanket</li><li>Wire Saw</li><li><a href="https://www.amazon.com/SUAOKI-Portable-Mini-Compressor-Inflator/dp/B01H6GQJHS/">Air Compressor</a></li><li><a href="https://www.anker.com/ca/products/variant/compact-car-jump-starter-and-portable-charger/A1501071">Jump Starter</a></li><li><a href="https://www.fixaflat.com/products/fix-a-flat-12-oz-emergency-flat-tire-repair">Fix-a-Flat</a></li><li><a href="https://www.orionsignals.com/product-groups/handheld-flares/product/20.html">Road Flares</a> (not shown)</li><li><a href="https://www.amazon.com/ShadeSox-Universal-Window-Protects-Included/dp/B00YI3IGA6">ShadeSox</a> (not shown). Used as a bug net when sleeping in the car with the rear windows open.</li><li><a href="https://www.amazon.com/JCHL-Recovery-Towing-Safety-Polyester/dp/B07NWGD3QS">Tow Strap</a> (not shown)</li><li><a href="https://www.containerstore.com/s/grey-utility-trays/d?productId=10035847">Utility Trays</a></li></ol><div class="gallery">      <div class="row">    <div class="col-sm-4">    <div class="thumbnail">      <a href="images/tire.jpg"><img src="thumbnails/tire.jpg"/></a>        <div class="caption">          Items 1-3 go under here...        </div>    </div>  </div>      <div class="col-sm-4">    <div class="thumbnail">      <a href="images/trunk.jpg"><img src="thumbnails/trunk.jpg"/></a>        <div class="caption">          ...and 17-26 fit inside the trays.        </div>    </div>  </div>      </div>  </div>]]></content>
+    <content type="html"><![CDATA[<p>This is all the gear I keep in the car. Other than a couple of short trips around town during the week, most of the driving is to and from trailheads.</p><p><img src="/2017/03/05/vehicle-equipment/images/gear.jpg"></p><ol><li><a href="https://autosock.us/">Tire Socks</a>. Never used, but they count as <a href="https://www.wsp.wa.gov/traveler/images/traction/alt_traction_device.pdf">approved traction devices</a> here when cars are required to carry chains.</li><li>Emergency Triangle</li><li><a href="https://snowclaw.com/">Snow Shovel</a></li><li><a href="/2017/03/17/first-aid-kit/">First Aid Kit</a>. This also goes along on hikes.</li><li><a href="https://www.techmatte.com/CBL-ATC5B">USB Cable, 5ft</a></li><li><a href="https://www.monoprice.com/product?c_id=116&cp_id=10826&cs_id=1082603&p_id=13810&seq=1&format=2">USB Car Charger</a></li><li><a href="https://www.kenu.com/products/airframe">Phone Mount</a></li><li>Water, 1L</li><li>Recreation Passes (<a href="https://www.nps.gov/planyourvisit/passes.htm">Interagency Pass</a>, <a href="https://www.discoverpass.wa.gov/">Discover Pass</a>, <a href="https://parks.state.wa.us/303/Sno-Parks">Sno-Park Permit</a>)</li><li>Map</li><li>Disposable Sunglasses</li><li>Paper</li><li><a href="https://www.amazon.com/TEKTON-5941-Digital-Tire-Gauge/dp/B0037V0EW8">Tire Gauge</a></li><li><a href="https://5hourenergy.com/">Energy Drink</a></li><li>Hand Sanitizer</li><li>Microfiber Towel</li><li>Rain Poncho</li><li>Safety Vest</li><li>Blanket</li><li>Wire Saw</li><li><a href="https://www.amazon.com/SUAOKI-Portable-Mini-Compressor-Inflator/dp/B01H6GQJHS/">Air Compressor</a></li><li><a href="https://www.anker.com/ca/products/variant/compact-car-jump-starter-and-portable-charger/A1501071">Jump Starter</a></li><li><a href="https://www.fixaflat.com/products/fix-a-flat-12-oz-emergency-flat-tire-repair">Fix-a-Flat</a></li><li><a href="https://www.orionsignals.com/product-groups/handheld-flares/product/20.html">Road Flares</a> (not shown)</li><li><a href="https://www.amazon.com/ShadeSox-Universal-Window-Protects-Included/dp/B00YI3IGA6">ShadeSox</a> (not shown). Used as a bug net when sleeping in the car with the rear windows open.</li><li><a href="https://www.amazon.com/JCHL-Recovery-Towing-Safety-Polyester/dp/B07NWGD3QS">Tow Strap</a> (not shown)</li><li><a href="https://www.containerstore.com/s/grey-utility-trays/d?productId=10035847">Utility Trays</a></li></ol><div class="gallery">      <div class="row">    <div class="col-sm-4">    <div class="thumbnail">      <a href="images/tire.jpg"><img src="thumbnails/tire.jpg"/></a>        <div class="caption">          Items 1-3 go under here...        </div>    </div>  </div>      <div class="col-sm-4">    <div class="thumbnail">      <a href="images/trunk.jpg"><img src="thumbnails/trunk.jpg"/></a>        <div class="caption">          ...and 17-26 fit inside the trays.        </div>    </div>  </div>      </div>  </div>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;This is all the gear I keep in the car. Other than a couple of short trips around town during the week, most of the driving is to and fro
+    <summary type="html">&lt;p&gt;This is all the gear I keep in the car. Other than a couple of short trips around town during the week, most of the driving is to and fro</summary>
       
     
-    </summary>
     
     
-      <category term="Gear" scheme="https://eric.jain.name/tags/gear/"/>
+    
+    <category term="Gear" scheme="https://eric.jain.name/tags/gear/"/>
     
   </entry>
   
@@ -286,40 +295,16 @@
     <published>2017-02-24T08:00:00.000Z</published>
     <updated>2017-03-12T06:44:28.740Z</updated>
     
-    <content type="html"><![CDATA[<p>This blog started out on <a href="https://en.wikipedia.org/wiki/Yahoo!_GeoCities">GeoCities</a> sometime during the <a href="https://en.wikipedia.org/wiki/Dot-com_bubble">dot-com bubble</a>. Somewhere along the way I moved it to a proper hosting provider (first <a href="guest-hosting.ch">guest-hosting.ch</a>, then <a href="https://www.rackspace.com/en-us">Rackspace</a>), acquired a <a href="https://en.wikipedia.org/wiki/.name">.name</a> domain, and set up a custom <a href="https://wordpress.org/">WordPress</a> installation.</p><p>This setup was flexible, but meant I had to stay on top of security updates for WordPress (until automatic updates were introduced), remember to update the packages installed on the server (Ubuntu) once in a while, and deal with occasional comment spam. Also, page load times weren’t great (even with various caching plugins), since the site was being served from a low-end virtual server, which nevertheless cost me about $10 a month.</p><p>This made going back to serving simple, static files an attractive option. <a href="https://pages.github.com/">GitHub Pages</a> was an obvious choice for hosting the site, since I already had several projects on GitHub. I’d also need a <em>static site generator</em> to create the web pages from the <a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a> files I exported from WordPress:</p><ul><li><a href="https://jekyllrb.com/">Jekyll</a> would have been the default choice, since GitHub Pages has built-in support for Jekyll. But I wanted to be able to build the site on my own machine as well, and that turned out to be painful to set up, and very slow.</li><li><a href="https://gohugo.io/">Hugo</a> appeared to have most of the same features, and was much faster.</li><li><a href="https://hexo.io/">Hexo</a> seemed fast enough, and easier for me to customize than Hugo.</li></ul><p>I ended up creating a custom theme for Hexo based on <a href="https://github.com/klugjo/hexo-theme-clean-blog">this theme</a>.</p><p><img src="blog.png" alt="Screenshot"></p><p>Since switching to serving static pages, I no longer need to worry about security updates. Pages are served fast (<a href="https://uptimerobot.com/">UptimeRobot</a> reports response times of well under 100ms). I do miss having a bit more control (like being able to change the cache headers), but so far so good…</p><p>You can see the source code for this site <a href="https://github.com/ejain/blog/">here</a> (the source itself is in the <code>master</code> branch, and the generated pages in the <code>gh-pages</code> branch).</p>]]></content>
+    <content type="html"><![CDATA[<p>This blog started out on <a href="https://en.wikipedia.org/wiki/Yahoo!_GeoCities">GeoCities</a> sometime during the <a href="https://en.wikipedia.org/wiki/Dot-com_bubble">dot-com bubble</a>. Somewhere along the way I moved it to a proper hosting provider (first <a href="guest-hosting.ch">guest-hosting.ch</a>, then <a href="https://www.rackspace.com/en-us">Rackspace</a>), acquired a <a href="https://en.wikipedia.org/wiki/.name">.name</a> domain, and set up a custom <a href="https://wordpress.org/">WordPress</a> installation.</p><p>This setup was flexible, but meant I had to stay on top of security updates for WordPress (until automatic updates were introduced), remember to update the packages installed on the server (Ubuntu) once in a while, and deal with occasional comment spam. Also, page load times weren’t great (even with various caching plugins), since the site was being served from a low-end virtual server, which nevertheless cost me about $10 a month.</p><p>This made going back to serving simple, static files an attractive option. <a href="https://pages.github.com/">GitHub Pages</a> was an obvious choice for hosting the site, since I already had several projects on GitHub. I’d also need a <em>static site generator</em> to create the web pages from the <a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a> files I exported from WordPress:</p><ul><li><a href="https://jekyllrb.com/">Jekyll</a> would have been the default choice, since GitHub Pages has built-in support for Jekyll. But I wanted to be able to build the site on my own machine as well, and that turned out to be painful to set up, and very slow.</li><li><a href="https://gohugo.io/">Hugo</a> appeared to have most of the same features, and was much faster.</li><li><a href="https://hexo.io/">Hexo</a> seemed fast enough, and easier for me to customize than Hugo.</li></ul><p>I ended up creating a custom theme for Hexo based on <a href="https://github.com/klugjo/hexo-theme-clean-blog">this theme</a>.</p><p><img src="/2017/02/24/hexo/blog.png" alt="Screenshot"></p><p>Since switching to serving static pages, I no longer need to worry about security updates. Pages are served fast (<a href="https://uptimerobot.com/">UptimeRobot</a> reports response times of well under 100ms). I do miss having a bit more control (like being able to change the cache headers), but so far so good…</p><p>You can see the source code for this site <a href="https://github.com/ejain/blog/">here</a> (the source itself is in the <code>master</code> branch, and the generated pages in the <code>gh-pages</code> branch).</p>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;This blog started out on &lt;a href=&quot;https://en.wikipedia.org/wiki/Yahoo!_GeoCities&quot;&gt;GeoCities&lt;/a&gt; sometime during the &lt;a href=&quot;https://en.w
+    <summary type="html">&lt;p&gt;This blog started out on &lt;a href=&quot;https://en.wikipedia.org/wiki/Yahoo!_GeoCities&quot;&gt;GeoCities&lt;/a&gt; sometime during the &lt;a href=&quot;https://en.w</summary>
       
     
-    </summary>
     
     
-  </entry>
-  
-  <entry>
-    <title>Smoothies</title>
-    <link href="https://eric.jain.name/2017/01/06/smoothies/"/>
-    <id>https://eric.jain.name/2017/01/06/smoothies/</id>
-    <published>2017-01-06T08:00:00.000Z</published>
-    <updated>2019-03-23T17:27:30.594Z</updated>
-    
-    <content type="html"><![CDATA[<p>Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (for now):</p><p><img src="ingredients.jpg" alt=""></p><ol><li>1 cup yoghurt</li><li>1 tsp spirulina</li><li>1 tsp chia seeds</li><li>2 tsp golden flaxseed meal</li><li>1 cup frozen fruit (mango, pineapple, strawberry, cranberry, blueberry, banana)</li><li>1 leaf collard green and lacinato kale</li></ol><p>I <a href="https://www.nutribulletpro.com/">blend this</a> for just under a minute, sprinkle some granola on top, and this is the result:</p><p><img src="bowl.jpg" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (
-      
-    
-    </summary>
-    
-    
-      <category term="Recipe" scheme="https://eric.jain.name/tags/recipe/"/>
     
   </entry>
   
@@ -330,22 +315,43 @@
     <published>2017-01-06T08:00:00.000Z</published>
     <updated>2017-03-17T05:43:15.983Z</updated>
     
-    <content type="html"><![CDATA[<p>Here’s the recipe for my favorite post-exercise recovery drink:</p><p><img src="ingredients.jpg" alt=""></p><ol><li>1 cup milk (or random <a href="http://www.pacificfoods.com/food/non-dairy-beverages.aspx">non-dairy beverage</a>)</li><li>3 scoops <a href="https://www.raworganicwhey.com/">whey protein</a></li><li>1 tsp <a href="https://healthworks.com/products/healthworks-raw-certified-organic-cacao-powder-1-lb">cacao powder</a></li><li>1 tsp <a href="http://cbsnuts.com/wp/product/16oz-jar-cbs-peanut-butter-usa-grown/">peanut butter</a></li><li>1 <a href="http://www.geekwire.com/2017/amazon-gives-5000-bananas-day-seattle/">banana</a></li></ol><p><a href="https://www.nutribulletpro.com/">Blending</a> this for half a minute results in a smooth, tasty shake. Goes well with dates or figs.</p><p><img src="shake.jpg" alt=""></p>]]></content>
+    <content type="html"><![CDATA[<p>Here’s the recipe for my favorite post-exercise recovery drink:</p><p><img src="/2017/01/06/protein-shakes/ingredients.jpg"></p><ol><li>1 cup milk (or random <a href="http://www.pacificfoods.com/food/non-dairy-beverages.aspx">non-dairy beverage</a>)</li><li>3 scoops <a href="https://www.raworganicwhey.com/">whey protein</a></li><li>1 tsp <a href="https://healthworks.com/products/healthworks-raw-certified-organic-cacao-powder-1-lb">cacao powder</a></li><li>1 tsp <a href="http://cbsnuts.com/wp/product/16oz-jar-cbs-peanut-butter-usa-grown/">peanut butter</a></li><li>1 <a href="http://www.geekwire.com/2017/amazon-gives-5000-bananas-day-seattle/">banana</a></li></ol><p><a href="https://www.nutribulletpro.com/">Blending</a> this for half a minute results in a smooth, tasty shake. Goes well with dates or figs.</p><p><img src="/2017/01/06/protein-shakes/shake.jpg"></p>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;Here’s the recipe for my favorite post-exercise recovery drink:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;ingredients.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;Here’s the recipe for my favorite post-exercise recovery drink:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2017/01/06/protein-shakes/ingredients.jpg&quot;&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;1 cup milk (or ran
+&lt;l</summary>
       
     
-    </summary>
     
     
-      <category term="Recipe" scheme="https://eric.jain.name/tags/recipe/"/>
+    
+    <category term="Recipe" scheme="https://eric.jain.name/tags/recipe/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Smoothies</title>
+    <link href="https://eric.jain.name/2017/01/06/smoothies/"/>
+    <id>https://eric.jain.name/2017/01/06/smoothies/</id>
+    <published>2017-01-06T08:00:00.000Z</published>
+    <updated>2019-03-23T17:27:30.594Z</updated>
+    
+    <content type="html"><![CDATA[<p>Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (for now):</p><p><img src="/2017/01/06/smoothies/ingredients.jpg"></p><ol><li>1 cup yoghurt</li><li>1 tsp spirulina</li><li>1 tsp chia seeds</li><li>2 tsp golden flaxseed meal</li><li>1 cup frozen fruit (mango, pineapple, strawberry, cranberry, blueberry, banana)</li><li>1 leaf collard green and lacinato kale</li></ol><p>I <a href="https://www.nutribulletpro.com/">blend this</a> for just under a minute, sprinkle some granola on top, and this is the result:</p><p><img src="/2017/01/06/smoothies/bowl.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Upgraded my breakfast from cereal with yoghurt to “smoothie bowls” last year. After a lot of experimenting, here’s what I’ve settled on (</summary>
+      
+    
+    
+    
+    
+    <category term="Recipe" scheme="https://eric.jain.name/tags/recipe/"/>
     
   </entry>
   
@@ -356,19 +362,18 @@
     <published>2016-09-17T07:00:00.000Z</published>
     <updated>2017-03-06T02:40:36.238Z</updated>
     
-    <content type="html"><![CDATA[<p>With my 2008 Honda Civic approaching 100K miles, I decided it was time to replace it. The Civic had been very reliable, and put up with a lot of abuse from driving on bumpy dirt roads without any problems–apart from one broken motor mount. But I didn’t want to push my luck. Also, the upcoming winter is forecast to have proper snow again…</p><p>Requirements:</p><ul><li>Good ground clearance and suspension, so I don’t have to crawl around every pothole, and be afraid of scraping the bottom of the car.</li><li>Similar width and length as the old car, so I can park the car around town without causing too much damage.</li><li>Adaptive cruise control, so I can use cruise control even when the road isn’t empty (and feel like the new car is more sophisticated than the old car).</li><li>Silver color, so dirt and scratches aren’t quite as visble.</li><li>Decent gas mileage (at least 30mpg).</li><li>Cost &lt;$30K.</li></ul><p>Cars I considered:</p><ul><li>Honda HRV</li><li>Mazda CX-5</li><li>Subaru Crosstrek</li></ul><p>The HRV would have been an obvious choice, given my good experience with the Civic and the <a href="http://www.hondaofseattle.com/">Honda of Seattle</a> service department. Unfortunately, the HRV doesn’t have an option for adaptive cruise control (need to get the larger CRV for that), and the ground clearance isn’t great. The CX-5 and the Crosstrek have similar ground clearance, features, safety ratings etc. The CX-5 has an option for a more powerful engine, but feels more like an SUV than a compact car, so I decided to check out the Crosstrek first.</p><p>I test-drove a Crosstrek two weeks ago at <a href="http://www.chaplinssubaru.com/">Chaplin Subaru</a>, and loved it, but no one had the configuration I was looking for. <a href="http://www.royrobinson.com/">Roy Robinson Subaru</a> was one of 3 dealers in the region to receive a matching Crosstrek today (and one of the easiest to deal with), so that’s who got my business!</p><p><img src="crosstrek.jpg" alt="Crosstrek 2.0i Premium"></p><p>Things I learned:</p><ul><li>Some dealers are still having a hard time with the internet. Had to restate my original request up to three times before getting an answer from some of them.</li><li>If you are buying a popular model, finding a dealer who has a vehicle available can be tricky.</li><li>Even so, every dealer (with the exception of Carter Subaru in Seattle) was willing the match prices, and sell at $1K “below invoice”, which happened to correspond to the price I got from <a href="https://www.truecar.com/">TrueCar</a>.</li><li>Local sales taxes differ slightly from dealer to dealer; this can add up to a few hundred $.</li><li>Dealers load up cars with optional features you might not need; doing a factory order could have saved me almost $1K.</li><li>…however, negotiating a <a href="https://www.kbb.com/used-cars/">good trade-in value</a> for the old car would have been difficult with a factory order (which takes at least 6 weeks to deliver).</li><li>Doing a trade-in has significant tax advantages.</li></ul>]]></content>
+    <content type="html"><![CDATA[<p>With my 2008 Honda Civic approaching 100K miles, I decided it was time to replace it. The Civic had been very reliable, and put up with a lot of abuse from driving on bumpy dirt roads without any problems–apart from one broken motor mount. But I didn’t want to push my luck. Also, the upcoming winter is forecast to have proper snow again…</p><p>Requirements:</p><ul><li>Good ground clearance and suspension, so I don’t have to crawl around every pothole, and be afraid of scraping the bottom of the car.</li><li>Similar width and length as the old car, so I can park the car around town without causing too much damage.</li><li>Adaptive cruise control, so I can use cruise control even when the road isn’t empty (and feel like the new car is more sophisticated than the old car).</li><li>Silver color, so dirt and scratches aren’t quite as visble.</li><li>Decent gas mileage (at least 30mpg).</li><li>Cost &lt;$30K.</li></ul><p>Cars I considered:</p><ul><li>Honda HRV</li><li>Mazda CX-5</li><li>Subaru Crosstrek</li></ul><p>The HRV would have been an obvious choice, given my good experience with the Civic and the <a href="http://www.hondaofseattle.com/">Honda of Seattle</a> service department. Unfortunately, the HRV doesn’t have an option for adaptive cruise control (need to get the larger CRV for that), and the ground clearance isn’t great. The CX-5 and the Crosstrek have similar ground clearance, features, safety ratings etc. The CX-5 has an option for a more powerful engine, but feels more like an SUV than a compact car, so I decided to check out the Crosstrek first.</p><p>I test-drove a Crosstrek two weeks ago at <a href="http://www.chaplinssubaru.com/">Chaplin Subaru</a>, and loved it, but no one had the configuration I was looking for. <a href="http://www.royrobinson.com/">Roy Robinson Subaru</a> was one of 3 dealers in the region to receive a matching Crosstrek today (and one of the easiest to deal with), so that’s who got my business!</p><p><img src="/2016/09/17/subaru-crosstrek/crosstrek.jpg" alt="Crosstrek 2.0i Premium"></p><p>Things I learned:</p><ul><li>Some dealers are still having a hard time with the internet. Had to restate my original request up to three times before getting an answer from some of them.</li><li>If you are buying a popular model, finding a dealer who has a vehicle available can be tricky.</li><li>Even so, every dealer (with the exception of Carter Subaru in Seattle) was willing the match prices, and sell at $1K “below invoice”, which happened to correspond to the price I got from <a href="https://www.truecar.com/">TrueCar</a>.</li><li>Local sales taxes differ slightly from dealer to dealer; this can add up to a few hundred $.</li><li>Dealers load up cars with optional features you might not need; doing a factory order could have saved me almost $1K.</li><li>…however, negotiating a <a href="https://www.kbb.com/used-cars/">good trade-in value</a> for the old car would have been difficult with a factory order (which takes at least 6 weeks to deliver).</li><li>Doing a trade-in has significant tax advantages.</li></ul>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;With my 2008 Honda Civic approaching 100K miles, I decided it was time to replace it. The Civic had been very reliable, and put up with a
+    <summary type="html">&lt;p&gt;With my 2008 Honda Civic approaching 100K miles, I decided it was time to replace it. The Civic had been very reliable, and put up with a</summary>
       
     
-    </summary>
     
     
-      <category term="Gear" scheme="https://eric.jain.name/tags/gear/"/>
+    
+    <category term="Gear" scheme="https://eric.jain.name/tags/gear/"/>
     
   </entry>
   
@@ -379,19 +384,18 @@
     <published>2016-01-01T08:00:00.000Z</published>
     <updated>2017-02-27T01:30:40.937Z</updated>
     
-    <content type="html"><![CDATA[<p>Collected tracks for every flight I took last year from <a href="https://flightaware.com/">FlightAware</a>, and used <a href="https://gist.github.com/ejain/ea143f446bb568ec20d6">this script</a> to merge the tracks into a single file that could be imported into <a href="https://www.google.com/fusiontables/">Google Fusion Tables</a>. This is the result:</p><p><a href="https://www.google.com/fusiontables/embedviz?q=select+col2+from+1TTaW_pw0b4ZgeHeO4H7xkqY6MNLRqD8Z2cZUeXdO&amp;viz=MAP&amp;h=false&amp;lat=32.63587469625332&amp;lng=-93.51910237499999&amp;t=1&amp;z=4&amp;l=col2&amp;y=2&amp;tmplt=2&amp;hml=KML"><img src="https://c2.staticflickr.com/2/1607/23343129434_34a5ac61cc_z.jpg" alt="Flight Map"></a></p>]]></content>
+    <content type="html"><![CDATA[<p>Collected tracks for every flight I took last year from <a href="https://flightaware.com/">FlightAware</a>, and used <a href="https://gist.github.com/ejain/ea143f446bb568ec20d6">this script</a> to merge the tracks into a single file that could be imported into <a href="https://www.google.com/fusiontables/">Google Fusion Tables</a>. This is the result:</p><p><a href="https://www.google.com/fusiontables/embedviz?q=select+col2+from+1TTaW_pw0b4ZgeHeO4H7xkqY6MNLRqD8Z2cZUeXdO&viz=MAP&h=false&lat=32.63587469625332&lng=-93.51910237499999&t=1&z=4&l=col2&y=2&tmplt=2&hml=KML"><img src="https://c2.staticflickr.com/2/1607/23343129434_34a5ac61cc_z.jpg" alt="Flight Map"></a></p>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;Collected tracks for every flight I took last year from &lt;a href=&quot;https://flightaware.com/&quot;&gt;FlightAware&lt;/a&gt;, and used &lt;a href=&quot;https://gis
+    <summary type="html">&lt;p&gt;Collected tracks for every flight I took last year from &lt;a href=&quot;https://flightaware.com/&quot;&gt;FlightAware&lt;/a&gt;, and used &lt;a href=&quot;https://gis</summary>
       
     
-    </summary>
     
     
-      <category term="Quantified Self" scheme="https://eric.jain.name/tags/quantified-self/"/>
+    
+    <category term="Quantified Self" scheme="https://eric.jain.name/tags/quantified-self/"/>
     
   </entry>
   
@@ -402,19 +406,18 @@
     <published>2015-01-01T08:00:00.000Z</published>
     <updated>2017-02-25T06:21:35.186Z</updated>
     
-    <content type="html"><![CDATA[<p>Looking back at all the outdoor trips we did last year, <a href="https://zenobase.com/#/buckets/u07qih0a27/?q=timestamp:2014">the stats</a> look almost identical to the previous year’s. Couple more overnight trips (10), thanks to the great weather. All in all, we hiked and paddled about 470 mi with 110,000 ft elevation gain on 59 trips.</p><p><a href="https://www.google.com/fusiontables/embedviz?q=select+col5+from+1qqRIewHtmcROWgAtyAWkFd50jF7IyIG_pdAcj-SX&amp;viz=MAP&amp;h=false&amp;lat=47.273650754137826&amp;lng=-122.05635518652345&amp;t=4&amp;z=8&amp;l=col5&amp;y=2&amp;tmplt=2&amp;hml=KML"><img src="http://farm8.static.flickr.com/7521/15996138219_aa9bcdef84_o.png" alt="Tracklogs"></a></p><p>See <a href="/2010/12/12/one-years-tracklogs/">this previous post</a> for an explanation how this map was created.</p>]]></content>
+    <content type="html"><![CDATA[<p>Looking back at all the outdoor trips we did last year, <a href="https://zenobase.com/#/buckets/u07qih0a27/?q=timestamp:2014">the stats</a> look almost identical to the previous year’s. Couple more overnight trips (10), thanks to the great weather. All in all, we hiked and paddled about 470 mi with 110,000 ft elevation gain on 59 trips.</p><p><a href="https://www.google.com/fusiontables/embedviz?q=select+col5+from+1qqRIewHtmcROWgAtyAWkFd50jF7IyIG_pdAcj-SX&viz=MAP&h=false&lat=47.273650754137826&lng=-122.05635518652345&t=4&z=8&l=col5&y=2&tmplt=2&hml=KML"><img src="http://farm8.static.flickr.com/7521/15996138219_aa9bcdef84_o.png" alt="Tracklogs"></a></p><p>See <a href="/2010/12/12/one-years-tracklogs/">this previous post</a> for an explanation how this map was created.</p>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;Looking back at all the outdoor trips we did last year, &lt;a href=&quot;https://zenobase.com/#/buckets/u07qih0a27/?q=timestamp:2014&quot;&gt;the stats&lt;/
+    <summary type="html">&lt;p&gt;Looking back at all the outdoor trips we did last year, &lt;a href=&quot;https://zenobase.com/#/buckets/u07qih0a27/?q=timestamp:2014&quot;&gt;the stats&lt;/</summary>
       
     
-    </summary>
     
     
-      <category term="Quantified Self" scheme="https://eric.jain.name/tags/quantified-self/"/>
+    
+    <category term="Quantified Self" scheme="https://eric.jain.name/tags/quantified-self/"/>
     
   </entry>
   
@@ -425,19 +428,18 @@
     <published>2014-05-24T07:00:00.000Z</published>
     <updated>2017-02-25T06:20:19.808Z</updated>
     
-    <content type="html"><![CDATA[<p>Tableau has a <a href="http://www.tableausoftware.com/public/contest/QS">contest</a> going on for visualizing Quantified Self data. I happen to have a fair amount of such of data from all kinds of sources on <a href="https://zenobase.com/">zenobase.com</a>, so I decided to give it a shot.</p><p>I was curious about Tableau’s geo features, and how well Tableau would handle slightly larger data sets. So I chose some outdoor/fitness activity data (which includes coordinates), and some hour-resolution energy expenditure data (~10K records).</p><p>Getting the data into Tableau was straightforward, as Zenobase exports data in <acronym>CSV</acronym> format. Tableau didn’t detect any data types (timestamps, coordinates, or even numbers), but that was easy to fix after the import had completed. Working with the larger data set was not a problem, either, even if the experience wasn’t exactly snappy.</p><p>You can find the result embedded below. The “dashboard” is interactive, so you can select one or more days of the week (and/or hours of the day), and the map will update to show activities that started at the corresponding time. Or you can select an activity type, or a region on the map.* Note the different patterns on week days and week ends.</p><p><p><script type='text/javascript' src='http://public.tableausoftware.com/javascripts/api/viz_v1.js'></script></p></p><div class='tableauPlaceholder' style='width: 654px; height: 879px;'><noscript><a href='#'><img alt='Dashboard ' src='http:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;Ac&#47;ActivitiesCaloriesBurned&#47;Dashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='654' height='879' style='display:none;'><param name='host_url' value='http%3A%2F%2Fpublic.tableausoftware.com%2F' /><param name='site_root' value='' /><param name='name' value='ActivitiesCaloriesBurned&#47;Dashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='http:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;Ac&#47;ActivitiesCaloriesBurned&#47;Dashboard&#47;1.png' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='amp;:showVizHome=no' /></object></div><br><div style='width:654px;height:22px;padding:0px 10px 0px 0px;color:black;font:normal 8pt verdana,helvetica,arial,sans-serif;'></div><p>* If the submission deadline wasn’t this Sunday evening, and I wasn’t on my way out to “collect more data”, perhaps I could try to show the energy expenditure on the map, and let selections on the map update the energy expenditure data below as well…</p>]]></content>
+    <content type="html"><![CDATA[<p>Tableau has a <a href="http://www.tableausoftware.com/public/contest/QS">contest</a> going on for visualizing Quantified Self data. I happen to have a fair amount of such of data from all kinds of sources on <a href="https://zenobase.com/">zenobase.com</a>, so I decided to give it a shot.</p><p>I was curious about Tableau’s geo features, and how well Tableau would handle slightly larger data sets. So I chose some outdoor&#x2F;fitness activity data (which includes coordinates), and some hour-resolution energy expenditure data (~10K records).</p><p>Getting the data into Tableau was straightforward, as Zenobase exports data in <acronym>CSV</acronym> format. Tableau didn’t detect any data types (timestamps, coordinates, or even numbers), but that was easy to fix after the import had completed. Working with the larger data set was not a problem, either, even if the experience wasn’t exactly snappy.</p><p>You can find the result embedded below. The “dashboard” is interactive, so you can select one or more days of the week (and&#x2F;or hours of the day), and the map will update to show activities that started at the corresponding time. Or you can select an activity type, or a region on the map.* Note the different patterns on week days and week ends.</p><p><script type='text/javascript' src='http://public.tableausoftware.com/javascripts/api/viz_v1.js'></script></p><div class='tableauPlaceholder' style='width: 654px; height: 879px;'><noscript><a href='#'><img alt='Dashboard ' src='http:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;Ac&#47;ActivitiesCaloriesBurned&#47;Dashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='654' height='879' style='display:none;'><param name='host_url' value='http%3A%2F%2Fpublic.tableausoftware.com%2F' /><param name='site_root' value='' /><param name='name' value='ActivitiesCaloriesBurned&#47;Dashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='http:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;Ac&#47;ActivitiesCaloriesBurned&#47;Dashboard&#47;1.png' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='amp;:showVizHome=no' /></object></div><div style='width:654px;height:22px;padding:0px 10px 0px 0px;color:black;font:normal 8pt verdana,helvetica,arial,sans-serif;'></div><p>* If the submission deadline wasn’t this Sunday evening, and I wasn’t on my way out to “collect more data”, perhaps I could try to show the energy expenditure on the map, and let selections on the map update the energy expenditure data below as well…</p>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;Tableau has a &lt;a href=&quot;http://www.tableausoftware.com/public/contest/QS&quot;&gt;contest&lt;/a&gt; going on for visualizing Quantified Self data. I hap
+    <summary type="html">&lt;p&gt;Tableau has a &lt;a href=&quot;http://www.tableausoftware.com/public/contest/QS&quot;&gt;contest&lt;/a&gt; going on for visualizing Quantified Self data. I hap</summary>
       
     
-    </summary>
     
     
-      <category term="Quantified Self" scheme="https://eric.jain.name/tags/quantified-self/"/>
+    
+    <category term="Quantified Self" scheme="https://eric.jain.name/tags/quantified-self/"/>
     
   </entry>
   
@@ -448,49 +450,18 @@
     <published>2014-01-29T08:00:00.000Z</published>
     <updated>2017-02-28T08:18:03.015Z</updated>
     
-    <content type="html"><![CDATA[<p>Last weekend I attended my first <a href="http://euroseattle.startupweekend.org/">Startup Weekend</a>. The event was very well organized; I had a great time and got to know a lot of good people.</p><p>Didn’t get enough votes for the idea I pitched (a dating site that matches people using data from services like Fitbit), so I ended up joining another team to build <a href="http://www.myloop.co/">an app that generates running routes that pass near popular sights</a>.</p><p><img src="myloop_app.png" title="Generated route starting at Louisa's Cafe" width="180" height="300"/></p><p>Our team consisted of 6 “non-technicals” and 3 developers (including myself). There was little friction, and I was impressed how well tasks like market research were performed. Somewhat less impressive was the amount of time spent discussing logos and background colors. Also, does the “Minimum Viable Product” really need a built-in music player? :-)</p><p>Despite Startup Weekend’s slogan (“No Talk, All Action”), there isn’t much incentive to put a lot of development effort into anything but building smoke and mirrors: Even though we had what appeared to be the only (somewhat) usable product, we didn’t even make it into the top 4…</p><p>Every Startup Weekend is probably unique, but it would be more worthwhile for developers if there was some technical mentorship, and judges also took execution into consideration, not just business plans.</p>]]></content>
+    <content type="html"><![CDATA[<p>Last weekend I attended my first <a href="http://euroseattle.startupweekend.org/">Startup Weekend</a>. The event was very well organized; I had a great time and got to know a lot of good people.</p><p>Didn’t get enough votes for the idea I pitched (a dating site that matches people using data from services like Fitbit), so I ended up joining another team to build <a href="http://www.myloop.co/">an app that generates running routes that pass near popular sights</a>.</p><img src="myloop_app.png" title="Generated route starting at Louisa's Cafe" width="180" height="300"/><p>Our team consisted of 6 “non-technicals” and 3 developers (including myself). There was little friction, and I was impressed how well tasks like market research were performed. Somewhat less impressive was the amount of time spent discussing logos and background colors. Also, does the “Minimum Viable Product” really need a built-in music player? :-)</p><p>Despite Startup Weekend’s slogan (“No Talk, All Action”), there isn’t much incentive to put a lot of development effort into anything but building smoke and mirrors: Even though we had what appeared to be the only (somewhat) usable product, we didn’t even make it into the top 4…</p><p>Every Startup Weekend is probably unique, but it would be more worthwhile for developers if there was some technical mentorship, and judges also took execution into consideration, not just business plans.</p>]]></content>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;Last weekend I attended my first &lt;a href=&quot;http://euroseattle.startupweekend.org/&quot;&gt;Startup Weekend&lt;/a&gt;. The event was very well organized;
+    <summary type="html">&lt;p&gt;Last weekend I attended my first &lt;a href=&quot;http://euroseattle.startupweekend.org/&quot;&gt;Startup Weekend&lt;/a&gt;. The event was very well organized;</summary>
       
     
-    </summary>
     
     
-      <category term="Programming" scheme="https://eric.jain.name/tags/programming/"/>
     
-  </entry>
-  
-  <entry>
-    <title>API Prayer</title>
-    <link href="https://eric.jain.name/2013/10/11/api-prayer/"/>
-    <id>https://eric.jain.name/2013/10/11/api-prayer/</id>
-    <published>2013-10-11T07:00:00.000Z</published>
-    <updated>2017-02-28T08:18:03.002Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>Our Father in heaven,</p><p>hallowed be your OAuth tokens.</p><p>Your data come,</p><p>your quota will be increased,</p><p>in the sandbox, as well as in production.</p><p>Give us this day out daily stats,</p><p>and forgive us our outdated docs,</p><p>as we have also forgiven those whose timestamps lack time zone offsets.</p><p>And lead us not into premature standardization,</p><p>but deliver us from expired SSL certificates.</p></blockquote>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;blockquote&gt;
-&lt;p&gt;Our Father in heaven,&lt;/p&gt;
-&lt;p&gt;hallowed be your OAuth tokens.&lt;/p&gt;
-&lt;p&gt;Your data come,&lt;/p&gt;
-&lt;p&gt;your quota will be increased,&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-      <category term="Humor" scheme="https://eric.jain.name/tags/humor/"/>
-    
-      <category term="Programming" scheme="https://eric.jain.name/tags/programming/"/>
+    <category term="Programming" scheme="https://eric.jain.name/tags/programming/"/>
     
   </entry>
   
