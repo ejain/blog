@@ -1,7 +1,7 @@
 ---
 title: Manning Books in Safari Books
 tags:
-  - Programming
+  - Technology
 ---
 
 Over the last few days several books from [Manning Publications](http://www.manning.com/) appear to have been added to [Safari Books](http://my.safaribooksonline.com/).

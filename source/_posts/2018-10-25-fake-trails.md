@@ -1,7 +1,7 @@
 ---
 title: Fake Trails
 tags:
-  - Programming
+  - Technology
 ---
 
 One in five pictures I take while hiking are pictures of the trails themselves. Previously, I experimented with [using machine learning to automatically tag those pictures](https://github.com/ejain/n-of-1-ml/blob/master/transfer_learning.ipynb). After reading about how machine learning can be used not just for image classification, but also for [generating images](https://arxiv.org/abs/1511.06434), I was curious to see what would happen if I tried this approach on my pictures.

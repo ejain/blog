@@ -1,7 +1,7 @@
 ---
 title: Information Visualization
 tags:
-  - Review
+  - Reviews
   - Usability
 ---
 

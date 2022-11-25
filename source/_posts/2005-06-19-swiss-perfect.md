@@ -2,8 +2,8 @@
 title: Swiss-Perfect
 tags:
   - Humor
-  - Life Science
-  - Programming
+  - Life Sciences
+  - Technology
 ---
 
 For years people have been [misspelling Swiss-Prot](http://google.com/search?q=swissprot+-%22swiss-prot%22&btnG=Search)...

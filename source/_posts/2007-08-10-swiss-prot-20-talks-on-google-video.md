@@ -1,7 +1,7 @@
 ---
 title: Swiss-Prot 20 Talks on Google Video
 tags:
-  - Life Science
+  - Life Sciences
 ---
 
 One year after the [amazing and memorable conference that was held at the 20th anniversary of Swiss-Prot](http://www.swissprot20.org/) we've made all the talks available on Google Video. Here's a [starting point](http://www.swissprot20.org/program/monday). I heard it's going to be a rainy weekend ;-)

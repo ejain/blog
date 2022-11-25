@@ -2,7 +2,7 @@
 title: Amos Bairoch Action Figure
 tags:
   - Humor
-  - Life Science
+  - Life Sciences
 ---
 
 While looking for a birthday and farewell (I was just leaving the [Swiss-Prot group](http://www.expasy.org/people/swissprot.html)) present for [Amos Bairoch](http://en.wikipedia.org/wiki/Amos_Bairoch), I came across [a company that creates custom action figures](http://highlyflammabletoys.com/). Here's the result!

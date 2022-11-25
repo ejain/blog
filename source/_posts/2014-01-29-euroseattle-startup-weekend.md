@@ -1,7 +1,7 @@
 ---
 title: EuroSeattle Startup Weekend
 tags:
-  - Programming
+  - Technology
 ---
 
 Last weekend I attended my first [Startup Weekend](http://euroseattle.startupweekend.org/). The event was very well organized; I had a great time and got to know a lot of good people.

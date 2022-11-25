@@ -1,7 +1,7 @@
 ---
 title: 'dog - better than cat'
 tags:
-  - Programming
+  - Technology
 ---
 
 How do you concatenate two huge XML files efficiently without writing any code?

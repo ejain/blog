@@ -1,8 +1,8 @@
 ---
 title: EMBRACE Talk
 tags:
-  - Life Science
-  - Programming
+  - Life Sciences
+  - Technology
 ---
 
 Gave a brief talk about programmatic access to [beta.uniprot.org](http://beta.uniprot.org/) at the [EMBRACE workshop](http://www.ch.embnet.org/EMBRACE/) in Geneva today.

@@ -2,7 +2,7 @@
 title: ToonTalk
 tags:
   - Humor
-  - Programming
+  - Technology
 ---
 
 It looks like our initiative to port all of our code to a [more compact and efficient language](http://www.muppetlabs.com/~breadbox/bf/) didn't get very far. So what next?

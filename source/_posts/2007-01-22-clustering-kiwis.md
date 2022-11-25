@@ -1,7 +1,7 @@
 ---
 title: Clustering Kiwis
 tags:
-  - Usability
+  - Technology
 ---
 
 Being able to distinguish different meanings of a term may turn out to be the next big step forward for web search engines. There are quite a few people working on this now; here is a quick survey in which I check how well the different efforts handle the term "Kiwi".

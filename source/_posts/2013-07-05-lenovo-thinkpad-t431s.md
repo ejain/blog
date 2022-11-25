@@ -1,8 +1,8 @@
 ---
 title: Lenovo Thinkpad T431s
 tags:
-  - Review
-  - Programming
+  - Reviews
+  - Technology
 ---
 
 Got a Thinkpad T431s to replace my 3-year old T410s. Here are some random observations, after using the new laptop for a few weeks.

@@ -2,8 +2,8 @@
 title: 'Google "Subscribed Links" for Enzyme Database'
 date: 2006-05-17T18:17:15+00:00
 tags:
-  - Life Science
-  - Programming
+  - Life Sciences
+  - Technology
 ---
 
 Google [Subscribed Links](http://www.google.com/coop/subscribedlinks/) provide a mechanism for adding information at the top of a Google search results page. I set up an example that can be used to see information from the [Enzyme Nomenclature Database](http://expasy.org/enzyme/) when searching for something like [EC 1.2.3.4](http://google.com/search?q=EC+1.2.3.4).

@@ -1,7 +1,7 @@
 ---
 title: Managing Passwords
 tags:
-  - Programming
+  - Technology
 ---
 
 Everyone knows to use a password manager, and to enable Two Factor Authentication (2FA) wherever possible. However, it is less obvious how to set things up so that you can 1. recover from losing every single device, and 2. ensure that emergency contacts are able to access your accounts, if needed.

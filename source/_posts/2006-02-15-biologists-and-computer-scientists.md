@@ -1,7 +1,7 @@
 ---
 title: Biologists and Computer Scientists
 tags:
-  - Life Science
+  - Life Sciences
 ---
 
 Much has been said about (and blamed upon) communication problems between biologists and computer scientists. But after attending a [meeting](http://lbd.epfl.ch/e/conferences/sbiolbd2006/) with biologists and computer scientists this week, I am starting to suspect that the problem isn't just communication.

@@ -1,7 +1,7 @@
 ---
 title: 'UniProt & Creative Commons'
 tags:
-  - Life Science
+  - Life Sciences
 ---
 
 After having meetings and discussions that dragged on for more than an year, we are now finally [distributing our data](http://www.uniprot.org/terms) under a [Creative Commons license](http://creativecommons.org/licenses/by-nd/2.5/).

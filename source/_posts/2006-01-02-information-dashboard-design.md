@@ -1,7 +1,7 @@
 ---
 title: Information Dashboard Design
 tags:
-  - Review
+  - Reviews
   - Usability
 ---
 

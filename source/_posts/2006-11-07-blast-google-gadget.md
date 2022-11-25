@@ -1,8 +1,8 @@
 ---
 title: Blast Google Gadget
 tags:
-  - Life Science
-  - Programming
+  - Life Sciences
+  - Technology
 ---
 
 The [Google Gadgets API](http://www.google.com/apis/gadgets/) can be used to create small applications that people can add to their [personalized Google home page](http://www.google.com/ig). Here is a simple "gadget" for blasting protein sequences.

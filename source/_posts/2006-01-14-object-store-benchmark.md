@@ -1,7 +1,7 @@
 ---
 title: Object Store Benchmark
 tags:
-  - Programming
+  - Technology
 ---
 
 [Berkeley DB JE](http://sleepycat.com/products/bdbje.html) and [ehcache](http://ehcache.sourceforge.net/) are two simple libraries for persistent storage of serialized Java objects. How good are they at handling large data sets?

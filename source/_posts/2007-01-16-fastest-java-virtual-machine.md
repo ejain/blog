@@ -1,7 +1,7 @@
 ---
 title: Fastest Java Virtual Machine?
 tags:
-  - Programming
+  - Technology
 ---
 
 The best choice of virtual machine is of course dependent both on the application and on the hardware the application is running on; here are the conclusions of a performance comparison with the latest batch of Java virtual machines for a web application that makes heavy use of [BerkeleyDB](http://www.oracle.com/database/berkeley-db.html) and [Lucene](http://lucene.apache.org/java/) on an off-the-shelf Intel machine with 64-bit extensions.

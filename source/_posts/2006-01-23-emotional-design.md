@@ -1,7 +1,7 @@
 ---
 title: Emotional Design
 tags:
-  - Review
+  - Reviews
   - Usability
 ---
 

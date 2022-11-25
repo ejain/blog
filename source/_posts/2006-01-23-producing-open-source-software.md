@@ -1,8 +1,8 @@
 ---
 title: Producing Open Source Software
 tags:
-  - Programming
-  - Review
+  - Technology
+  - Reviews
 ---
 
 Here are some notes on the book [Producing Open Source Software](http://amazon.com/gp/product/0596007590). The book does an excellent job of explaining how open source projects work and how they deal with typical problems.

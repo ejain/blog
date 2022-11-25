@@ -1,7 +1,7 @@
 ---
 title: Choosing Information Resources
 tags:
-  - Life Science
+  - Life Sciences
   - Usability
 ---
 

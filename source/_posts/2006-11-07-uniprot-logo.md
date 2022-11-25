@@ -2,7 +2,7 @@
 title: UniProt Logo
 tags:
   - Humor
-  - Life Science
+  - Life Sciences
 ---
 
 The search is on for a new [UniProt](http://www.uniprot.org/) logo. Here are some ideas...

@@ -2,7 +2,7 @@
 title: Programmer Excuses
 tags:
   - Humor
-  - Programming
+  - Technology
 ---
 
 ![compiling, testing, training](comic.png)

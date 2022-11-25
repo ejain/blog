@@ -1,7 +1,7 @@
 ---
 title: Data and Reality
 tags:
-  - Review
+  - Reviews
   - Semantic Web
 ---
 

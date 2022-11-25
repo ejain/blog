@@ -1,7 +1,7 @@
 ---
 title: How to Encourage Contributions
 tags:
-  - Life Science
+  - Life Sciences
 ---
 
 We are currently exploring various strategies to encourage people to let us know when they find errors or omissions in UniProt, or even to contribute data as they publish their research, rather than waiting for a curator to pick up their results from a publication.

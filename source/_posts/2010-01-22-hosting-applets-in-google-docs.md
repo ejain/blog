@@ -1,7 +1,7 @@
 ---
 title: Hosting Applets in Google Docs
 tags:
-  - Programming
+  - Technology
 ---
 
 Google Docs recently added support for [uploading arbitrary files](http://docs.google.com/support/bin/answer.py?answer=50092) (up to 250MB large). Can this be used to host Java applets?
