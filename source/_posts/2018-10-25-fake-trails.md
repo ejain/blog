@@ -20,7 +20,7 @@ There is some blurriness and some distortions, but overall the results are prett
 Notes
 -----
 
-- I ended up using [PyTorch](https://pytorch.org/), which happened to have [suitable sample code](https://github.com/pytorch/examples/tree/master/dcgan). [Keras](https://keras.io/) (my go-to framework) turned out to be a bit too high-level to handle this kind of problem efficiently, and [Tensorflow](https://www.tensorflow.org/), being more low-level, would have required more code.
+- I ended up using [PyTorch](https://pytorch.org/), which happened to have [suitable sample code](https://github.com/pytorch/examples/tree/main/dcgan). [Keras](https://keras.io/) (my go-to framework) turned out to be a bit too high-level to handle this kind of problem efficiently, and [Tensorflow](https://www.tensorflow.org/), being more low-level, would have required more code.
 
 - Unfortunately, scaling up beyond 64x64 thumbnails to 128x128 or larger turns out to not be a simple matter of throwing more computing resources at the problem.
 

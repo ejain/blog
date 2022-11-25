@@ -52,4 +52,4 @@ I don't intend to continue taking daily blood pressure readings, but will contin
 
 I'll share more detailed results at a [Quantified Self Seattle Meetup](https://www.meetup.com/Quantified-Self-Seattle/events/259753371/).
 
-You can find the Jupyter Notebook used to process the data [here](https://github.com/ejain/blog/blob/master/source/_posts/2018-12-30-tracking-blood-pressure/blood-pressure.ipynb).
+You can find the Jupyter Notebook used to process the data [here](https://github.com/ejain/blog/blob/main/source/_posts/2018-12-30-tracking-blood-pressure/blood-pressure.ipynb).

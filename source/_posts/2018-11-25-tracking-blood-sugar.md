@@ -68,4 +68,4 @@ What next
 
 I intend to do another round of blood sugar tracking in a year or so--or earlier, if my daily routine changes significantly. I'll also be sharing more detailed results at the next [Quantified Self Seattle Meetup](https://www.meetup.com/Quantified-Self-Seattle/events/256929018/).
 
-You can find the Jupyter Notebook used to process the data [here](https://github.com/ejain/blog/blob/master/source/_posts/2018-11-25-tracking-blood-sugar/blood-sugar.ipynb).
+You can find the Jupyter Notebook used to process the data [here](https://github.com/ejain/blog/blob/main/source/_posts/2018-11-25-tracking-blood-sugar/blood-sugar.ipynb).
