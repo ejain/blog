@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>https://eric.jain.name/2018/10/25/fake-trails/</loc>
-    
-    <lastmod>2022-11-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://eric.jain.name/2018/11/22/chocolate-popcorn/</loc>
     
     <lastmod>2022-11-25</lastmod>
@@ -128,6 +119,15 @@
   </url>
   
   <url>
+    <loc>https://eric.jain.name/2018/10/25/fake-trails/</loc>
+    
+    <lastmod>2022-11-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://eric.jain.name/2013/07/05/lenovo-thinkpad-t431s/</loc>
     
     <lastmod>2022-11-25</lastmod>
@@ -209,42 +209,6 @@
   </url>
   
   <url>
-    <loc>https://eric.jain.name/2011/11/17/osgi-and-eclipse-rcp-talk/</loc>
-    
-    <lastmod>2022-11-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2012/03/24/california-roadtrip/</loc>
-    
-    <lastmod>2022-11-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2008/10/23/gtac-2008/</loc>
-    
-    <lastmod>2022-11-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2009/11/12/sharing-tracklogs/</loc>
-    
-    <lastmod>2022-11-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://eric.jain.name/2010/01/22/hosting-applets-in-google-docs/</loc>
     
     <lastmod>2022-11-25</lastmod>
@@ -272,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://eric.jain.name/2008/02/12/blist/</loc>
+    <loc>https://eric.jain.name/2011/11/17/osgi-and-eclipse-rcp-talk/</loc>
     
     <lastmod>2022-11-25</lastmod>
     
@@ -281,16 +245,7 @@
   </url>
   
   <url>
-    <loc>https://eric.jain.name/2008/02/14/java-excel/</loc>
-    
-    <lastmod>2022-11-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2008/04/20/no-fluff-just-stuff/</loc>
+    <loc>https://eric.jain.name/2012/03/24/california-roadtrip/</loc>
     
     <lastmod>2022-11-25</lastmod>
     
@@ -318,6 +273,51 @@
   
   <url>
     <loc>https://eric.jain.name/2008/08/05/seattle-land-water-air/</loc>
+    
+    <lastmod>2022-11-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2008/10/23/gtac-2008/</loc>
+    
+    <lastmod>2022-11-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2009/11/12/sharing-tracklogs/</loc>
+    
+    <lastmod>2022-11-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2008/02/12/blist/</loc>
+    
+    <lastmod>2022-11-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2008/02/14/java-excel/</loc>
+    
+    <lastmod>2022-11-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2008/04/20/no-fluff-just-stuff/</loc>
     
     <lastmod>2022-11-25</lastmod>
     
@@ -371,15 +371,6 @@
   </url>
   
   <url>
-    <loc>https://eric.jain.name/2007/06/07/compare-ontology-versions/</loc>
-    
-    <lastmod>2022-11-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://eric.jain.name/2007/06/10/marmots/</loc>
     
     <lastmod>2022-11-25</lastmod>
@@ -407,34 +398,7 @@
   </url>
   
   <url>
-    <loc>https://eric.jain.name/2007/06/01/embrace-talk/</loc>
-    
-    <lastmod>2022-11-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2007/06/06/source-code-visualization/</loc>
-    
-    <lastmod>2022-11-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2006/10/24/google-life-sciences-search-engine/</loc>
-    
-    <lastmod>2022-11-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2006/11/07/blast-google-gadget/</loc>
+    <loc>https://eric.jain.name/2007/06/07/compare-ontology-versions/</loc>
     
     <lastmod>2022-11-25</lastmod>
     
@@ -524,6 +488,24 @@
   </url>
   
   <url>
+    <loc>https://eric.jain.name/2007/06/01/embrace-talk/</loc>
+    
+    <lastmod>2022-11-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2007/06/06/source-code-visualization/</loc>
+    
+    <lastmod>2022-11-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://eric.jain.name/2006/05/18/dog-better-than-cat/</loc>
     
     <lastmod>2022-11-25</lastmod>
@@ -534,6 +516,24 @@
   
   <url>
     <loc>https://eric.jain.name/2006/09/01/brazil/</loc>
+    
+    <lastmod>2022-11-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2006/10/24/google-life-sciences-search-engine/</loc>
+    
+    <lastmod>2022-11-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2006/11/07/blast-google-gadget/</loc>
     
     <lastmod>2022-11-25</lastmod>
     
@@ -704,7 +704,7 @@
   </url>
   
   <url>
-    <loc>https://eric.jain.name/2005/06/19/swiss-perfect/</loc>
+    <loc>https://eric.jain.name/2005/07/01/namibia/</loc>
     
     <lastmod>2022-11-25</lastmod>
     
@@ -713,7 +713,7 @@
   </url>
   
   <url>
-    <loc>https://eric.jain.name/2005/07/01/namibia/</loc>
+    <loc>https://eric.jain.name/2005/06/19/swiss-perfect/</loc>
     
     <lastmod>2022-11-25</lastmod>
     
