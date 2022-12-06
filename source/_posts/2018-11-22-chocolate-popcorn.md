@@ -18,6 +18,6 @@ Pop the pocorn in the microwave.
 
 Melt the chocolate chips with the maple syrup, honey and vanilla, and pour over the popcorn on a baking sheet.
 
-Bake for 30 minutes at 300F, stirring every 10 minutes.
+Bake for 20 minutes at 300F, stir after 10 minutes.
 
 Let cool for another 30 minutes, again stirring every 10 minutes.
