@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>https://eric.jain.name/2018/11/22/chocolate-popcorn/</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://eric.jain.name/2018/11/25/tracking-blood-sugar/</loc>
     
     <lastmod>2023-04-21</lastmod>
@@ -57,24 +48,6 @@
   
   <url>
     <loc>https://eric.jain.name/2019/12/31/tracklogs/</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2017/02/24/hexo/</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2017/03/05/vehicle-equipment/</loc>
     
     <lastmod>2023-04-21</lastmod>
     
@@ -128,25 +101,7 @@
   </url>
   
   <url>
-    <loc>https://eric.jain.name/2013/07/05/lenovo-thinkpad-t431s/</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2013/10/11/api-prayer/</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2014/01/29/euroseattle-startup-weekend/</loc>
+    <loc>https://eric.jain.name/2018/11/22/chocolate-popcorn/</loc>
     
     <lastmod>2023-04-21</lastmod>
     
@@ -209,6 +164,69 @@
   </url>
   
   <url>
+    <loc>https://eric.jain.name/2017/02/24/hexo/</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2017/03/05/vehicle-equipment/</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2013/07/05/lenovo-thinkpad-t431s/</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2013/10/11/api-prayer/</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2014/01/29/euroseattle-startup-weekend/</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2008/10/23/gtac-2008/</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2009/11/12/sharing-tracklogs/</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://eric.jain.name/2010/01/22/hosting-applets-in-google-docs/</loc>
     
     <lastmod>2023-04-21</lastmod>
@@ -254,42 +272,6 @@
   </url>
   
   <url>
-    <loc>https://eric.jain.name/2008/07/18/edward-tufte-presenting-data-and-information-course/</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2008/08/05/seattle-land-water-air/</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2008/10/23/gtac-2008/</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2009/11/12/sharing-tracklogs/</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://eric.jain.name/2008/02/12/blist/</loc>
     
     <lastmod>2023-04-21</lastmod>
@@ -318,6 +300,24 @@
   
   <url>
     <loc>https://eric.jain.name/2008/06/19/manning-books-in-safari-books/</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2008/07/18/edward-tufte-presenting-data-and-information-course/</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2008/08/05/seattle-land-water-air/</loc>
     
     <lastmod>2023-04-21</lastmod>
     
@@ -371,6 +371,15 @@
   </url>
   
   <url>
+    <loc>https://eric.jain.name/2007/06/07/compare-ontology-versions/</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://eric.jain.name/2007/06/10/marmots/</loc>
     
     <lastmod>2023-04-21</lastmod>
@@ -390,78 +399,6 @@
   
   <url>
     <loc>https://eric.jain.name/2007/07/30/ismb-2007/</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2007/06/07/compare-ontology-versions/</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2006/11/08/yahoo-search-talk/</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2006/12/21/the-annotator/</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2007/01/16/fastest-java-virtual-machine/</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2007/01/22/clustering-kiwis/</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2007/03/07/metalink-for-uniprot-rdf/</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2007/03/12/n-triple-converter-comparison/</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2007/03/13/google-clear-button/</loc>
     
     <lastmod>2023-04-21</lastmod>
     
@@ -542,7 +479,61 @@
   </url>
   
   <url>
-    <loc>https://eric.jain.name/2006/05/18/enzyme-google-subscribed-links/</loc>
+    <loc>https://eric.jain.name/2006/11/08/yahoo-search-talk/</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2006/12/21/the-annotator/</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2007/01/16/fastest-java-virtual-machine/</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2007/01/22/clustering-kiwis/</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2007/03/07/metalink-for-uniprot-rdf/</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2007/03/12/n-triple-converter-comparison/</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2007/03/13/google-clear-button/</loc>
     
     <lastmod>2023-04-21</lastmod>
     
@@ -704,6 +695,15 @@
   </url>
   
   <url>
+    <loc>https://eric.jain.name/2006/05/18/enzyme-google-subscribed-links/</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://eric.jain.name/2005/06/19/swiss-perfect/</loc>
     
     <lastmod>2023-04-21</lastmod>
@@ -722,7 +722,7 @@
   </url>
   
   <url>
-    <loc>https://eric.jain.name/2005/03/01/brainz/</loc>
+    <loc>https://eric.jain.name/2005/04/01/accessible-format-for-uniprot/</loc>
     
     <lastmod>2023-04-21</lastmod>
     
@@ -731,7 +731,7 @@
   </url>
   
   <url>
-    <loc>https://eric.jain.name/2005/04/01/accessible-format-for-uniprot/</loc>
+    <loc>https://eric.jain.name/2005/03/01/brainz/</loc>
     
     <lastmod>2023-04-21</lastmod>
     
