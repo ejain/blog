@@ -2,42 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://eric.jain.name/2022/07/21/sous-vide-desserts/</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2022/11/24/passwords/</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2018/11/25/tracking-blood-sugar/</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eric.jain.name/2018/12/30/tracking-blood-pressure/</loc>
-    
-    <lastmod>2023-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://eric.jain.name/2019/07/17/sous-vide-cooking/</loc>
     
     <lastmod>2023-04-21</lastmod>
@@ -48,6 +12,24 @@
   
   <url>
     <loc>https://eric.jain.name/2019/12/31/tracklogs/</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2022/07/21/sous-vide-desserts/</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2022/11/24/passwords/</loc>
     
     <lastmod>2023-04-21</lastmod>
     
@@ -110,7 +92,16 @@
   </url>
   
   <url>
-    <loc>https://eric.jain.name/2014/05/24/tableau-quantified-self/</loc>
+    <loc>https://eric.jain.name/2018/11/25/tracking-blood-sugar/</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2018/12/30/tracking-blood-pressure/</loc>
     
     <lastmod>2023-04-21</lastmod>
     
@@ -201,6 +192,15 @@
   
   <url>
     <loc>https://eric.jain.name/2014/01/29/euroseattle-startup-weekend/</loc>
+    
+    <lastmod>2023-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric.jain.name/2014/05/24/tableau-quantified-self/</loc>
     
     <lastmod>2023-04-21</lastmod>
     
@@ -704,7 +704,7 @@
   </url>
   
   <url>
-    <loc>https://eric.jain.name/2005/06/19/swiss-perfect/</loc>
+    <loc>https://eric.jain.name/2005/07/01/namibia/</loc>
     
     <lastmod>2023-04-21</lastmod>
     
@@ -713,7 +713,7 @@
   </url>
   
   <url>
-    <loc>https://eric.jain.name/2005/07/01/namibia/</loc>
+    <loc>https://eric.jain.name/2005/03/01/brainz/</loc>
     
     <lastmod>2023-04-21</lastmod>
     
@@ -731,7 +731,7 @@
   </url>
   
   <url>
-    <loc>https://eric.jain.name/2005/03/01/brainz/</loc>
+    <loc>https://eric.jain.name/2005/06/19/swiss-perfect/</loc>
     
     <lastmod>2023-04-21</lastmod>
     
