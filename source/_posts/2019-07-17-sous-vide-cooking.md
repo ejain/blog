@@ -11,7 +11,7 @@ Settled on the following temperatures, to get (subjectively) perfect results eve
 - **New York Steak.** 1h+ @ 54°C.
 - **Filet Mignon.** 1h+ @ 58°C.
 - **Pork Tenderloin.** 1h+ @ 60°C.
-- **Chicken Breast.** 2h+ @ 62°C.
+- **Chicken Breast.** 2h+ @ 63°C.
 - **Duck Breast.** 1h+ @ 62°C, and sear for 5min on the skin-side.
 - **Salmon.** 30min @ 49°C (wild, low-fat), 52°C (farmed, high-fat). Must brine prior to cooking, and must remove once cooked. Gets very flaky, which makes searing difficult. Probably only worthwhile for thick pieces.
 - **Tuna.** 45min @ 46°C. Pat dry and sear 30s on each side. 
@@ -21,7 +21,5 @@ Some things don't seem to be worth the trouble:
 - **Carrots.** 1h+ @ 84°C. Not noticeably better than steamed.
 - **Sausages.** 45min @ 66°C. Not noticeably better than broiled.
 - **Eggs.** Can't get the whites to solidify before the yolk, at any temperature.
-
-More experimentation TBD...
 
 ![](anova-nano.jfif)
