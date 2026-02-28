@@ -9,16 +9,16 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: 14
+          node-version: 24
       - name: Install dependencies
         run: npm ci
       - name: Generate site
         run: npx hexo generate
       - name: Deploy site
-        uses: peaceiris/actions-gh-pages@de7ea6f8efb354206b205ef54722213d99067935 #v3.9.0
+        uses: peaceiris/actions-gh-pages@4f9cc6602d3f66b9c108549d475ec49e8ef4d45e #v4.0.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
