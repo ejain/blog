@@ -475,3 +475,19 @@ table tr td :last-child {
 .gallery .thumbnail img {
   padding-top: 13px;
 }
+
+/* --- Code blocks --- */
+
+pre:has(code.hljs) {
+  border: none;
+  background: none;
+  padding: 0;
+  overflow-x: auto;
+}
+
+.highlight table,
+.highlight table tr,
+.highlight table td {
+  border: none;
+  background: none;
+}

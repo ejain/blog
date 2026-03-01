@@ -35,7 +35,11 @@ render_drafts: false
 post_asset_folder: true
 relative_link: false
 future: true
-syntax_highlighter:
+syntax_highlighter: highlight.js
+highlight:
+  line_number: false
+  hljs: true
+  tab_replace: '  '
 
 # Category & Tag
 default_category: uncategorized

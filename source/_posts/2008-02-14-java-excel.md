@@ -8,7 +8,7 @@ I recently needed to add support for extracting data from Excel files (which are
 
 First I tried using [POI-HSSF](http://poi.apache.org/hssf/) (a well-known Apache project). The code is reasonably straightforward -- though I had to get it from tutorials on the Web as I couldn't find much in terms of documentation on their site, and the API isn't exactly self-evident:
 
-```
+```java
 POIFSFileSystem fs = new POIFSFileSystem(in);
 HSSFWorkbook wb = new HSSFWorkbook(fs);
 HSSFSheet sheet = wb.getSheetAt(0);
@@ -37,7 +37,7 @@ while (rows.hasNext()) {
 
 This works fine--except that there doesn't seem to be a way to keep the precision of numbers, i.e. if you don't want to convert "4" to "4.0"! Fortunately POI isn't the only game in town. I ended up using [JExcel API](http://jexcelapi.sourceforge.net/) which has a much simpler API (and behaves the way I want it to):
 
-```
+```java
 Workbook workbook = Workbook.getWorkbook(in);
 Sheet sheet = workbook.getSheet(0);
 for (int i = 0; i < sheet.getRows(); ++i) {

@@ -13,6 +13,8 @@ Google's custom search engines are based on lists of URLs (or URL patterns) of s
 
 The initial list of sites for the life sciences search engine was based on a [file](ftp://ftp.uniprot.org/pub/databases/uniprot/knowledgebase/docs/dbxref.txt) that lists all sites that are referenced from a [popular, well-linked life sciences database](http://uniprot.org/).
 
-    grep ^Server dbxref.txt | perl -lne 'print $1 if m{http://(.+?)/}' | sort | uniq
+```shell
+grep ^Server dbxref.txt | perl -lne 'print $1 if m{http://(.+?)/}' | sort | uniq
+```
 
 If you'd like to add any sites, let me know (you can also request to participate in this search engine via Google).

@@ -10,7 +10,9 @@ The [UniProt RDF](http://dev.isb-sib.ch/projects/uniprot-rdf/) distribution is o
 
 Using [aria2](http://aria2.sourceforge.net/) -- a command line download client that supports the [Metalink standard](http://www.metalinker.org/) -- you can do:
 
-    aria2c ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/rdf/RELEASE.metalink
+```shell
+aria2c ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/rdf/RELEASE.metalink
+```
 
 This will retrieve the data from all available mirrors in parallel, piece the files together, and verify the transferred data with checksums.
 
