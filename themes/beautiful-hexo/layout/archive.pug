@@ -22,5 +22,11 @@ block content
                         .archive-year= year
                         .archive-posts
                             each post in years[year]
-                                a.post-title(href=url_for(post.path))= post.title
+                                .archive-post
+                                    a.post-title(href=url_for(post.path))= post.title
+                                    if post.tags && post.tags.length
+                                        - post.tags.each(function(tag) {
+                                            = ' '
+                                            a.tag.archive-tag(href=url_for(tag.path))= '#' + tag.name
+                                        - })
                     - });

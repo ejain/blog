@@ -534,7 +534,6 @@ pre:has(code.hljs) {
 }
 
 .archive-posts .post-title {
-  display: block;
   padding: 2px 0;
   color: #008AFF;
   text-decoration: none;
@@ -542,4 +541,13 @@ pre:has(code.hljs) {
 
 .archive-posts .post-title:hover {
   color: #0085a1;
+}
+
+.archive-post {
+  padding: 2px 0;
+}
+
+.archive-tag {
+  font-size: 0.8em;
+  color: #868e96;
 }
