@@ -1,10 +1,9 @@
 ---
 title: Scandinavia
+subtitle: Some pictures and notes from traveling two weeks in Scandinavia in October 2001.
 tags:
   - Travel
 ---
-
-Some pictures and notes from traveling two weeks in Scandinavia in October 2001.
 
 ![](map.gif)
 

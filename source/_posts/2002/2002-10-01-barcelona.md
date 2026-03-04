@@ -1,10 +1,9 @@
 ---
 title: Barcelona
+subtitle: Some pictures from a short stay in Barcelona, September 2002.
 tags:
   - Travel
 ---
-
-Some pictures from a short stay in Barcelona, September 2002.
 
 {% gallery %}
 thumbnails/08600039.jpg | images/08600039.jpg | Park Güell
