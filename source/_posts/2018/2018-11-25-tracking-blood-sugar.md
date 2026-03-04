@@ -20,11 +20,11 @@ For four weeks I tried to follow a normal life, eating and doing the things I no
 
 I scanned the sensor with the reader before breakfast, lunch and dinner every day, as well as just before going to bed and right after getting up (as the sensor starts overwriting data after just 8 hours). Also in between sometimes, out of curiosity...
 
-The official [desktop](https://www.freestylelibre.us/support/overview.html) and [web](https://www.libreview.com/) apps generate nice reports for physicians, and can export your data as a spreadsheet, but transfering data from the reader with [Tidepool](https://tidepool.org/) was less flaky, plus their mobile app let me describe meals better (i.e. not just mark meal times), and they're very quick to resolve any issues you run into.
+The official [desktop](https://www.freestylelibre.us/support/overview.html) and [web](https://www.libreview.com/) apps generate nice reports for physicians, and can export your data as a spreadsheet, but transferring data from the reader with [Tidepool](https://tidepool.org/) was less flaky, plus their mobile app let me describe meals better (i.e. not just mark meal times), and they're very quick to resolve any issues you run into.
 
 ![Tidepool app](tidepool.png)
 
-Tidepool does a good job visualizing the data, but I wanted to have each day ligned up, with hourly step counts from my old Fitbit One to indicate activity levels and sleep times. So I [exported my data from Tidepool](https://support.tidepool.org/article/37-export-your-account-data) and created this chart with [Altair](https://altair-viz.github.io/) in a Jupyter Notebook:
+Tidepool does a good job visualizing the data, but I wanted to have each day lined up, with hourly step counts from my old Fitbit One to indicate activity levels and sleep times. So I [exported my data from Tidepool](https://support.tidepool.org/article/37-export-your-account-data) and created this chart with [Altair](https://altair-viz.github.io/) in a Jupyter Notebook:
 
 ![timeline chart](timeline.png)
 
@@ -42,13 +42,13 @@ What I learned
 
 The sensors **worked as advertised**, and didn't cause any pain or skin issues, or come off prematurely. The local swimming pool was closed for the duration of the experiment, so the only exposure to water were brief showers once a day or so. If I were spending more time in the water, or exposing my upper arms to the sun, I'd consider covering the sensor with something like SIMPATCH tape.
 
-The data appears to be **reasonably accurate**: The values shown when scanning the sensor were often way off, but the measurements that are logged with a lag every 15 minutes or so seem plausible, and match the few finger prick tests I did, at least when blood sugar levels were stable. Had planned to do a more finger prick tests, but getting enough blood turned out to be difficult (without wider lancets, which most pharmacies don't stock).
+The data appears to be **reasonably accurate**: The values shown when scanning the sensor were often way off, but the measurements that are logged with a lag every 15 minutes or so seem plausible, and match the few finger prick tests I did, at least when blood sugar levels were stable. Had planned to do more finger prick tests, but getting enough blood turned out to be difficult (without wider lancets, which most pharmacies don't stock).
 
 During moderate **exercise** like walking, blood sugar levels remained stable almost regardless of what I ate. During prolonged (>2h), intense exercise without food there were some ups and downs; this could be the liver dumping glucose back into the blood, or an artifact caused by changing hydration levels. Brief periods of intense exercise didn't affect blood sugar levels much, but greatly reduced the glycemic response for up to an hour after exercising. There was no correlation between the amount of exercise on a day and the average blood sugar levels during the following day. Standing rather than sitting didn't have an obvious effect on blood sugar levels.
 
 Didn't do any real **fasting**, but noticed that blood sugar remained stable when I hadn't eaten for a while, even after skipping a meal. What I had always assumed to be a feeling of low blood sugar was in fact just me being hungry.
 
-**Breakfast** was the least problematic meal of the day. I was surprised to see a stronger glycemic response from plain oatmeal than from a smoothie bowl with granola, or even french toast smothered in apple sauce or maple syrup. Neither drinking green tea with breakfast nor substituting full- with low-fat dairy or non-dairy made a noticable difference. Adding whey protein to the smoothie made my blood sugar levels stay elevated longer.
+**Breakfast** was the least problematic meal of the day. I was surprised to see a stronger glycemic response from plain oatmeal than from a smoothie bowl with granola, or even french toast smothered in apple sauce or maple syrup. Neither drinking green tea with breakfast nor substituting full- with low-fat dairy or non-dairy made a noticeable difference. Adding whey protein to the smoothie made my blood sugar levels stay elevated longer.
 
 **Lunch** was mostly unproblematic, perhaps because I usually eat out and am on foot. But if I overate, blood sugar levels could remain elevated almost until dinner. Overeating at **dinner** was even more problematic, especially when eating late, with blood sugar levels sometimes remaining elevated into the early morning. White rice and regular pasta may be problematic, while potatoes and bread of any kind were fine. Substituting regular pasta with chickpea pasta improved things, but only slightly.
 

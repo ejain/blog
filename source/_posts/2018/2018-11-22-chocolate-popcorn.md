@@ -14,7 +14,7 @@ A somewhat healthy, but addictive snack.
 - ¼ cup honey
 - 1 tsp vanilla
 
-Pop the pocorn in the microwave.
+Pop the popcorn in the microwave.
 
 Melt the chocolate chips with the maple syrup, honey and vanilla, and pour over the popcorn on a baking sheet.
 

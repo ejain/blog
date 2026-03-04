@@ -181,7 +181,7 @@ thumbnails/munch.jpg  | images/munch.jpg  | Edvard Munch's "The day after" at th
 thumbnails/viking.jpg | images/viking.jpg | One of the three ships at the viking ship museum. (Postcard)
 thumbnails/ra.jpg     | images/ra.jpg     | The Ra II at the Kon-Tiki Museum. 1970 Thor Heyerdahl crossed the Atlantic with this boat. (Postcard)
 thumbnails/4-18.jpg   | images/4-18.jpg   | The Fram polar expedition ship in its own museum. Used by explorers such as Nansen and Amundsen.
-thumbnails/4-17.jpg   | images/4-17.jpg   | Medical equipment abord the Fram.
+thumbnails/4-17.jpg   | images/4-17.jpg   | Medical equipment aboard the Fram.
 thumbnails/4-22.jpg   | images/4-22.jpg   | The 13th century Akershus fortress.
 thumbnails/4-24.jpg   | images/4-24.jpg   | A guard at the Akershus fortress.
 thumbnails/4-25.jpg   | images/4-25.jpg   | Oslo by night.
@@ -214,7 +214,7 @@ thumbnails/5-25.jpg | images/5-25.jpg | The Södermalm island.
 thumbnails/5-26.jpg | images/5-26.jpg | Sunset over Stockholm.
 thumbnails/5-31.jpg | images/5-31.jpg | The Stadsholmen island.
 thumbnails/5-32.jpg | images/5-32.jpg | The town hall.
-thumbnails/5-34.jpg | images/5-34.jpg | The place in the town hall where the banquet after the nobel price ceremony is held.
+thumbnails/5-34.jpg | images/5-34.jpg | The place in the town hall where the banquet after the Nobel Prize ceremony is held.
 thumbnails/5-35.jpg | images/5-35.jpg | The Vasa museum with its salvaged 17th century ship.
 thumbnails/5-36.jpg | images/5-36.jpg | One of the dozens of reconstructed houses at the Skansen open air museum in Djurgården.
 thumbnails/5-37.jpg | images/5-37.jpg | Another house...

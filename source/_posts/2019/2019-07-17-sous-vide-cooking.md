@@ -4,7 +4,7 @@ tags:
   - Recipe
 ---
 
-Started using an [Anova Nano](https://anovaculinary.com/nano/) sous-vide cooker earlier this year. The device is small enough to fit inside some of our pots, but we ended up getting a Rubbermaid 5qt container for convenience. Food goes inside Ziploc freezer bags. Meat can look ugly after cooking, and has to be seared briefly. Can cook frozen food without unthawing it first, just need to add an hour or so to the cooking time. Cooking could be controlled from an app, but setting the temperature on the device directly seems quicker and simpler.
+Started using an [Anova Nano](https://anovaculinary.com/nano/) sous-vide cooker earlier this year. The device is small enough to fit inside some of our pots, but we ended up getting a Rubbermaid 5qt container for convenience. Food goes inside Ziploc freezer bags. Meat can look ugly after cooking, and has to be seared briefly. Can cook frozen food without thawing it first, just need to add an hour or so to the cooking time. Cooking could be controlled from an app, but setting the temperature on the device directly seems quicker and simpler.
 
 Settled on the following temperatures, to get (subjectively) perfect results every time:
 

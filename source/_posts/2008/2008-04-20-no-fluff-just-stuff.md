@@ -53,7 +53,7 @@ Should declare unchecked exceptions.
 
 The `extconflict` tool (shipped with Sun's Java) detects duplicate classes in lib/ext.
 
-Heisenberg principal: Monitoring a system always influences it (e.g. garbage collection activity due to jconsole connection).
+Heisenberg principle: Monitoring a system always influences it (e.g. garbage collection activity due to jconsole connection).
 
 jconsole has a scripting plugin. Also consider using Groovy for scripting tasks.
 
@@ -63,4 +63,4 @@ Reflection can be used to read (and set) private fields, even in core classes su
 
 ### Comments
 
-Most of the talks were at a level of detail that if you happened to have read a book on the topic you weren't likely to learn a lot. Nevertheless you were bound to pick up some useful stuff as (most of) the speakers were clearly not only quite experienced but also great speakers. Ideally you'd have the number one expert on each topic give the talk, but I realize that isn't practical... Despite the "No Fluff" branding there was a lot of talk about how we all need to be "agile" etc. Nevertheless I think everyone managed to keep their feet on the ground, and in any case their were sufficient technical talks. Not to mention the food and free stuff :-)
+Most of the talks were at a level of detail that if you happened to have read a book on the topic you weren't likely to learn a lot. Nevertheless you were bound to pick up some useful stuff as (most of) the speakers were clearly not only quite experienced but also great speakers. Ideally you'd have the number one expert on each topic give the talk, but I realize that isn't practical... Despite the "No Fluff" branding there was a lot of talk about how we all need to be "agile" etc. Nevertheless I think everyone managed to keep their feet on the ground, and in any case there were sufficient technical talks. Not to mention the food and free stuff :-)

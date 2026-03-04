@@ -6,7 +6,7 @@ tags:
 
 We are currently exploring various strategies to encourage people to let us know when they find errors or omissions in UniProt, or even to contribute data as they publish their research, rather than waiting for a curator to pick up their results from a publication.
 
-In principal all of this has been possible for a long time: We have [feedback forms](http://expasy.org/cgi-bin/sp_update_forms.pl?ac=P00750) etc, but people don't make use of these often (or not as often as we would like...). The most frequent requests are from people who have published a paper and would like us to cite them.
+In principle all of this has been possible for a long time: We have [feedback forms](http://expasy.org/cgi-bin/sp_update_forms.pl?ac=P00750) etc, but people don't make use of these often (or not as often as we would like...). The most frequent requests are from people who have published a paper and would like us to cite them.
 
 The most effective improvement, in my opinion, may be to allow people to directly attach comments to each database entry, like in a blog (simple, instant gratification etc). These comments could then be reviewed by curators, and integrated into the database, if appropriate.
 

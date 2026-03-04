@@ -13,4 +13,4 @@ Variables are called [boxes](http://www.toontalk.com/English/box.htm), function 
 
 Instead of a stack there is [Dusty the Vacuum](http://www.toontalk.com/English/dusty.htm), instead of comparator functions you use [scales](http://www.toontalk.com/English/scale.htm), and object creation is done by [construction trucks](http://www.toontalk.com/English/truck.htm).
 
-Best of all: Instead of automatic garbage collection (which everone knows is decadent), you need to [blow up stuff](http://www.toontalk.com/English/bomb.htm) to free memory.
+Best of all: Instead of automatic garbage collection (which everyone knows is decadent), you need to [blow up stuff](http://www.toontalk.com/English/bomb.htm) to free memory.

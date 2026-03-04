@@ -32,15 +32,15 @@ Tables outperform graphics up until ~500 data points.
 
 Respect both the content and the audience. Why is it that an average PowerPoint table contains only 12 numbers, but tables in the sports section of a magazine can burden their audience with an average of ~200 numbers?
 
-Distribute data in space (using multiple monitors, if must be) rather than not time (e.g. across several slides).
+Distribute data in space (using multiple monitors, if must be) rather than in time (e.g. across several slides).
 
 People should have their names on their work (as pride often results in better work).
 
-Don't separate information depending to its mode of production (e.g. in separate "multimedia" slide shows).
+Don't separate information depending on its mode of production (e.g. in separate "multimedia" slide shows).
 
 Be aware that design often mimics the hierarchy in an organization.
 
-The original computer desktop at Xerox had icons for documents only (i.e. now trash icon etc).
+The original computer desktop at Xerox had icons for documents only (i.e. no trash icon etc).
 
 Create "infographics" that you can leave around (maybe people will give them another look during a following, boring presentation).
 

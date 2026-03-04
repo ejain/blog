@@ -10,7 +10,7 @@ Requirements:
 - Good ground clearance and suspension, so I don't have to crawl around every pothole, and be afraid of scraping the bottom of the car.
 - Similar width and length as the old car, so I can park the car around town without causing too much damage.
 - Adaptive cruise control, so I can use cruise control even when the road isn't empty (and feel like the new car is more sophisticated than the old car).
-- Silver color, so dirt and scratches aren't quite as visble.
+- Silver color, so dirt and scratches aren't quite as visible.
 - Decent gas mileage (at least 30mpg).
 - Cost <$30K.
 
@@ -28,7 +28,7 @@ I test-drove a Crosstrek two weeks ago at [Chaplin Subaru](http://www.chaplinssu
 Things I learned:
 - Some dealers are still having a hard time with the internet. Had to restate my original request up to three times before getting an answer from some of them.
 - If you are buying a popular model, finding a dealer who has a vehicle available can be tricky.
-- Even so, every dealer (with the exception of Carter Subaru in Seattle) was willing the match prices, and sell at $1K "below invoice", which happened to correspond to the price I got from [TrueCar](https://www.truecar.com/).
+- Even so, every dealer (with the exception of Carter Subaru in Seattle) was willing to match prices, and sell at $1K "below invoice", which happened to correspond to the price I got from [TrueCar](https://www.truecar.com/).
 - Local sales taxes differ slightly from dealer to dealer; this can add up to a few hundred $.
 - Dealers load up cars with optional features you might not need; doing a factory order could have saved me almost $1K.
 - ...however, negotiating a [good trade-in value](https://www.kbb.com/used-cars/) for the old car would have been difficult with a factory order (which takes at least 6 weeks to deliver).

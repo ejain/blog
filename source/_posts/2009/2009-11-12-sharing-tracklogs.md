@@ -4,7 +4,7 @@ tags:
   - Quantified Self
 ---
 
-While hiking, I often carry along a [small GPS device](http://www.garmin.com/products/etrexH/) to record my tracks. This is not just useful in case I get lost and need to backtrack, but also allows me to [geotag](http://www.robogeo.com/) my pictures before [uploading](https://plus.google.com/collection/ctuBZ) them. Plus it can be fun to review a hike in Google Earth. What about sharing tracklogs? This can be valuable when hiking in areas with outdated maps or maps hat don't have all trails. So I had a look at some of the existing websites for sharing GPS tracklogs--here's what I found.
+While hiking, I often carry along a [small GPS device](http://www.garmin.com/products/etrexH/) to record my tracks. This is not just useful in case I get lost and need to backtrack, but also allows me to [geotag](http://www.robogeo.com/) my pictures before [uploading](https://plus.google.com/collection/ctuBZ) them. Plus it can be fun to review a hike in Google Earth. What about sharing tracklogs? This can be valuable when hiking in areas with outdated maps or maps that don't have all trails. So I had a look at some of the existing websites for sharing GPS tracklogs--here's what I found.
 
 {% gallery %}
 https://lh5.ggpht.com/_GeX70u05z6k/Su5n9DeylLI/AAAAAAAAgB4/z4L-IrVJsIM/s320/20091101-tracklog.jpg | 20091101.gpx | Tracklog in Google Earth
@@ -28,7 +28,7 @@ Redtrails is based on the trail maps compiled by [Northwest Trails](http://switc
 
 ### [EveryTrail](http://www.everytrail.com/)
 
-EveryTrail is a Web 2.0-ish site where you can share a trip by uploading a tracklog and some pictures. Nice site to browse around, but if you are looking for a specific trail, your chances aren't to good (unless it happens to be a major tourist attraction). Requires login to download raw tracklogs.
+EveryTrail is a Web 2.0-ish site where you can share a trip by uploading a tracklog and some pictures. Nice site to browse around, but if you are looking for a specific trail, your chances aren't too good (unless it happens to be a major tourist attraction). Requires login to download raw tracklogs.
 
 ### [Wikiloc](http://www.wikiloc.com/)
 

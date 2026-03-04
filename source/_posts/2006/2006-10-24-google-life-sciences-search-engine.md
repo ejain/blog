@@ -5,7 +5,7 @@ tags:
   - Technology
 ---
 
-Google now allows you to create [custom search engines](http://www.google.com/coop/cse/). I used this to set up a [search engine that searches in well know life sciences sites](http://www.google.com/coop/cse?cx=006535421108032988823%3Aqawq0v20t0e).
+Google now allows you to create [custom search engines](http://www.google.com/coop/cse/). I used this to set up a [search engine that searches in well-known life sciences sites](http://www.google.com/coop/cse?cx=006535421108032988823%3Aqawq0v20t0e).
 
 In most cases normal web searches work fine. But sometimes you have terms that are frequently used in other contexts, e.g. [hedgehog](http://google.com/search?q=hedgehog) or [ada](http://google.com/search?q=ada)...
 

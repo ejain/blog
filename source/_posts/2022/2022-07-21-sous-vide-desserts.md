@@ -4,7 +4,7 @@ tags:
   - Recipe
 ---
 
-Sous vide cooking isn't just [for main courses](/2019/07/17/sous-vide-cooking/), but can also be used to prepare desslighterts. Here are my favorites.
+Sous vide cooking isn't just [for main courses](/2019/07/17/sous-vide-cooking/), but can also be used to prepare desserts. Here are my favorites.
 
 ## Cheese Cake
 
@@ -46,4 +46,4 @@ Process sugar and lemon zest, add cream cheese and process. Add eggs, cream, lem
 - ¼ tsp fresh ginger
 - ¼ tsp salt
 
-Spread the rice across several containers. Mix the remaing ingredients, and fill the containers. Cook for 70 minutes at 92°C. Let cool down and refrigerate for a couple of hours.
+Spread the rice across several containers. Mix the remaining ingredients, and fill the containers. Cook for 70 minutes at 92°C. Let cool down and refrigerate for a couple of hours.

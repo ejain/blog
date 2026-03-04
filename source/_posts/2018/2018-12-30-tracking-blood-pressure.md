@@ -16,7 +16,7 @@ To take my own blood pressure readings, I bought a [Greater Goods blood pressure
 
 Every morning for just over two months, after getting up and going through my usual morning routine (but before having breakfast), I took three consecutive blood pressure readings, about one minute apart.
 
-On a few days I took additional readings to investigate factors that are know to influence blood pressure, and that might help explain the occasional, higher readings at the doctor's office.
+On a few days I took additional readings to investigate factors that are known to influence blood pressure, and that might help explain the occasional, higher readings at the doctor's office.
 
 To verify the accuracy of the blood pressure monitor, I brought the monitor to my next physical exam, where I took a single reading right after the physician's assistant had taken a reading with their more expensive device. The values matched almost exactly.
 

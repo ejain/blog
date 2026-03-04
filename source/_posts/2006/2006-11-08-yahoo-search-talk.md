@@ -16,13 +16,13 @@ Most searches are done in order to a. find specific information, b. look for a p
 
 There seems to be some confusion between the search field and the browser's address bar.
 
-Experts start out searching similar to novices, but have more strategies to fall back to if the search is unsuccesful.
+Experts start out searching similar to novices, but have more strategies to fall back to if the search is unsuccessful.
 
 Page authors use different words when talking about the same thing. Making use of the anchor text people use to link to a page is a partial solution.
 
 People are better at recognition than recall. They may have trouble formulating what they want, but can easily recognize and click on a link with an appropriate suggestion.
 
-Web search is hard because it's hard to know what people want and the data is heterogenous.
+Web search is hard because it's hard to know what people want and the data is heterogeneous.
 
 Searching can be frustrating because you don't know if you didn't find anything because there isn't anything, or because the query wasn't done properly.
 

@@ -9,7 +9,7 @@ tags:
 
 ### Day 1
 
-Eleven hour flight from Paris. Arrival around midnight. The airport is pretty crowded, even though no other flights have arrived or are leaving. Taxi to the city, half an hour, empty streets. The hotel I had called the week before to make a reservation is closed, or at least I can't get anyone to let me in, despite some shouting and banging on the door. After trying a few more places I am glad to finally get stay at the hotel Raphia, which turns out to be an excellent choice anyways.
+Eleven hour flight from Paris. Arrival around midnight. The airport is pretty crowded, even though no other flights have arrived or are leaving. Taxi to the city, half an hour, empty streets. The hotel I had called the week before to make a reservation is closed, or at least I can't get anyone to let me in, despite some shouting and banging on the door. After trying a few more places I am glad to finally get to stay at the hotel Raphia, which turns out to be an excellent choice anyways.
 
 While Antananarivo doesn't have any major tourist attractions it is an interesting place to wander around a bit, provided you don't mind crowds, dust, holes in the sidewalk, beggars and chaotic traffic.
 
@@ -28,7 +28,7 @@ thumbnails/4-10.jpg | images/4-10.jpg | One of the few street lights in the city
 
 Taxi-brousse to Antsirabe. Taxi-brousse are private cars and minibuses operating on a non-fixed schedule, and due to the lack of alternatives the main form of transport. Arrival around lunch.
 
-Antsirabe used to be a classy colonial retreat, though nowadays all I notice are the somewhat to many pousse-pousse, small rickshaws. Lots of tourists, nearly all of them from Madagascar.
+Antsirabe used to be a classy colonial retreat, though nowadays all I notice are the somewhat too many pousse-pousse, small rickshaws. Lots of tourists, nearly all of them from Madagascar.
 
 {% gallery %}
 thumbnails/1-07.jpg | images/1-07.jpg | A pousse-pousse, from a safe distance.
@@ -113,7 +113,7 @@ thumbnails/2-27.jpg | images/2-27.jpg | Sunset in Mananjary.
 
 ### Day 11
 
-Twelve hour journey abourd a two by ten meter motor-powered pirogue, along with a dozen bags of salt, some chickens, people, all kinds of baggage, mail and various other things.
+Twelve hour journey aboard a two by ten meter motor-powered pirogue, along with a dozen bags of salt, some chickens, people, all kinds of baggage, mail and various other things.
 
 In Nosy Varika I'm pointed to the nearest (and only) hotel, La Petite Oasis, which has a few simple bungalows.
 
@@ -141,7 +141,7 @@ thumbnails/3-07.jpg | images/3-07.jpg | Leaving Nosy Varika.
 thumbnails/3-08.jpg | images/3-08.jpg |
 thumbnails/3-09.jpg | images/3-09.jpg |
 thumbnails/3-10.jpg | images/3-10.jpg |
-thumbnails/3-11.jpg | images/3-11.jpg | One of the dryier parts along the way.
+thumbnails/3-11.jpg | images/3-11.jpg | One of the drier parts along the way.
 thumbnails/3-13.jpg | images/3-13.jpg |
 thumbnails/3-14.jpg | images/3-14.jpg |
 thumbnails/3-15.jpg | images/3-15.jpg | A single zebu.
@@ -219,6 +219,6 @@ thumbnails/4-13.jpg | images/4-13.jpg | A chameleon.
 thumbnails/4-15.jpg | images/4-15.jpg | Crocodiles.
 thumbnails/4-16.jpg | images/4-16.jpg | Leguans.
 thumbnails/4-26.jpg | images/4-26.jpg |
-thumbnails/4-25.jpg | images/4-25.jpg | Fields outside Anatananarivo.
+thumbnails/4-25.jpg | images/4-25.jpg | Fields outside Antananarivo.
 thumbnails/4-29.jpg | images/4-29.jpg | Road to one of the villages surrounding the city.
 {% endgallery %}

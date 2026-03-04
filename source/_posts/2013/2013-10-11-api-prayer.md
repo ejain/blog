@@ -15,7 +15,7 @@ tags:
 >
 > in the sandbox, as well as in production.
 >
-> Give us this day out daily stats,
+> Give us this day our daily stats,
 >
 > and forgive us our outdated docs,
 >

@@ -4,7 +4,7 @@ tags:
   - Recipe
 ---
 
-A fancy-looking desert that is quick and simple to prepare... Serves 4.
+A fancy-looking dessert that is quick and simple to prepare... Serves 4.
 
 ![](panna-cotta.jpg)
 
@@ -21,4 +21,4 @@ For the raspberry coulis topping:
 - 1 cup frozen raspberries
 - ¼ cup sugar
 
-Disolve the sugar in 1 tbsp of hot water. Combine with raspberries and blend briefly (long enough to crush the raspberries, but not long enough to pulverize the seeds). Strain through a narrow sieve. Layer on top of the panna cotta before serving.
+Dissolve the sugar in 1 tbsp of hot water. Combine with raspberries and blend briefly (long enough to crush the raspberries, but not long enough to pulverize the seeds). Strain through a narrow sieve. Layer on top of the panna cotta before serving.

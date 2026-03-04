@@ -9,7 +9,7 @@ Got a Thinkpad T431s to replace my 3-year old T410s. Here are some random observ
 
 ![T431s](T431s.jpg)
 
-The T431s feels much lighter than the T410s. The screen is a bit smaller (still 14", but more elongated), and the T431s lacks a DVD reader/writer, but I won't miss that to much. On the other hand I find the fingerprint reader (not faster than typing, but less awkward when typing in front of other people) and the memory card reader (can transfer pictures from a camera fast and without having to search for the right cable) quite useful.
+The T431s feels much lighter than the T410s. The screen is a bit smaller (still 14", but more elongated), and the T431s lacks a DVD reader/writer, but I won't miss that too much. On the other hand I find the fingerprint reader (not faster than typing, but less awkward when typing in front of other people) and the memory card reader (can transfer pictures from a camera fast and without having to search for the right cable) quite useful.
 
 I like the backlit keyboard better than the light on the previous models. I'm less happy about the random placement of the Home/End/PgUp/PgDn keys, which I use a lot. I wouldn't mind if I could at least map Fn+Up to PgUp, Fn+Left to Home etc, but this does not appear to be possible (tried with KeyTweak). I also use the F keys a lot; these are now by default used to control volume, brightness etc. There is a FnLk, but that has to be reset after waking up from standby.
 
