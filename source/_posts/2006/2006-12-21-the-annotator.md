@@ -2,7 +2,7 @@
 title: The Annotator
 tags:
   - Humor
-  - Life Sciences
+  - Science
 ---
 
 Fake ad for an "annotation robot" that could be used to replace human database curators. Shown at the Christmas dinner of the [Swiss-Prot group](http://expasy.org/people/swissprot.html).

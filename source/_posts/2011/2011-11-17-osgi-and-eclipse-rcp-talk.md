@@ -1,7 +1,6 @@
 ---
 title: OSGi and Eclipse RCP Talk
 tags:
-  - Life Sciences
   - Technology
 ---
 

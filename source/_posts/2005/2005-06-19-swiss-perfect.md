@@ -2,7 +2,7 @@
 title: Swiss-Perfect
 tags:
   - Humor
-  - Life Sciences
+  - Science
   - Technology
 ---
 

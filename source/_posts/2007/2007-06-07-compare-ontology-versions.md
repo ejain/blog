@@ -1,7 +1,7 @@
 ---
 title: Compare Ontology Versions
 tags:
-  - Semantic Web
+  - Technology
 ---
 
 There is a rather useful (but perhaps somewhat hidden) plug-in for [Protege](http://protege.stanford.edu/) that can be used to compare two versions of an OWL file: [PROMPT](http://protege.cim3.net/cgi-bin/wiki.pl?Prompt).

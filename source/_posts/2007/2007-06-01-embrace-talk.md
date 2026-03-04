@@ -1,7 +1,7 @@
 ---
 title: EMBRACE Talk
 tags:
-  - Life Sciences
+  - Science
   - Technology
 ---
 

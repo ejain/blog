@@ -1,7 +1,7 @@
 ---
 title: Google Life Sciences Search Engine
 tags:
-  - Life Sciences
+  - Science
   - Technology
 ---
 

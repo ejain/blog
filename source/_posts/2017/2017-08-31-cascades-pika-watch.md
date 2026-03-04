@@ -1,5 +1,7 @@
 ---
 title: Cascades Pika Watch
+tags:
+  - Science
 ---
 
 ![Pika near Cascade Pass](https://lh3.googleusercontent.com/4XyTyp9VJA4WAJbNn493W1XV3SFMqzUVvEymWOWnaM9lxmtJOJ7-Jr6xDcKNMeUpyzV-xM7TRBUYsv0g8yfryLIzEOGzQAiB711meqDkH5ZXSpaxjn60W63SxG7R9_219YDNKlzTDA=w1022-h767-no)

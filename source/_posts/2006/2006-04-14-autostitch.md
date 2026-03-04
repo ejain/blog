@@ -1,5 +1,7 @@
 ---
 title: AutoStitch
+tags:
+  - Technology
 ---
 
 Just discovered [AutoStitch](http://www.autostitch.net/). AutoStitch is an amazing piece of software that assembles a set of images into a single panorama image. This is of course not the first software of this kind. But AutoStitch may be the first that just works (no manual editing of the image overlaps is required) and produces good output even if the source images weren't shot very carefully and differ in brightness and coloring. Perfect for lazy people like me who use a point-and-shoot camera and couldn't be bothered to spend a lot of time patching up images.

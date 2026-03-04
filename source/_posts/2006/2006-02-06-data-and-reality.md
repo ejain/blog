@@ -2,7 +2,7 @@
 title: Data and Reality
 tags:
   - Reviews
-  - Semantic Web
+  - Technology
 ---
 
 Brief review of [Data and Reality](http://www.amazon.com/gp/product/1585009709) by William Kent. This book was written in 1978, but is still remarkably relevant in many ways.

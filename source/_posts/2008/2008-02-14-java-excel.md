@@ -1,6 +1,6 @@
 ---
 title: Using Java to Read Excel Files
-categories:
+tags:
   - Technology
 ---
 

@@ -2,7 +2,6 @@
 title: N-Triple Converter Comparison
 tags:
   - Technology
-  - Semantic Web
 ---
 
 In order to bulk-load RDF data into Oracle (Spatial) 11g, the data needs to be converted to [N-Triples](http://www.w3.org/2001/sw/RDFCore/ntriples/) first. If the data set is large, this step can add quite a bit of overhead, which is why I decided to benchmark and compare several options.

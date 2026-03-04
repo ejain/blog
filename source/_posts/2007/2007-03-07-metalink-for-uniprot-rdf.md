@@ -1,9 +1,8 @@
 ---
 title: Metalink for UniProt RDF
 tags:
-  - Life Sciences
+  - Science
   - Technology
-  - Semantic Web
 ---
 
 The [UniProt RDF](http://dev.isb-sib.ch/projects/uniprot-rdf/) distribution is over 5GB large. To help people retrieve the data more efficiently, we now mirror the data and provide a [Metalink](ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/rdf/RELEASE.metalink) file that describes all the file locations.

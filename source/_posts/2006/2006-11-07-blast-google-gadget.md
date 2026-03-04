@@ -1,7 +1,7 @@
 ---
 title: Blast Google Gadget
 tags:
-  - Life Sciences
+  - Science
   - Technology
 ---
 

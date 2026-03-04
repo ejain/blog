@@ -2,7 +2,7 @@
 title: 'Google "Subscribed Links" for Enzyme Database'
 date: 2006-05-17T18:17:15+00:00
 tags:
-  - Life Sciences
+  - Science
   - Technology
 ---
 
