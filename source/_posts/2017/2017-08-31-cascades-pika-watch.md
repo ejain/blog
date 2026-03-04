@@ -4,7 +4,7 @@ tags:
   - Science
 ---
 
-![Pika near Cascade Pass](https://lh3.googleusercontent.com/4XyTyp9VJA4WAJbNn493W1XV3SFMqzUVvEymWOWnaM9lxmtJOJ7-Jr6xDcKNMeUpyzV-xM7TRBUYsv0g8yfryLIzEOGzQAiB711meqDkH5ZXSpaxjn60W63SxG7R9_219YDNKlzTDA=w1022-h767-no)
+![Pika near Cascade Pass](pika.jpg)
 
 This summer we participated in a "citizen science" project that has us report any signs of [Pikas](https://en.wikipedia.org/wiki/American_pika) we came across while hiking.
 
