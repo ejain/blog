@@ -1,0 +1,79 @@
+<style>
+.leaflet-popup-content-wrapper, .leaflet-popup-tip { box-sizing: content-box; }
+.leaflet-popup-content { margin: 13px 19px; line-height: 1.4; font-size: 13px; min-height: 1px; }
+.leaflet-popup-content img { max-width: none; }
+.leaflet-container a.leaflet-popup-close-button { padding: 4px 4px 0 0; }
+</style>
+<div id="{{ mapId }}" style="width:100%; height:{{ height }}px;"></div>
+<script>
+(function() {
+  function init() {
+    var colors = {
+      'Scenic Area':'#2ecc71','Hike':'#27ae60','Lodging':'#3498db',
+      'Museum':'#9b59b6','Airport':'#95a5a6','Car Rental':'#e67e22',
+      'Zoo':'#f39c12','Dock':'#1abc9c','Ghost Town':'#7f8c8d'
+    };
+    var map = L.map('{{ mapId }}').setView([{{ center[0] }}, {{ center[1] }}], {{ zoom }});
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+      maxZoom: 19,
+      attribution: '&copy; <a href="https://openstreetmap.org">OpenStreetMap</a> contributors, &copy; <a href="https://carto.com/">CARTO</a>'
+    }).addTo(map);
+    fetch('{{ geojsonUrl }}')
+      .then(function(r) { return r.json(); })
+      .then(function(data) {
+        L.geoJSON(data, {
+          style: function(feature) {
+            if (feature.geometry.type === 'Point') return;
+            return { color: feature.properties.color || '#575757', weight: 5, opacity: 0.9 };
+          },
+          pointToLayer: function(feature, latlng) {
+            var p = feature.properties;
+            var c = colors[p.waypointType] || '#e74c3c';
+            return L.circleMarker(latlng, { radius: 7, fillColor: c, color: '#fff', weight: 2, fillOpacity: 0.9 });
+          },
+          onEachFeature: function(feature, layer) {
+            if (feature.geometry.type !== 'Point') return;
+            var p = feature.properties;
+            var c = colors[p.waypointType] || '#e74c3c';
+            var html = '<b>' + p.name + '</b><br><span style="color:' + c + '">' + p.waypointType + '</span>';
+            if (p.desc) html += '<br>' + p.desc;
+            if (p.photo && p.url) html += '<br><a href="' + p.url + '" target="_blank"><img src="' + p.photo + '" width="160" height="160" style="margin-top:4px" onerror="this.style.display=\'none\'"></a>';
+            else if (p.url) html += '<br><a href="' + p.url + '" target="_blank">Photos</a>';
+            layer.bindPopup(html);
+          }
+        }).addTo(map);
+        var labels = {};
+        data.features.forEach(function(f) {
+          if (f.properties.label && f.properties.color) labels[f.properties.label] = f.properties.color;
+        });
+        var keys = Object.keys(labels);
+        if (keys.length > 1) {
+          var legend = L.control({ position: 'bottomright' });
+          legend.onAdd = function() {
+            var div = L.DomUtil.create('div');
+            div.style.cssText = 'background:white; padding:8px 12px; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,.3); font-size:13px; line-height:1.8';
+            keys.forEach(function(k) {
+              div.innerHTML += '<span style="display:inline-block;width:12px;height:12px;border-radius:2px;background:' + labels[k] + ';margin-right:6px;vertical-align:middle"></span>' + k + '<br>';
+            });
+            return div;
+          };
+          legend.addTo(map);
+        }
+      });
+  }
+  if (!window._leafletReady) {
+    window._leafletReady = new Promise(function(resolve) {
+      if (typeof L !== 'undefined') { resolve(); return; }
+      var css = document.createElement('link');
+      css.rel = 'stylesheet';
+      css.href = 'https://unpkg.com/leaflet@1.9/dist/leaflet.css';
+      document.head.appendChild(css);
+      var js = document.createElement('script');
+      js.src = 'https://unpkg.com/leaflet@1.9/dist/leaflet.js';
+      js.onload = resolve;
+      document.head.appendChild(js);
+    });
+  }
+  window._leafletReady.then(init);
+})();
+</script>
