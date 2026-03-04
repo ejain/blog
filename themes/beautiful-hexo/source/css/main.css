@@ -41,11 +41,11 @@ hr.small {
 }
 
 .main-content {
-  padding-top: 80px;
+  padding-top: 60px;
 }
 @media only screen and (min-width: 768px) {
   .main-content {
-    padding-top: 130px;
+    padding-top: 70px;
   }
 }
 
@@ -110,6 +110,19 @@ img {
 .navbar-custom .nav li a {
   /*font-weight: 800;*/
   color: #404040;
+}
+
+.navbar-tag {
+  color: #404040;
+  float: left;
+  padding: 15px 0;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+.navbar-sep {
+  margin: 0 6px 0 2px;
+  color: #ccc;
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -490,4 +503,44 @@ pre:has(code.hljs) {
 .highlight table td {
   border: none;
   background: none;
+}
+
+/* --- Archive --- */
+
+.archive-list {
+  margin-top: 50px;
+}
+
+
+/* --- Archive Grid --- */
+
+.archive-group {
+  display: grid;
+  grid-template-columns: 50px 1fr;
+  gap: 0 16px;
+  margin-bottom: 8px;
+}
+
+.archive-year {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 800;
+  font-size: 16px;
+  color: #404040;
+  padding-top: 2px;
+}
+
+.archive-posts {
+  display: flex;
+  flex-direction: column;
+}
+
+.archive-posts .post-title {
+  display: block;
+  padding: 2px 0;
+  color: #008AFF;
+  text-decoration: none;
+}
+
+.archive-posts .post-title:hover {
+  color: #0085a1;
 }
