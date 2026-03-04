@@ -74,32 +74,37 @@ footer:
   rss:
     link: '/atom.xml'
     title: RSS
-    icon: fa-rss
+    icon: fas fa-rss
     enable: false
   mail:
     link: 'mailto:eric.jain@gmail.com'
     title: Email me
-    icon: fa-envelope
+    icon: fas fa-envelope
     enable: false
   linkedin:
     link: https://www.linkedin.com/in/ejain
     title: LinkedIn
-    icon: fa-linkedin
+    icon: fab fa-linkedin
     enable: true
   github:
     link: 'https://github.com/ejain'
     title: GitHub
-    icon: fa-github
+    icon: fab fa-github
     enable: true
   inaturalist:
     link: 'https://www.inaturalist.org/observations?place_id=any&user_id=ejain'
     title: iNaturalist
-    icon: fa-leaf
+    icon: fas fa-leaf
     enable: true
   openstreetmap:
     link: 'https://www.openstreetmap.org/user/ejain'
     title: OpenStreetMap
-    icon: fa-map
+    icon: fas fa-map
+    enable: true
+  peakbagger:
+    link: 'https://peakbagger.com/climber/climber.aspx?cid=50528'
+    title: Peakbagger
+    icon: fas fa-mountain
     enable: true
 
 google_analytics: G-D3H6C6BYS1
