@@ -482,6 +482,11 @@ table tr td :last-child {
 .gallery .thumbnail {
   border: none;
   padding-top: 13px;
+  transition: background-color 0.2s ease;
+}
+
+.gallery .thumbnail:hover {
+  background-color: #f5f5f5;
 }
 
 .gallery .thumbnail img {
