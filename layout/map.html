@@ -4,7 +4,7 @@
 .leaflet-popup-content img { max-width: none; }
 .leaflet-container a.leaflet-popup-close-button { padding: 4px 4px 0 0; }
 </style>
-<div id="{{ mapId }}" style="width:100%; height:{{ height }}px;"></div>
+<div style="padding-bottom:20px;"><div id="{{ mapId }}" style="width:100%; height:{{ height }}px;"></div></div>
 <script>
 (function() {
   function init() {
@@ -28,17 +28,18 @@
           },
           pointToLayer: function(feature, latlng) {
             var p = feature.properties;
-            var c = colors[p.waypointType] || '#e74c3c';
+            var c = colors[p.waypointType] || '#e67e22';
             return L.circleMarker(latlng, { radius: 7, fillColor: c, color: '#fff', weight: 2, fillOpacity: 0.9 });
           },
           onEachFeature: function(feature, layer) {
             if (feature.geometry.type !== 'Point') return;
             var p = feature.properties;
-            var c = colors[p.waypointType] || '#e74c3c';
-            var html = '<b>' + p.name + '</b><br><span style="color:' + c + '">' + p.waypointType + '</span>';
+            var c = colors[p.waypointType] || '#e67e22';
+            var name = p.url ? '<a href="' + p.url + '" target="_blank">' + p.name + '</a>' : p.name;
+            var html = '<b>' + name + '</b>';
+            if (p.waypointType) html += '<br><span style="color:' + c + '">' + p.waypointType + '</span>';
             if (p.desc) html += '<br>' + p.desc;
             if (p.photo && p.url) html += '<br><a href="' + p.url + '" target="_blank"><img src="' + p.photo + '" width="160" height="160" style="margin-top:4px" onerror="this.style.display=\'none\'"></a>';
-            else if (p.url) html += '<br><a href="' + p.url + '" target="_blank">Photos</a>';
             layer.bindPopup(html);
           }
         }).addTo(map);
